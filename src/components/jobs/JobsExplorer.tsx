@@ -56,7 +56,7 @@ const FILTER_OPTIONS: Array<{ id: JobCategory; label: string; icon?: any }> = [
   { id: "intern", label: "Internships" },
   { id: "new_grad", label: "New Grad" },
   { id: "saved", label: "Saved" },
-  { id: "doom", label: "Doom Scroll", icon: Flame },
+  { id: "doom", label: "Scroll" },
 ];
 
 function getTitleForFilter(filter: JobCategory): string {
@@ -315,7 +315,7 @@ export function JobsExplorer() {
   if (filter === "doom") {
     return (
       <div className="fixed inset-0 z-[999] bg-background flex flex-col overflow-hidden select-none">
-        <div className="flex-1 relative flex flex-col items-center justify-center px-6 overflow-hidden mt-8 pt-16 pb-12">
+        <div className="flex-1 relative flex flex-col items-center justify-center px-6 overflow-hidden mt-4 pt-16 pb-12">
           {!doomPreference ? (
              <div className="w-full max-w-sm flex flex-col gap-8 animate-in fade-in zoom-in duration-500">
                 <div className="text-center space-y-2">
