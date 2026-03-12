@@ -288,11 +288,14 @@ function HomeScreen() {
 
               <div className="flex flex-wrap items-center gap-3">
                 <Button
+                  asChild
                   variant="default"
                   className="px-4 py-3 text-md font-semibold bg-white text-background hover:bg-gray-100"
                 >
-                  Start Now
-                  <ArrowRight className="ml-2 h-5 w-5" />
+                  <Link to="/jobs">
+                    Start Now
+                    <ArrowRight className="ml-2 h-5 w-5" />
+                  </Link>
                 </Button>
               </div>
             </div>
