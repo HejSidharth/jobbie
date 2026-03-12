@@ -391,7 +391,7 @@ export function JobsExplorer() {
 
               {/* Action Bar */}
               {filteredJobs.length > 0 && (
-                <div className="absolute bottom-12 left-1/2 -translate-x-1/2 flex items-center gap-8 z-[110]">
+                <div className="absolute bottom-6 left-1/2 -translate-x-1/2 flex items-center gap-8 z-[110]">
                    <button 
                     onClick={() => {
                       const topJob = filteredJobs[0];
