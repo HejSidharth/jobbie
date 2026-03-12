@@ -1,0 +1,273 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Geist Pixel";
+  src: url("/fonts/GeistPixel-Square.woff2") format("woff2");
+  font-display: swap;
+}
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  * {
+    scrollbar-color: #1A1A1A;
+  }
+
+  html {
+    font-family: "Geist Pixel", monospace;
+    margin: 0;
+    min-height: 100%;
+    scrollbar-width: thin; /* Thin scrollbar */
+    scrollbar-color: #1A1A1A #1A1A1A; /* Set track color as well */
+  }
+
+  body,
+  #root {
+    margin: 0;
+    min-height: 100%;
+  }
+
+
+
+  
+
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 240 10% 3.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 3.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 3.9%;
+
+    --primary: 240 5.9% 10%;
+    --primary-foreground: 0 0% 98%;
+
+    --secondary: 240 4.8% 95.9%;
+    --secondary-foreground: 240 5.9% 10%;
+
+    --muted: 240 4.8% 95.9%;
+    --muted-foreground: 240 3.8% 46.1%;
+
+    --accent: 240 4.8% 95.9%;
+    --accent-foreground: 240 5.9% 10%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 240 5.9% 90%;
+    --input: 240 5.9% 90%;
+    --ring: 240 10% 3.9%;
+
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 0 0% 10%;
+    --foreground: 0 0% 89.8%;
+
+    --card: 0 0% 10%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 0 0% 10%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+
+    --accent: 240 3.7% 15.9%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 240 4.9% 83.9%;
+  }
+
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.portfolio-preview-surface {
+  font-family: Inter, system-ui, sans-serif;
+}
+
+.portfolio-preview-surface .font-inter {
+  font-family: Inter, system-ui, sans-serif !important;
+}
+
+.portfolio-preview-surface .font-newsreader {
+  font-family: Newsreader, Georgia, serif !important;
+}
+
+/* High Contrast Mode */
+.high-contrast {
+  --background: 0 0% 0% !important;
+  --foreground: 0 0% 100% !important;
+  --muted: 0 0% 20% !important;
+  --muted-foreground: 0 0% 100% !important;
+  --border: 0 0% 100% !important;
+  --accent: 0 0% 100% !important;
+  --accent-foreground: 0 0% 0% !important;
+}
+
+.high-contrast * {
+  border-color: white !important;
+}
+
+.high-contrast .bg-muted\/50:hover {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Customize the scrollbar for WebKit browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+  width: 12px; /* Width of the scrollbar */
+  height: 12px; /* Height of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: #ffffff; /* Background of the scrollbar track */
+  border-radius: 10px; /* Rounded corners for the track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1A1A1A; /* Color of the scrollbar thumb */
+  border-radius: 10px; /* Rounded corners for the thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555; /* Color of the scrollbar thumb on hover */
+}
+
+/* Customize the scrollbar for Firefox */
+html {
+  scrollbar-width: thin; /* Thin scrollbar */
+  scrollbar-color: #525252 #1a1a1a; /* Color of the scrollbar thumb and track */
+}
+
+@layer components {
+  .builder-sidebar {
+    @apply rounded-lg border bg-card text-card-foreground shadow-sm p-6;
+  }
+
+  .builder-nav {
+    @apply mt-6 grid gap-2;
+  }
+
+  .builder-nav button {
+    @apply rounded-lg border bg-card px-3 py-3 text-left text-sm transition-colors hover:text-yellow-500;
+  }
+
+  .builder-nav button.is-active {
+    @apply text-yellow-500;
+  }
+
+  .editor-stack {
+    @apply grid min-w-0 max-w-full gap-4;
+  }
+
+  .field {
+    @apply grid min-w-0 max-w-full gap-2;
+  }
+
+  .field span {
+    @apply text-sm text-muted-foreground;
+  }
+
+  .field input,
+  .field textarea,
+  .field select,
+  .fetch-row input,
+  .preview-controls select {
+    @apply w-full min-w-0 max-w-full rounded-lg border bg-muted px-3 py-2 text-foreground;
+  }
+
+  .field textarea {
+    @apply min-h-[120px];
+  }
+
+  .secondary-button {
+    @apply rounded-lg border bg-card px-3 py-2 text-sm transition-colors hover:text-yellow-500;
+  }
+
+  .primary-button {
+    @apply rounded-lg border bg-card px-3 py-2 text-sm font-medium transition-colors hover:text-yellow-500;
+  }
+
+  .editor-card,
+  .nested-card,
+  .callout,
+  .validation-list {
+    @apply min-w-0 max-w-full overflow-hidden rounded-lg border bg-card p-4;
+  }
+
+  .editor-card-header {
+    @apply mb-3;
+  }
+
+  .checkbox-row {
+    @apply flex items-center gap-2 text-sm;
+  }
+
+  .nested-actions,
+  .fetch-row,
+  .preview-controls {
+    @apply flex min-w-0 max-w-full flex-wrap items-center gap-3;
+  }
+
+  .inline-status,
+  .muted {
+    @apply text-sm text-muted-foreground;
+  }
+
+  .asset-grid {
+    @apply grid min-w-0 max-w-full gap-3;
+  }
+
+  .asset-card {
+    @apply grid min-w-0 max-w-full grid-cols-[72px_minmax(0,1fr)] gap-3 rounded-lg border bg-card p-3;
+  }
+
+  .asset-card img {
+    @apply h-[72px] w-[72px] rounded-lg object-cover bg-background;
+  }
+
+  .text-button {
+    @apply text-sm text-yellow-500 hover:underline;
+  }
+
+  .validation-list.error {
+    @apply border-red-500/40;
+  }
+
+  .validation-list.warning {
+    @apply border-yellow-500/40;
+  }
+
+  .preview-controls button {
+    @apply rounded-full border bg-background px-4 py-2 text-sm text-muted-foreground transition-colors hover:text-yellow-500;
+  }
+
+  .preview-controls .is-active {
+    @apply text-foreground;
+  }
+}

@@ -1,0 +1,505 @@
+:root {
+  font-family: "Geist Pixel", monospace;
+  color: hsl(0 0% 89.8%);
+  background: hsl(0 0% 10%);
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  background: hsl(0 0% 10%);
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+a {
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.builder-page {
+  min-height: 100vh;
+}
+
+.builder-topbar {
+  height: 80px;
+  position: sticky;
+  top: 0;
+  background: linear-gradient(to bottom, hsl(0 0% 10%), transparent);
+  z-index: 1;
+}
+
+.builder-container {
+  display: grid;
+  gap: 24px;
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 0 1.5rem 6rem;
+}
+
+.builder-intro {
+  display: grid;
+  gap: 12px;
+}
+
+.workspace-grid {
+  display: grid;
+  grid-template-columns: 240px minmax(0, 1fr);
+  gap: 24px;
+}
+
+.panel {
+  border: 1px solid hsl(240 3.7% 15.9%);
+  background: hsl(0 0% 10%);
+  border-radius: 0.75rem;
+  min-width: 0;
+  padding: 1.5rem;
+}
+
+.builder-sidebar {
+  align-self: start;
+  position: sticky;
+  top: 96px;
+}
+
+.panel-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: flex-start;
+  margin-bottom: 18px;
+}
+
+.panel-kicker {
+  margin: 0 0 6px;
+  color: hsl(240 5% 64.9%);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.75rem;
+}
+
+.builder-sidebar h2,
+.panel-header h2 {
+  margin: 0;
+  font-size: 1.125rem;
+  line-height: 1.3;
+  font-weight: 700;
+}
+
+.builder-nav {
+  display: grid;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.builder-nav button,
+.preview-controls button,
+.secondary-button,
+.primary-button,
+.text-button {
+  border: 1px solid hsl(240 3.7% 15.9%);
+  background: hsl(240 3.7% 15.9%);
+  color: inherit;
+  border-radius: 0.75rem;
+  cursor: pointer;
+  transition: color 0.16s ease, border-color 0.16s ease, background 0.16s ease;
+}
+
+.builder-nav button,
+.preview-controls button {
+  text-align: left;
+  padding: 12px 14px;
+}
+
+.builder-nav button:hover,
+.preview-controls button:hover,
+.secondary-button:hover,
+.primary-button:hover,
+.text-button:hover {
+  color: #f59e0b;
+  border-color: #f59e0b;
+}
+
+.builder-nav button.is-active,
+.preview-controls .is-active {
+  color: #f59e0b;
+  border-color: #f59e0b;
+}
+
+.editor-panel,
+.preview-panel {
+  min-width: 0;
+}
+
+.editor-stack {
+  overflow: auto;
+  padding-right: 6px;
+  display: grid;
+  gap: 16px;
+}
+
+.field {
+  display: grid;
+  gap: 8px;
+}
+
+.field span {
+  color: #cbd5e1;
+  font-size: 0.94rem;
+}
+
+.field input,
+.field textarea,
+.field select,
+.fetch-row input,
+.preview-controls select {
+  width: 100%;
+  border-radius: 0.75rem;
+  border: 1px solid hsl(240 3.7% 15.9%);
+  background: hsl(240 3.7% 15.9%);
+  color: inherit;
+  padding: 12px 14px;
+}
+
+.field textarea {
+  min-height: 110px;
+  resize: vertical;
+}
+
+.editor-actions {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.secondary-button,
+.primary-button,
+.text-button {
+  padding: 10px 14px;
+}
+
+.primary-button {
+  background: hsl(240 3.7% 15.9%);
+  color: inherit;
+  font-weight: 600;
+}
+
+.text-button {
+  background: transparent;
+  padding-left: 0;
+  padding-right: 0;
+  border: 0;
+  color: #f59e0b;
+}
+
+.editor-card,
+.nested-card,
+.callout,
+.validation-list {
+  border: 1px solid hsl(240 3.7% 15.9%);
+  border-radius: 0.75rem;
+  background: hsl(240 3.7% 15.9%);
+  padding: 16px;
+}
+
+.editor-card-header {
+  margin-bottom: 12px;
+}
+
+.callout {
+  background: hsl(240 3.7% 15.9%);
+}
+
+.callout p,
+.muted,
+.inline-status {
+  color: hsl(240 5% 64.9%);
+}
+
+.checkbox-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.checkbox-row input {
+  width: 18px;
+  height: 18px;
+}
+
+.nested-actions,
+.fetch-row,
+.preview-controls {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.asset-grid {
+  display: grid;
+  gap: 12px;
+}
+
+.asset-card {
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 12px;
+  padding: 12px;
+  border: 1px solid hsl(240 3.7% 15.9%);
+  border-radius: 0.75rem;
+}
+
+.asset-card img {
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: 0.75rem;
+  background: hsl(0 0% 10%);
+}
+
+.validation-list.error {
+  border-color: rgba(239, 68, 68, 0.45);
+}
+
+.validation-list.warning {
+  border-color: rgba(245, 158, 11, 0.45);
+}
+
+.preview-frame {
+  overflow: auto;
+  border-radius: 0.75rem;
+  border: 1px solid hsl(240 3.7% 15.9%);
+  background: hsl(0 0% 10%);
+  min-height: 0;
+}
+
+.portfolio-shell {
+  min-height: 100%;
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 0 1.5rem 6rem;
+}
+
+.portfolio-topbar {
+  height: 72px;
+  position: sticky;
+  top: 0;
+  background: linear-gradient(to bottom, hsl(0 0% 10%), transparent);
+}
+
+.portfolio-content,
+.portfolio-stack {
+  display: grid;
+  gap: 16px;
+}
+
+.portfolio-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.portfolio-name,
+.portfolio-button-link {
+  border: 0;
+  background: transparent;
+  color: inherit;
+  padding: 0;
+  cursor: pointer;
+  text-align: left;
+}
+
+.portfolio-name {
+  font-size: 1.125rem;
+  font-weight: 700;
+  width: fit-content;
+  border-bottom: 2px solid transparent;
+}
+
+.portfolio-name:hover,
+.portfolio-button-link:hover {
+  border-color: #f59e0b;
+  color: #f59e0b;
+}
+
+.portfolio-avatar {
+  width: 104px;
+  height: 104px;
+  position: relative;
+  border-radius: 999px;
+  overflow: hidden;
+  border: 2px solid hsl(240 3.7% 15.9%);
+}
+
+.portfolio-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: opacity 0.2s ease;
+}
+
+.portfolio-avatar .avatar-hover {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+}
+
+.portfolio-avatar:hover .avatar-hover {
+  opacity: 1;
+}
+
+.portfolio-avatar:hover .avatar-default {
+  opacity: 0;
+}
+
+.portfolio-section-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: center;
+}
+
+.portfolio-row-card,
+.portfolio-card,
+.portfolio-tech-card {
+  border-radius: 0.75rem;
+  border: 1px solid hsl(240 3.7% 15.9%);
+  background: hsl(240 3.7% 15.9%);
+  padding: 16px;
+}
+
+.portfolio-row-card {
+  display: grid;
+  gap: 8px;
+}
+
+.portfolio-link {
+  text-decoration: none;
+}
+
+.portfolio-summary {
+  color: hsl(0 0% 89.8%);
+  margin: 0;
+}
+
+.portfolio-grid,
+.portfolio-tech-grid {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.portfolio-tech-header,
+.portfolio-company-row,
+.portfolio-actions {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.portfolio-logo,
+.portfolio-tech-icon {
+  width: 38px;
+  height: 38px;
+  border-radius: 999px;
+  object-fit: cover;
+}
+
+.portfolio-tech-icon {
+  border-radius: 12px;
+}
+
+.portfolio-hero-image,
+.portfolio-empty-image {
+  width: 100%;
+  min-height: 220px;
+  border-radius: 0.75rem;
+  border: 1px solid hsl(240 3.7% 15.9%);
+  background: hsl(240 3.7% 15.9%);
+}
+
+.portfolio-empty-image {
+  display: grid;
+  place-items: center;
+  color: hsl(240 5% 64.9%);
+}
+
+.portfolio-dock {
+  position: sticky;
+  bottom: 1rem;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-top: 20px;
+}
+
+.portfolio-dock a,
+.portfolio-dock button,
+.portfolio-dock span {
+  padding: 10px 14px;
+  border-radius: 999px;
+  border: 1px solid hsl(240 3.7% 15.9%);
+  background: hsl(0 0% 10%);
+  text-decoration: none;
+}
+
+.eyebrow {
+  color: hsl(240 5% 64.9%);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+
+@media (max-width: 1180px) {
+  .workspace-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .builder-sidebar {
+    position: static;
+  }
+}
+
+@media (max-width: 760px) {
+  .builder-container {
+    padding: 0 1rem 5rem;
+    gap: 16px;
+  }
+
+  .builder-sidebar,
+  .panel {
+    padding: 16px;
+  }
+
+  .portfolio-header,
+  .portfolio-section-heading {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
