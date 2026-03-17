@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-17T10:18:24-5",
+  "generatedAt": "2026-03-17T10:59:20-5",
   "timezone": "America/Chicago",
   "pageSize": 50,
-  "totalJobs": 5031,
+  "totalJobs": 5026,
   "jobs": [
     {
       "id": "job_72adccad4eab",
@@ -51,6 +51,16 @@
       "role": "Software Engineer 1",
       "location": "Mountain View, CA",
       "applicationUrl": "https://aurora.tech/jobs/8159549002?gh_jid=8159549002",
+      "postedDate": "2026-03-17",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_c2bb4a85b2b5",
+      "category": "intern",
+      "company": "Bandwidth",
+      "role": "Product Management Intern",
+      "location": "Raleigh, NC",
+      "applicationUrl": "https://job-boards.greenhouse.io/bandwidth/jobs/7723925",
       "postedDate": "2026-03-17",
       "isPostedToday": true
     },
@@ -462,7 +472,7 @@
       "location": "Remote in USA",
       "applicationUrl": "https://abcfinancial.wd5.myworkdayjobs.com/abcfinancialservices/job/Remote-United-States/Front-End-Developer-Intern_REQ-1178",
       "postedDate": "2026-03-16",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_216ff8e5a731",
@@ -482,7 +492,7 @@
       "location": "Remote in USA",
       "applicationUrl": "https://abcfinancial.wd5.myworkdayjobs.com/abcfinancialservices/job/Remote-United-States/Product-Intern_REQ-1121",
       "postedDate": "2026-03-16",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_a116515d0719",
@@ -492,7 +502,7 @@
       "location": "Remote in USA",
       "applicationUrl": "https://abcfinancial.wd5.myworkdayjobs.com/abcfinancialservices/job/Remote-United-States/Product-Intern_REQ-1128",
       "postedDate": "2026-03-16",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_9803477f45e5",
@@ -502,7 +512,7 @@
       "location": "Remote in USA",
       "applicationUrl": "https://abcfinancial.wd5.myworkdayjobs.com/abcfinancialservices/job/Remote-United-States/Product-Intern_REQ-1129",
       "postedDate": "2026-03-16",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_c1f1028ba6af",
@@ -512,7 +522,7 @@
       "location": "Frisco, TX",
       "applicationUrl": "https://abcfinancial.wd5.myworkdayjobs.com/abcfinancialservices/job/Dallas-TX/Product-Marketing-Intern_REQ-1184",
       "postedDate": "2026-03-16",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_9328f224c903",
@@ -661,26 +671,6 @@
       "role": "Software Integrity Engineer, Video Apps",
       "location": "Cupertino, California, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/69b9447b56973837413ebde1",
-      "postedDate": "2026-03-16",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_627fc1b3d57c",
-      "category": "new_grad",
-      "company": "Apple",
-      "role": "Software Integrity Engineer, Video Apps",
-      "location": "San Diego, California, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9418f3b74eb1e2c872fbf",
-      "postedDate": "2026-03-16",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_4dca5e1e181d",
-      "category": "new_grad",
-      "company": "Apple",
-      "role": "Software Integrity Engineer, Video Apps",
-      "location": "Culver City, California, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9419806c1ba00c54b542e",
       "postedDate": "2026-03-16",
       "isPostedToday": false
     },
@@ -955,22 +945,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_57ebb2a4e77d",
-      "category": "new_grad",
-      "company": "Charles Schwab",
-      "role": "Associate - Software Development Engineer / NERD Program",
-      "location": "Southlake, TX, US",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b8bd0c56973837413e5cd1",
-      "postedDate": "2026-03-16",
-      "isPostedToday": false
-    },
-    {
       "id": "job_846cd3baed09",
       "category": "new_grad",
       "company": "Charles Schwab",
       "role": "Associate - Software Development Engineer / NERD Program",
       "location": "US-TX-Southlake",
       "applicationUrl": "https://jobright.ai/jobs/info/69b8bcb206c1ba00c54aec6d",
+      "postedDate": "2026-03-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_57ebb2a4e77d",
+      "category": "new_grad",
+      "company": "Charles Schwab",
+      "role": "Associate - Software Development Engineer / NERD Program",
+      "location": "Southlake, TX, US",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b8bd0c56973837413e5cd1",
       "postedDate": "2026-03-16",
       "isPostedToday": false
     },
@@ -1242,7 +1232,7 @@
       "location": "Stoke-on-Trent, UK",
       "applicationUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Controls-Application-Engineering-Intern_R5035278-2",
       "postedDate": "2026-03-16",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_68005d3b37f1",
@@ -1272,7 +1262,7 @@
       "location": "Stoke-on-Trent, UK",
       "applicationUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Software---Systems-Engineering-Intern-2_R5035166-2",
       "postedDate": "2026-03-16",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_eac1afff9dd7",
@@ -1282,7 +1272,7 @@
       "location": "Stoke-on-Trent, UK",
       "applicationUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Software---Systems-Engineering-Intern-1_R5035167-1",
       "postedDate": "2026-03-16",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_83869e5006da",
@@ -1292,7 +1282,7 @@
       "location": "Stoke-on-Trent, UK",
       "applicationUrl": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Software---Systems-Engineering-Intern-1_R5035167-2",
       "postedDate": "2026-03-16",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_a36239ea93dc",
@@ -2055,6 +2045,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_d60679866de5",
+      "category": "new_grad",
+      "company": "Scalence L.L.C.",
+      "role": "Quality Assurance Analyst I",
+      "location": "Ft Worth, TX",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9561c3b74eb1e2c8750db",
+      "postedDate": "2026-03-16",
+      "isPostedToday": false
+    },
+    {
       "id": "job_3c598f88aa39",
       "category": "intern",
       "company": "Sierra Space",
@@ -2575,22 +2575,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_8c45ce4c7ade",
-      "category": "new_grad",
-      "company": "WOOD Federal Solutions",
-      "role": "Software Engineer (entry-level)",
-      "location": "US-MD-Ft. Meade",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9130d06c1ba00c54b29c3",
-      "postedDate": "2026-03-16",
-      "isPostedToday": false
-    },
-    {
       "id": "job_b7aac7d8f099",
       "category": "new_grad",
       "company": "WOOD Federal Solutions",
       "role": "Software Engineer (entry-level)",
       "location": "Ft. Meade, MD, US",
       "applicationUrl": "https://jobright.ai/jobs/info/69b9132d3b74eb1e2c87082b",
+      "postedDate": "2026-03-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_8c45ce4c7ade",
+      "category": "new_grad",
+      "company": "WOOD Federal Solutions",
+      "role": "Software Engineer (entry-level)",
+      "location": "US-MD-Ft. Meade",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9130d06c1ba00c54b29c3",
       "postedDate": "2026-03-16",
       "isPostedToday": false
     },
@@ -3435,22 +3435,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_1b73edc353dc",
-      "category": "new_grad",
-      "company": "Jacobs",
-      "role": "Architect (Data Centers)",
-      "location": "Las Vegas, NV",
-      "applicationUrl": "https://jobright.ai/jobs/info/6945cae5d1953b5d11bec9d0",
-      "postedDate": "2026-03-14",
-      "isPostedToday": false
-    },
-    {
       "id": "job_33f33eead7c4",
       "category": "new_grad",
       "company": "Jacobs",
       "role": "Architect (Data Centers)",
       "location": "Greenville, SC",
       "applicationUrl": "https://jobright.ai/jobs/info/6945e012d1953b5d11bef1e8",
+      "postedDate": "2026-03-14",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_1b73edc353dc",
+      "category": "new_grad",
+      "company": "Jacobs",
+      "role": "Architect (Data Centers)",
+      "location": "Las Vegas, NV",
+      "applicationUrl": "https://jobright.ai/jobs/info/6945cae5d1953b5d11bec9d0",
       "postedDate": "2026-03-14",
       "isPostedToday": false
     },
@@ -4305,16 +4305,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_d0eed5b4056a",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Fraud)",
-      "location": "Ottawa, Ontario, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6997bb3b81476f6176afdfeb",
-      "postedDate": "2026-03-13",
-      "isPostedToday": false
-    },
-    {
       "id": "job_60d539d0b0d7",
       "category": "new_grad",
       "company": "Affirm",
@@ -4335,22 +4325,32 @@
       "isPostedToday": false
     },
     {
-      "id": "job_63cbcc3fd227",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Fraud)",
-      "location": "Toronto, Ontario, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6997822e81476f6176af9c1a",
-      "postedDate": "2026-03-13",
-      "isPostedToday": false
-    },
-    {
       "id": "job_7e750b30d33a",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Fraud)",
       "location": "Edmonton, Alberta, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/6997875a81476f6176af9e84",
+      "postedDate": "2026-03-13",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_d0eed5b4056a",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Fraud)",
+      "location": "Ottawa, Ontario, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6997bb3b81476f6176afdfeb",
+      "postedDate": "2026-03-13",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_63cbcc3fd227",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Fraud)",
+      "location": "Toronto, Ontario, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6997822e81476f6176af9c1a",
       "postedDate": "2026-03-13",
       "isPostedToday": false
     },
@@ -4405,22 +4405,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_adc715908006",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Fraud)",
-      "location": "Kelowna, British Columbia, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6997b2a9e0bddb6acac66e3a",
-      "postedDate": "2026-03-13",
-      "isPostedToday": false
-    },
-    {
       "id": "job_6b86d1d286ff",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Fraud)",
       "location": "Windsor, Ontario, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/6997b7ece0bddb6acac67382",
+      "postedDate": "2026-03-13",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_adc715908006",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Fraud)",
+      "location": "Kelowna, British Columbia, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6997b2a9e0bddb6acac66e3a",
       "postedDate": "2026-03-13",
       "isPostedToday": false
     },
@@ -5215,16 +5215,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_92dffdf3a16a",
-      "category": "new_grad",
-      "company": "Mayo Clinic",
-      "role": "Software Engineer",
-      "location": "Rochester, MN",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b4e6393b74eb1e2c825abf",
-      "postedDate": "2026-03-13",
-      "isPostedToday": false
-    },
-    {
       "id": "job_aa94151738a0",
       "category": "intern",
       "company": "Mentis AI",
@@ -5425,22 +5415,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_d3d1ab0ea508",
-      "category": "new_grad",
-      "company": "Northrop Grumman",
-      "role": "2026 Associate Software Engineer/Software Engineer with Security Clearance",
-      "location": "Palmdale, California, 93551",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b89e1b06c1ba00c54a9d41",
-      "postedDate": "2026-03-13",
-      "isPostedToday": false
-    },
-    {
       "id": "job_bfb13079814d",
       "category": "new_grad",
       "company": "Northrop Grumman",
       "role": "2026 Associate Software Engineer/Software Engineer with Security Clearance",
       "location": "El Segundo, California, 90245",
       "applicationUrl": "https://jobright.ai/jobs/info/69b89e8356973837413e04d9",
+      "postedDate": "2026-03-13",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_d3d1ab0ea508",
+      "category": "new_grad",
+      "company": "Northrop Grumman",
+      "role": "2026 Associate Software Engineer/Software Engineer with Security Clearance",
+      "location": "Palmdale, California, 93551",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b89e1b06c1ba00c54a9d41",
       "postedDate": "2026-03-13",
       "isPostedToday": false
     },
@@ -6355,16 +6345,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_821ec9d5a5b9",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Queens, Prince Edward Island, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/69417a8b14ee092a69ffa360",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_cc55dbbf0499",
       "category": "new_grad",
       "company": "Affirm",
@@ -6381,6 +6361,16 @@
       "role": "Software Engineer II, Backend (Identity Decisioning)",
       "location": "Kelowna, British Columbia, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/69420b9614ee092a69002869",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_821ec9d5a5b9",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Queens, Prince Edward Island, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/69417a8b14ee092a69ffa360",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -6405,36 +6395,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_a3c6a9d25fcc",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Halifax, Nova Scotia, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/69417208bdcf884a5add3ed0",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_e57f0145d0c9",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Saskatoon, Saskatchewan, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/69420671bdcf884a5addbf57",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_d7745634e354",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Winnipeg, Manitoba, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/694168a4bdcf884a5add2a22",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_cd375ce0a4d7",
       "category": "new_grad",
       "company": "Affirm",
@@ -6455,12 +6415,42 @@
       "isPostedToday": false
     },
     {
-      "id": "job_a7f0fe173f1d",
+      "id": "job_a3c6a9d25fcc",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Regina, Saskatchewan, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6941f18d50bbaf765053c1a1",
+      "location": "Halifax, Nova Scotia, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/69417208bdcf884a5add3ed0",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_d7745634e354",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Winnipeg, Manitoba, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/694168a4bdcf884a5add2a22",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_e57f0145d0c9",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Saskatoon, Saskatchewan, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/69420671bdcf884a5addbf57",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_47003d912e94",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Minneapolis, MN",
+      "applicationUrl": "https://jobright.ai/jobs/info/6942145350bbaf765053e993",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -6475,12 +6465,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_47003d912e94",
+      "id": "job_a7f0fe173f1d",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Minneapolis, MN",
-      "applicationUrl": "https://jobright.ai/jobs/info/6942145350bbaf765053e993",
+      "location": "Regina, Saskatchewan, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6941f18d50bbaf765053c1a1",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -6505,12 +6495,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_675d55ec25b8",
+      "id": "job_76a012a5277f",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Nashville, TN",
-      "applicationUrl": "https://jobright.ai/jobs/info/6941880fbdcf884a5add46e8",
+      "location": "Salt Lake City, UT",
+      "applicationUrl": "https://jobright.ai/jobs/info/69417c56bdcf884a5add421e",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -6525,22 +6515,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_76a012a5277f",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Salt Lake City, UT",
-      "applicationUrl": "https://jobright.ai/jobs/info/69417c56bdcf884a5add421e",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_6df1bac0fbd5",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
       "location": "Sioux Falls, SD",
       "applicationUrl": "https://jobright.ai/jobs/info/69418bb9bdcf884a5add487e",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_675d55ec25b8",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Nashville, TN",
+      "applicationUrl": "https://jobright.ai/jobs/info/6941880fbdcf884a5add46e8",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -6575,22 +6565,22 @@
       "isPostedToday": false
     },
     {
+      "id": "job_49925a58a3a3",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Los Angeles, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69415e2fbdcf884a5add2111",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
       "id": "job_49b44137d481",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
       "location": "Washington, DC",
       "applicationUrl": "https://jobright.ai/jobs/info/69415eb9bdcf884a5add213a",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_6321f5bf520c",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Atlanta, GA",
-      "applicationUrl": "https://jobright.ai/jobs/info/694202e5bdcf884a5addbbe5",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -6605,22 +6595,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_49925a58a3a3",
+      "id": "job_6321f5bf520c",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Los Angeles, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69415e2fbdcf884a5add2111",
+      "location": "Atlanta, GA",
+      "applicationUrl": "https://jobright.ai/jobs/info/694202e5bdcf884a5addbbe5",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
     {
-      "id": "job_7d2e3e87400d",
+      "id": "job_4a87b8cc9307",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Pittsburgh, PA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69416b9850bbaf765053432b",
+      "location": "San Francisco, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/6941680550bbaf7650533acd",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -6635,12 +6625,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_4a87b8cc9307",
+      "id": "job_7d2e3e87400d",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "San Francisco, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6941680550bbaf7650533acd",
+      "location": "Pittsburgh, PA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69416b9850bbaf765053432b",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -6675,22 +6665,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_5c18ca5d7276",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Phoenix, AZ",
-      "applicationUrl": "https://jobright.ai/jobs/info/6942403e14ee092a69006eac",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_7c92552c88f7",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
       "location": "Philadelphia, PA",
       "applicationUrl": "https://jobright.ai/jobs/info/69418d0414ee092a69ffaa7a",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_54297f6a0c38",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Dallas, TX",
+      "applicationUrl": "https://jobright.ai/jobs/info/69416e1d14ee092a69ff9586",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -6705,12 +6695,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_54297f6a0c38",
+      "id": "job_5c18ca5d7276",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Dallas, TX",
-      "applicationUrl": "https://jobright.ai/jobs/info/69416e1d14ee092a69ff9586",
+      "location": "Phoenix, AZ",
+      "applicationUrl": "https://jobright.ai/jobs/info/6942403e14ee092a69006eac",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -6755,22 +6745,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_d3f91f4c7cf0",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Madison, WI",
-      "applicationUrl": "https://jobright.ai/jobs/info/694167db50bbaf7650533ac5",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_1839e6f017b8",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
       "location": "Las Vegas, NV",
       "applicationUrl": "https://jobright.ai/jobs/info/6941863d14ee092a69ffa773",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_d3f91f4c7cf0",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Madison, WI",
+      "applicationUrl": "https://jobright.ai/jobs/info/694167db50bbaf7650533ac5",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -6785,22 +6775,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_9137d64250ed",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (PMI Integrations)",
-      "location": "Kelowna, British Columbia, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/69791a5952f3c27ec6455f11",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_dc0a938df816",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (PMI Integrations)",
       "location": "Ottawa, Ontario, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/697918fc52f3c27ec6455d83",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_9137d64250ed",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (PMI Integrations)",
+      "location": "Kelowna, British Columbia, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/69791a5952f3c27ec6455f11",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -6815,22 +6805,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_3f09f1a4a6b0",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (PMI Integrations)",
-      "location": "Victoria, British Columbia, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6979381388e2b47213bd5dc6",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_de38f6678bc7",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (PMI Integrations)",
       "location": "Oshawa, Ontario, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/6979385588e2b47213bd5e58",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_3f09f1a4a6b0",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (PMI Integrations)",
+      "location": "Victoria, British Columbia, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6979381388e2b47213bd5dc6",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -7845,22 +7835,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_27ef51c44125",
-      "category": "new_grad",
-      "company": "Juno",
-      "role": "GTM Engineer",
-      "location": "Philadelphia, PA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b32883a8ac8e70ff6766c1",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_389c0effb794",
       "category": "new_grad",
       "company": "Juno",
       "role": "GTM Engineer",
       "location": "San Diego, CA",
       "applicationUrl": "https://jobright.ai/jobs/info/69b32a28ae2a534885ea8d76",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_27ef51c44125",
+      "category": "new_grad",
+      "company": "Juno",
+      "role": "GTM Engineer",
+      "location": "Philadelphia, PA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b32883a8ac8e70ff6766c1",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -8011,6 +8001,16 @@
       "role": "Junior Data Scientist 🇺🇸",
       "location": "El Segundo, CA, Colorado Springs, CO",
       "applicationUrl": "https://careers-lmi.icims.com/jobs/13752/junior-data-scientist/job",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_ba7c011a4c68",
+      "category": "new_grad",
+      "company": "Lockheed Martin",
+      "role": "Software Engineer - Early Career with Security Clearance",
+      "location": "Mount Laurel, New Jersey, 08054",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b959e256973837413edf62",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -8845,22 +8845,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_89bbc365cc3f",
-      "category": "new_grad",
-      "company": "TransUnion",
-      "role": "Developer",
-      "location": "Boca Raton, Florida",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b32d44ae2a534885ea9219",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_1772d7b4da1a",
       "category": "new_grad",
       "company": "TransUnion",
       "role": "Developer",
       "location": "Boca Raton, Florida",
       "applicationUrl": "https://jobright.ai/jobs/info/69b32d44ae2a534885ea9223",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_89bbc365cc3f",
+      "category": "new_grad",
+      "company": "TransUnion",
+      "role": "Developer",
+      "location": "Boca Raton, Florida",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b32d44ae2a534885ea9219",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -9135,22 +9135,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_d0240cc053b0",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (PMI Integrations)",
-      "location": "Edmonton, Alberta, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/69793aef88e2b47213bd651c",
-      "postedDate": "2026-03-11",
-      "isPostedToday": false
-    },
-    {
       "id": "job_bb11c50ac32c",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (PMI Integrations)",
       "location": "Toronto, Ontario, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/697936de88e2b47213bd5b3f",
+      "postedDate": "2026-03-11",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_d0240cc053b0",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (PMI Integrations)",
+      "location": "Edmonton, Alberta, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/69793aef88e2b47213bd651c",
       "postedDate": "2026-03-11",
       "isPostedToday": false
     },
@@ -10235,16 +10235,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_d0fc8d170ec2",
-      "category": "new_grad",
-      "company": "Mayo Clinic",
-      "role": "Software Engineer",
-      "location": "Rochester, MN",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b24548a8ac8e70ff66188c",
-      "postedDate": "2026-03-11",
-      "isPostedToday": false
-    },
-    {
       "id": "job_7722f1c7f2a1",
       "category": "intern",
       "company": "McKesson",
@@ -11245,16 +11235,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_1f034972cc58",
-      "category": "new_grad",
-      "company": "Allianz Partners",
-      "role": "Systems Quality Analyst",
-      "location": "Richmond, VA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b09d2ddfaeda6ff59ace46",
-      "postedDate": "2026-03-10",
-      "isPostedToday": false
-    },
-    {
       "id": "job_048f990c487b",
       "category": "intern",
       "company": "Allstate Insurance Company",
@@ -11301,16 +11281,6 @@
       "role": "Technology Product Engineer Apprentice",
       "location": "Illinois",
       "applicationUrl": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Technology-Product-Engineer-Apprentice_R27419",
-      "postedDate": "2026-03-10",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_763a5a1dd33a",
-      "category": "new_grad",
-      "company": "Amazon",
-      "role": "Quality Assurance Engineer II - AMZ9740777",
-      "location": "Sunnyvale, California, USA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b4963306c1ba00c54615c6",
       "postedDate": "2026-03-10",
       "isPostedToday": false
     },
@@ -11705,16 +11675,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_d1daa0e3b1ef",
-      "category": "new_grad",
-      "company": "Hachette Book Group",
-      "role": "Software Engineer",
-      "location": "New York, NY",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b09e350b2db6275c04e0ee",
-      "postedDate": "2026-03-10",
-      "isPostedToday": false
-    },
-    {
       "id": "job_350b133c40bf",
       "category": "intern",
       "company": "Harris Computer",
@@ -11771,16 +11731,6 @@
       "role": "Software Engineer & Computer Science - Recent Grad/Full Time",
       "location": "United States",
       "applicationUrl": "https://jobright.ai/jobs/info/69b64e0f3b74eb1e2c840acf",
-      "postedDate": "2026-03-10",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_87487c874287",
-      "category": "new_grad",
-      "company": "Idaho Power",
-      "role": "IT Technical Systems Analyst - Entry, Analyst, or Senior - App Dev Operations - Temporary",
-      "location": "Boise, ID",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b0e563dfaeda6ff59bab9d",
       "postedDate": "2026-03-10",
       "isPostedToday": false
     },
@@ -13215,22 +13165,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_7a335ee35d52",
-      "category": "new_grad",
-      "company": "Google",
-      "role": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
-      "location": "Atlanta, GA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6973f59a206da320f49df989",
-      "postedDate": "2026-03-08",
-      "isPostedToday": false
-    },
-    {
       "id": "job_bde443728b89",
       "category": "new_grad",
       "company": "Google",
       "role": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
       "location": "Los Angeles, CA",
       "applicationUrl": "https://jobright.ai/jobs/info/6973e958206da320f49de133",
+      "postedDate": "2026-03-08",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_7a335ee35d52",
+      "category": "new_grad",
+      "company": "Google",
+      "role": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "location": "Atlanta, GA",
+      "applicationUrl": "https://jobright.ai/jobs/info/6973f59a206da320f49df989",
       "postedDate": "2026-03-08",
       "isPostedToday": false
     },
