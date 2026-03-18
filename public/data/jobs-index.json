@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-18T06:11:18-5",
+  "generatedAt": "2026-03-18T06:59:50-5",
   "timezone": "America/Chicago",
   "pageSize": 50,
-  "totalJobs": 5178,
+  "totalJobs": 5169,
   "jobs": [
     {
       "id": "job_722fe5fc1278",
@@ -11,6 +11,16 @@
       "role": "Software Engineering Apprentice - Backend",
       "location": "Remote in USA",
       "applicationUrl": "https://job-boards.greenhouse.io/affirm/jobs/7647925003",
+      "postedDate": "2026-03-18",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_3bdebddd701d",
+      "category": "new_grad",
+      "company": "Alteryx",
+      "role": "Software Engineer",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/699eb05b81476f6176b81ec1",
       "postedDate": "2026-03-18",
       "isPostedToday": true
     },
@@ -101,6 +111,16 @@
       "role": "Data Operations Engineer Intern",
       "location": "Remote in USA",
       "applicationUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Operations-Engineer-Intern_R-00178446",
+      "postedDate": "2026-03-18",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_3b48cbc3e1d8",
+      "category": "new_grad",
+      "company": "Rivian and Volkswagen Group Technologies",
+      "role": "Android Software Engineer, Infotainment Apps",
+      "location": "Toronto, ON",
+      "applicationUrl": "https://jobright.ai/jobs/info/69ba6ee13b74eb1e2c884b0f",
       "postedDate": "2026-03-18",
       "isPostedToday": true
     },
@@ -735,12 +755,12 @@
       "isPostedToday": true
     },
     {
-      "id": "job_bd9076fe613f",
+      "id": "job_4aa77848503a",
       "category": "new_grad",
       "company": "CVS Health",
       "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-North Dakota",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca553b74eb1e2c87bf83",
+      "location": "Work At Home-Maryland",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca553b74eb1e2c87bf7d",
       "postedDate": "2026-03-17",
       "isPostedToday": false
     },
@@ -755,16 +775,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_8ea28cdaf465",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Nebraska",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca553b74eb1e2c87bf7c",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
       "id": "job_78ea02a9e10c",
       "category": "new_grad",
       "company": "CVS Health",
@@ -775,22 +785,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_dc713235203f",
+      "id": "job_bd9076fe613f",
       "category": "new_grad",
       "company": "CVS Health",
       "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-New York",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca553b74eb1e2c87bf81",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_d7413195617b",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-South Dakota",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca553b74eb1e2c87bf7e",
+      "location": "Work At Home-North Dakota",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca553b74eb1e2c87bf83",
       "postedDate": "2026-03-17",
       "isPostedToday": false
     },
@@ -805,16 +805,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_f9e58fee9573",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Vermont",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca553b74eb1e2c87bf80",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
       "id": "job_019f1712f963",
       "category": "new_grad",
       "company": "CVS Health",
@@ -825,12 +815,42 @@
       "isPostedToday": false
     },
     {
-      "id": "job_a7012e60ccd1",
+      "id": "job_f9e58fee9573",
       "category": "new_grad",
       "company": "CVS Health",
       "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Michigan",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca553b74eb1e2c87bf79",
+      "location": "Work At Home-Vermont",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca553b74eb1e2c87bf80",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_d7413195617b",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Associate Software Development Engineer (Enterprise Applications)",
+      "location": "Work At Home-South Dakota",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca553b74eb1e2c87bf7e",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_8ea28cdaf465",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Associate Software Development Engineer (Enterprise Applications)",
+      "location": "Work At Home-Nebraska",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca553b74eb1e2c87bf7c",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_dc713235203f",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Associate Software Development Engineer (Enterprise Applications)",
+      "location": "Work At Home-New York",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca553b74eb1e2c87bf81",
       "postedDate": "2026-03-17",
       "isPostedToday": false
     },
@@ -845,12 +865,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_4aa77848503a",
+      "id": "job_a7012e60ccd1",
       "category": "new_grad",
       "company": "CVS Health",
       "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Maryland",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca553b74eb1e2c87bf7d",
+      "location": "Work At Home-Michigan",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca553b74eb1e2c87bf79",
       "postedDate": "2026-03-17",
       "isPostedToday": false
     },
@@ -865,22 +885,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_b2496872e5c7",
+      "id": "job_dc7067e4b615",
       "category": "new_grad",
       "company": "CVS Health",
       "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Ohio",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be189",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_f4b10cacd368",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-California",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be184",
+      "location": "Work At Home-Minnesota",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be186",
       "postedDate": "2026-03-17",
       "isPostedToday": false
     },
@@ -895,82 +905,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_68f8136bacc8",
+      "id": "job_f4b10cacd368",
       "category": "new_grad",
       "company": "CVS Health",
       "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Oklahoma",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be185",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_325593f8e960",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Kansas",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be182",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_dc7067e4b615",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Minnesota",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be186",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_7035de57c705",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Oregon",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be18a",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_fbdd1a714f1b",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Nevada",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be18c",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_6eba6e19417d",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-North Carolina",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be181",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_0b9aa758a771",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Massachusetts",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be188",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_5a1d94f36f53",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home - Utah",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be18e",
+      "location": "Work At Home-California",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be184",
       "postedDate": "2026-03-17",
       "isPostedToday": false
     },
@@ -985,6 +925,36 @@
       "isPostedToday": false
     },
     {
+      "id": "job_6eba6e19417d",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Associate Software Development Engineer (Enterprise Applications)",
+      "location": "Work At Home-North Carolina",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be181",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_5a1d94f36f53",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Associate Software Development Engineer (Enterprise Applications)",
+      "location": "Work At Home - Utah",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be18e",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_0b9aa758a771",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Associate Software Development Engineer (Enterprise Applications)",
+      "location": "Work At Home-Massachusetts",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be188",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
       "id": "job_8e0fa0c82dc0",
       "category": "new_grad",
       "company": "CVS Health",
@@ -995,12 +965,52 @@
       "isPostedToday": false
     },
     {
-      "id": "job_015b3c99c84f",
+      "id": "job_7035de57c705",
       "category": "new_grad",
       "company": "CVS Health",
       "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Wisconsin",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4c3b74eb1e2c87bf57",
+      "location": "Work At Home-Oregon",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be18a",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_b2496872e5c7",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Associate Software Development Engineer (Enterprise Applications)",
+      "location": "Work At Home-Ohio",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be189",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_325593f8e960",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Associate Software Development Engineer (Enterprise Applications)",
+      "location": "Work At Home-Kansas",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be182",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_fbdd1a714f1b",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Associate Software Development Engineer (Enterprise Applications)",
+      "location": "Work At Home-Nevada",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be18c",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_68f8136bacc8",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Associate Software Development Engineer (Enterprise Applications)",
+      "location": "Work At Home-Oklahoma",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4e06c1ba00c54be185",
       "postedDate": "2026-03-17",
       "isPostedToday": false
     },
@@ -1025,62 +1035,22 @@
       "isPostedToday": false
     },
     {
+      "id": "job_015b3c99c84f",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Associate Software Development Engineer (Enterprise Applications)",
+      "location": "Work At Home-Wisconsin",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca4c3b74eb1e2c87bf57",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
       "id": "job_21a316960910",
       "category": "new_grad",
       "company": "CVS Health",
       "role": "Associate Software Development Engineer (Enterprise Applications)",
       "location": "Work At Home-Indiana",
       "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3f56973837413f5508",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_9a1750576a55",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Delaware",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f54fb",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_4a8b494ef26d",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Maine",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f54f1",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_2fd24ac20d69",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Alabama",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f5500",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_47f63c2c21a4",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Colorado",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f54f7",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_344b49574619",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Illinois",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f54fe",
       "postedDate": "2026-03-17",
       "isPostedToday": false
     },
@@ -1095,12 +1065,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_676bf00823e9",
+      "id": "job_ac934313a5ef",
       "category": "new_grad",
       "company": "CVS Health",
       "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Connecticut",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f54f3",
+      "location": "Work At Home-Arizona",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f54f9",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_4a8b494ef26d",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Associate Software Development Engineer (Enterprise Applications)",
+      "location": "Work At Home-Maine",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f54f1",
       "postedDate": "2026-03-17",
       "isPostedToday": false
     },
@@ -1115,16 +1095,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_24e7e05b8a36",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Tennessee",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f5502",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
       "id": "job_f94e3ca5d295",
       "category": "new_grad",
       "company": "CVS Health",
@@ -1135,12 +1105,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_b9c6c67cfa18",
+      "id": "job_2fd24ac20d69",
       "category": "new_grad",
       "company": "CVS Health",
       "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-New Hampshire",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f54fd",
+      "location": "Work At Home-Alabama",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f5500",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_24e7e05b8a36",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Associate Software Development Engineer (Enterprise Applications)",
+      "location": "Work At Home-Tennessee",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f5502",
       "postedDate": "2026-03-17",
       "isPostedToday": false
     },
@@ -1155,6 +1135,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_344b49574619",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Associate Software Development Engineer (Enterprise Applications)",
+      "location": "Work At Home-Illinois",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f54fe",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
       "id": "job_0a47e8acbcfb",
       "category": "new_grad",
       "company": "CVS Health",
@@ -1165,12 +1155,42 @@
       "isPostedToday": false
     },
     {
-      "id": "job_ac934313a5ef",
+      "id": "job_9a1750576a55",
       "category": "new_grad",
       "company": "CVS Health",
       "role": "Associate Software Development Engineer (Enterprise Applications)",
-      "location": "Work At Home-Arizona",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f54f9",
+      "location": "Work At Home-Delaware",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f54fb",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_47f63c2c21a4",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Associate Software Development Engineer (Enterprise Applications)",
+      "location": "Work At Home-Colorado",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f54f7",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_676bf00823e9",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Associate Software Development Engineer (Enterprise Applications)",
+      "location": "Work At Home-Connecticut",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f54f3",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_b9c6c67cfa18",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Associate Software Development Engineer (Enterprise Applications)",
+      "location": "Work At Home-New Hampshire",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9ca3e56973837413f54fd",
       "postedDate": "2026-03-17",
       "isPostedToday": false
     },
@@ -1205,22 +1225,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_07a3c882b10e",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Software Development Engineer for iPad",
-      "location": "Work At Home-Maine",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9d6dc06c1ba00c54bf63f",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
       "id": "job_bf48aae64ada",
       "category": "new_grad",
       "company": "CVS Health",
       "role": "Software Development Engineer for iPad",
       "location": "Work At Home-Minnesota",
       "applicationUrl": "https://jobright.ai/jobs/info/69b9d62a3b74eb1e2c87d3b6",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_07a3c882b10e",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Software Development Engineer for iPad",
+      "location": "Work At Home-Maine",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9d6dc06c1ba00c54bf63f",
       "postedDate": "2026-03-17",
       "isPostedToday": false
     },
@@ -1395,22 +1415,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_44605423e97a",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Software Development Engineer for iPad",
-      "location": "Work At Home-Connecticut",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9d6dd06c1ba00c54bf64a",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
       "id": "job_f26ca7c1dec5",
       "category": "new_grad",
       "company": "CVS Health",
       "role": "Software Development Engineer for iPad",
       "location": "Work At Home-Kentucky",
       "applicationUrl": "https://jobright.ai/jobs/info/69b9d6b656973837413f6937",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_44605423e97a",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Software Development Engineer for iPad",
+      "location": "Work At Home-Connecticut",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9d6dd06c1ba00c54bf64a",
       "postedDate": "2026-03-17",
       "isPostedToday": false
     },
@@ -1535,22 +1555,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_5cf52907758f",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Software Development Engineer for iPad",
-      "location": "Work At Home-Missouri",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9d6b656973837413f692e",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
       "id": "job_8fd9214c6939",
       "category": "new_grad",
       "company": "CVS Health",
       "role": "Software Development Engineer for iPad",
       "location": "Work At Home - Utah",
       "applicationUrl": "https://jobright.ai/jobs/info/69b9d62c3b74eb1e2c87d3c9",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_5cf52907758f",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Software Development Engineer for iPad",
+      "location": "Work At Home-Missouri",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9d6b656973837413f692e",
       "postedDate": "2026-03-17",
       "isPostedToday": false
     },
@@ -1585,22 +1605,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_58a74c3c2a25",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Software Development Engineer for iPad",
-      "location": "Work At Home-New York",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9d6b756973837413f693f",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
       "id": "job_649b57f8f9ed",
       "category": "new_grad",
       "company": "CVS Health",
       "role": "Software Development Engineer for iPad",
       "location": "Work At Home-Indiana",
       "applicationUrl": "https://jobright.ai/jobs/info/69b9d6dc06c1ba00c54bf63e",
+      "postedDate": "2026-03-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_58a74c3c2a25",
+      "category": "new_grad",
+      "company": "CVS Health",
+      "role": "Software Development Engineer for iPad",
+      "location": "Work At Home-New York",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9d6b756973837413f693f",
       "postedDate": "2026-03-17",
       "isPostedToday": false
     },
@@ -4995,22 +5015,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_8c45ce4c7ade",
-      "category": "new_grad",
-      "company": "WOOD Federal Solutions",
-      "role": "Software Engineer (entry-level)",
-      "location": "US-MD-Ft. Meade",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b9130d06c1ba00c54b29c3",
-      "postedDate": "2026-03-16",
-      "isPostedToday": false
-    },
-    {
       "id": "job_b7aac7d8f099",
       "category": "new_grad",
       "company": "WOOD Federal Solutions",
       "role": "Software Engineer (entry-level)",
       "location": "Ft. Meade, MD, US",
       "applicationUrl": "https://jobright.ai/jobs/info/69b9132d3b74eb1e2c87082b",
+      "postedDate": "2026-03-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_8c45ce4c7ade",
+      "category": "new_grad",
+      "company": "WOOD Federal Solutions",
+      "role": "Software Engineer (entry-level)",
+      "location": "US-MD-Ft. Meade",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b9130d06c1ba00c54b29c3",
       "postedDate": "2026-03-16",
       "isPostedToday": false
     },
@@ -5905,16 +5925,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_bd0afa2ffa14",
-      "category": "new_grad",
-      "company": "Jacobs",
-      "role": "Architect (Data Centers)",
-      "location": "Nashville, TN",
-      "applicationUrl": "https://jobright.ai/jobs/info/6945d2e463141d18845572ee",
-      "postedDate": "2026-03-14",
-      "isPostedToday": false
-    },
-    {
       "id": "job_14632c7d02f0",
       "category": "new_grad",
       "company": "Jacobs",
@@ -5925,12 +5935,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_4c8a4c1560a2",
+      "id": "job_bd0afa2ffa14",
       "category": "new_grad",
       "company": "Jacobs",
       "role": "Architect (Data Centers)",
-      "location": "Miami, FL",
-      "applicationUrl": "https://jobright.ai/jobs/info/6945cb23d1953b5d11bec9ee",
+      "location": "Nashville, TN",
+      "applicationUrl": "https://jobright.ai/jobs/info/6945d2e463141d18845572ee",
       "postedDate": "2026-03-14",
       "isPostedToday": false
     },
@@ -5941,6 +5951,16 @@
       "role": "Architect (Data Centers)",
       "location": "Philadelphia, PA",
       "applicationUrl": "https://jobright.ai/jobs/info/6945d91dd1953b5d11beeb8a",
+      "postedDate": "2026-03-14",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_4c8a4c1560a2",
+      "category": "new_grad",
+      "company": "Jacobs",
+      "role": "Architect (Data Centers)",
+      "location": "Miami, FL",
+      "applicationUrl": "https://jobright.ai/jobs/info/6945cb23d1953b5d11bec9ee",
       "postedDate": "2026-03-14",
       "isPostedToday": false
     },
@@ -6755,16 +6775,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_7e750b30d33a",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Fraud)",
-      "location": "Edmonton, Alberta, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6997875a81476f6176af9e84",
-      "postedDate": "2026-03-13",
-      "isPostedToday": false
-    },
-    {
       "id": "job_d0eed5b4056a",
       "category": "new_grad",
       "company": "Affirm",
@@ -6781,6 +6791,16 @@
       "role": "Software Engineer II, Backend (Fraud)",
       "location": "Kitchener, Ontario, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/699771ed81476f6176af8fc2",
+      "postedDate": "2026-03-13",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_7e750b30d33a",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Fraud)",
+      "location": "Edmonton, Alberta, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6997875a81476f6176af9e84",
       "postedDate": "2026-03-13",
       "isPostedToday": false
     },
@@ -6815,16 +6835,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_a61efe79bae3",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Fraud)",
-      "location": "Hamilton, Ontario, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6997a075ce78e77b4fdbf5a3",
-      "postedDate": "2026-03-13",
-      "isPostedToday": false
-    },
-    {
       "id": "job_7ad94fff9f70",
       "category": "new_grad",
       "company": "Affirm",
@@ -6835,12 +6845,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_adc715908006",
+      "id": "job_a61efe79bae3",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Fraud)",
-      "location": "Kelowna, British Columbia, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6997b2a9e0bddb6acac66e3a",
+      "location": "Hamilton, Ontario, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6997a075ce78e77b4fdbf5a3",
       "postedDate": "2026-03-13",
       "isPostedToday": false
     },
@@ -6851,6 +6861,16 @@
       "role": "Software Engineer II, Backend (Fraud)",
       "location": "Windsor, Ontario, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/6997b7ece0bddb6acac67382",
+      "postedDate": "2026-03-13",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_adc715908006",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Fraud)",
+      "location": "Kelowna, British Columbia, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6997b2a9e0bddb6acac66e3a",
       "postedDate": "2026-03-13",
       "isPostedToday": false
     },
@@ -8175,16 +8195,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_dc7d944a68ff",
-      "category": "new_grad",
-      "company": "Scalence L.L.C.",
-      "role": "JavaScript Developer Contractor",
-      "location": "Hartford, CT",
-      "applicationUrl": "https://jobright.ai/jobs/info/69ba692d56973837413fd717",
-      "postedDate": "2026-03-13",
-      "isPostedToday": false
-    },
-    {
       "id": "job_43c52620b589",
       "category": "new_grad",
       "company": "Scopely",
@@ -8705,16 +8715,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_821ec9d5a5b9",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Queens, Prince Edward Island, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/69417a8b14ee092a69ffa360",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_1591a11922cf",
       "category": "new_grad",
       "company": "Affirm",
@@ -8731,6 +8731,16 @@
       "role": "Software Engineer II, Backend (Identity Decisioning)",
       "location": "Oshawa, Ontario, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/6941f9b614ee092a69001a14",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_821ec9d5a5b9",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Queens, Prince Edward Island, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/69417a8b14ee092a69ffa360",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -8755,16 +8765,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_e57f0145d0c9",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Saskatoon, Saskatchewan, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/69420671bdcf884a5addbf57",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_d7745634e354",
       "category": "new_grad",
       "company": "Affirm",
@@ -8775,12 +8775,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_00759cb9e8e0",
+      "id": "job_e57f0145d0c9",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Hamilton, Ontario, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6941697bbdcf884a5add2b63",
+      "location": "Saskatoon, Saskatchewan, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/69420671bdcf884a5addbf57",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -8805,6 +8805,26 @@
       "isPostedToday": false
     },
     {
+      "id": "job_00759cb9e8e0",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Hamilton, Ontario, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6941697bbdcf884a5add2b63",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_12034d051cc7",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Edmonton, Alberta, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6941f79f50bbaf765053caf8",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
       "id": "job_a7f0fe173f1d",
       "category": "new_grad",
       "company": "Affirm",
@@ -8821,16 +8841,6 @@
       "role": "Software Engineer II, Backend (Identity Decisioning)",
       "location": "Minneapolis, MN",
       "applicationUrl": "https://jobright.ai/jobs/info/6942145350bbaf765053e993",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_12034d051cc7",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Edmonton, Alberta, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6941f79f50bbaf765053caf8",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -8855,26 +8865,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_fa6a002fefd4",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Richmond, VA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6941877abdcf884a5add46af",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_675d55ec25b8",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Nashville, TN",
-      "applicationUrl": "https://jobright.ai/jobs/info/6941880fbdcf884a5add46e8",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_76a012a5277f",
       "category": "new_grad",
       "company": "Affirm",
@@ -8895,22 +8885,32 @@
       "isPostedToday": false
     },
     {
+      "id": "job_675d55ec25b8",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Nashville, TN",
+      "applicationUrl": "https://jobright.ai/jobs/info/6941880fbdcf884a5add46e8",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_fa6a002fefd4",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Richmond, VA",
+      "applicationUrl": "https://jobright.ai/jobs/info/6941877abdcf884a5add46af",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
       "id": "job_c19b192c090f",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
       "location": "Austin, TX",
       "applicationUrl": "https://jobright.ai/jobs/info/6941668514ee092a69ff84ac",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_368d4eca2008",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Palo Alto, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/694170a714ee092a69ff9d9b",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -8925,22 +8925,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_6321f5bf520c",
+      "id": "job_368d4eca2008",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Atlanta, GA",
-      "applicationUrl": "https://jobright.ai/jobs/info/694202e5bdcf884a5addbbe5",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_5cb50a0fa384",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Seattle, WA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69420798bdcf884a5addc0a4",
+      "location": "Palo Alto, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/694170a714ee092a69ff9d9b",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -8955,6 +8945,26 @@
       "isPostedToday": false
     },
     {
+      "id": "job_5cb50a0fa384",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Seattle, WA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69420798bdcf884a5addc0a4",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_6321f5bf520c",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Atlanta, GA",
+      "applicationUrl": "https://jobright.ai/jobs/info/694202e5bdcf884a5addbbe5",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
       "id": "job_49925a58a3a3",
       "category": "new_grad",
       "company": "Affirm",
@@ -8965,22 +8975,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_7d2e3e87400d",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Pittsburgh, PA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69416b9850bbaf765053432b",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_500437196181",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
       "location": "Boulder, CO",
       "applicationUrl": "https://jobright.ai/jobs/info/6941646950bbaf76505339fa",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_7d2e3e87400d",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Pittsburgh, PA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69416b9850bbaf765053432b",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -9035,22 +9045,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_5c18ca5d7276",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Phoenix, AZ",
-      "applicationUrl": "https://jobright.ai/jobs/info/6942403e14ee092a69006eac",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_54297f6a0c38",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
       "location": "Dallas, TX",
       "applicationUrl": "https://jobright.ai/jobs/info/69416e1d14ee092a69ff9586",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_5c18ca5d7276",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Phoenix, AZ",
+      "applicationUrl": "https://jobright.ai/jobs/info/6942403e14ee092a69006eac",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -9065,22 +9075,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_3006be9929d7",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Cleveland, OH",
-      "applicationUrl": "https://jobright.ai/jobs/info/6941725414ee092a69ffa017",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_5f3a29f1f0e4",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
       "location": "San Jose, CA",
       "applicationUrl": "https://jobright.ai/jobs/info/6941629f14ee092a69ff83b2",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_3006be9929d7",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Cleveland, OH",
+      "applicationUrl": "https://jobright.ai/jobs/info/6941725414ee092a69ffa017",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -9105,22 +9115,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_1839e6f017b8",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Identity Decisioning)",
-      "location": "Las Vegas, NV",
-      "applicationUrl": "https://jobright.ai/jobs/info/6941863d14ee092a69ffa773",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_d3f91f4c7cf0",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Identity Decisioning)",
       "location": "Madison, WI",
       "applicationUrl": "https://jobright.ai/jobs/info/694167db50bbaf7650533ac5",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_1839e6f017b8",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Las Vegas, NV",
+      "applicationUrl": "https://jobright.ai/jobs/info/6941863d14ee092a69ffa773",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -9155,6 +9165,26 @@
       "isPostedToday": false
     },
     {
+      "id": "job_de38f6678bc7",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (PMI Integrations)",
+      "location": "Oshawa, Ontario, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6979385588e2b47213bd5e58",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_3f09f1a4a6b0",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (PMI Integrations)",
+      "location": "Victoria, British Columbia, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6979381388e2b47213bd5dc6",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
       "id": "job_1564abe3e616",
       "category": "new_grad",
       "company": "Affirm",
@@ -9175,36 +9205,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_3f09f1a4a6b0",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (PMI Integrations)",
-      "location": "Victoria, British Columbia, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6979381388e2b47213bd5dc6",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_de38f6678bc7",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (PMI Integrations)",
-      "location": "Oshawa, Ontario, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6979385588e2b47213bd5e58",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_7a2be2e3e632",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (PMI Integrations)",
-      "location": "Kitchener, Ontario, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6979246e39f7f96cc6d184b2",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_7ae296498131",
       "category": "new_grad",
       "company": "Affirm",
@@ -9221,6 +9221,16 @@
       "role": "Software Engineer II, Backend (PMI Integrations)",
       "location": "Winnipeg, Manitoba, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/6979275d39f7f96cc6d188ff",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_7a2be2e3e632",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (PMI Integrations)",
+      "location": "Kitchener, Ontario, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6979246e39f7f96cc6d184b2",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -10175,22 +10185,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_389c0effb794",
-      "category": "new_grad",
-      "company": "Juno",
-      "role": "GTM Engineer",
-      "location": "San Diego, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b32a28ae2a534885ea8d76",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_27ef51c44125",
       "category": "new_grad",
       "company": "Juno",
       "role": "GTM Engineer",
       "location": "Philadelphia, PA",
       "applicationUrl": "https://jobright.ai/jobs/info/69b32883a8ac8e70ff6766c1",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_389c0effb794",
+      "category": "new_grad",
+      "company": "Juno",
+      "role": "GTM Engineer",
+      "location": "San Diego, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b32a28ae2a534885ea8d76",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -11175,22 +11185,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_89bbc365cc3f",
-      "category": "new_grad",
-      "company": "TransUnion",
-      "role": "Developer",
-      "location": "Boca Raton, Florida",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b32d44ae2a534885ea9219",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_1772d7b4da1a",
       "category": "new_grad",
       "company": "TransUnion",
       "role": "Developer",
       "location": "Boca Raton, Florida",
       "applicationUrl": "https://jobright.ai/jobs/info/69b32d44ae2a534885ea9223",
+      "postedDate": "2026-03-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_89bbc365cc3f",
+      "category": "new_grad",
+      "company": "TransUnion",
+      "role": "Developer",
+      "location": "Boca Raton, Florida",
+      "applicationUrl": "https://jobright.ai/jobs/info/69b32d44ae2a534885ea9219",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
@@ -11531,16 +11541,6 @@
       "role": "AI Intern",
       "location": "Bellevue, WA",
       "applicationUrl": "https://job-boards.greenhouse.io/armada/jobs/5151029008",
-      "postedDate": "2026-03-11",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_4b344bbd7053",
-      "category": "new_grad",
-      "company": "Barry Callebaut Group",
-      "role": "Quality Assurance Lab Technician",
-      "location": "Brantford, Ontario, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b1b3f165de58104c70b4db",
       "postedDate": "2026-03-11",
       "isPostedToday": false
     },
@@ -11945,16 +11945,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_3196ae6b6aec",
-      "category": "new_grad",
-      "company": "HCLTech",
-      "role": "Embedded Tester",
-      "location": "Alameda, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b1b74665de58104c70b693",
-      "postedDate": "2026-03-11",
-      "isPostedToday": false
-    },
-    {
       "id": "job_cf9b24b863a5",
       "category": "intern",
       "company": "HERE Technologies",
@@ -12055,16 +12045,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_2b6d562c5410",
-      "category": "new_grad",
-      "company": "iFIT",
-      "role": "QA Software Tester I",
-      "location": "Logan, UT",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b1b7b265de58104c70b70f",
-      "postedDate": "2026-03-11",
-      "isPostedToday": false
-    },
-    {
       "id": "job_737c994fe037",
       "category": "intern",
       "company": "Insperity",
@@ -12101,16 +12081,6 @@
       "role": "Data Analyst I 🛂",
       "location": "Ames, IA",
       "applicationUrl": "",
-      "postedDate": "2026-03-11",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_17f7dc22cc96",
-      "category": "new_grad",
-      "company": "IXL Learning",
-      "role": "QA Analyst, UI and Front End",
-      "location": "San Mateo, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/694267a850bbaf7650545baf",
       "postedDate": "2026-03-11",
       "isPostedToday": false
     },
@@ -12181,16 +12151,6 @@
       "role": "Junior Back-End Software Application Developer",
       "location": "Colorado Springs, CO",
       "applicationUrl": "https://jobright.ai/jobs/info/69b23ed2ad360c0340a6f8c8",
-      "postedDate": "2026-03-11",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_26f9ce63a741",
-      "category": "new_grad",
-      "company": "Lyft",
-      "role": "Software Engineer, Server",
-      "location": "Toronto, Ontario, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/69781999fdeb8243a27b0d10",
       "postedDate": "2026-03-11",
       "isPostedToday": false
     },
@@ -12801,16 +12761,6 @@
       "role": "Embedded Intern - Security",
       "location": "San Mateo, CA",
       "applicationUrl": "https://job-boards.greenhouse.io/verkada/jobs/4915313007",
-      "postedDate": "2026-03-11",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_73b60a2866c9",
-      "category": "new_grad",
-      "company": "Visions Federal Credit Union",
-      "role": "Enterprise Testing Analyst- Endwell, NY",
-      "location": "Endwell, New York, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/69b1fb3365de58104c716764",
       "postedDate": "2026-03-11",
       "isPostedToday": false
     },
@@ -14635,36 +14585,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_f0383663eeba",
-      "category": "new_grad",
-      "company": "Google",
-      "role": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
-      "location": "Sunnyvale, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6973ef1937785856350dbfbf",
-      "postedDate": "2026-03-08",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_a259ce4e53fa",
-      "category": "new_grad",
-      "company": "Google",
-      "role": "Software Engineer, Systems Research, PhD, Early Career",
-      "location": "Seattle, WA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6973eb3e206da320f49de384",
-      "postedDate": "2026-03-08",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_c33b64127e11",
-      "category": "new_grad",
-      "company": "Google",
-      "role": "Software Engineer, Systems Research, PhD, Early Career",
-      "location": "Sunnyvale, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6973f7fc206da320f49e014a",
-      "postedDate": "2026-03-07",
-      "isPostedToday": false
-    },
-    {
       "id": "job_87c79dd43656",
       "category": "new_grad",
       "company": "Northrop Grumman",
@@ -16181,16 +16101,6 @@
       "role": "Business Systems Specialist Intern",
       "location": "Oakland, CA",
       "applicationUrl": "https://careers.pge.com/job/Oakland-Business-Systems-Specialist-Intern-CA-94612/1370605300?ats=successfactors",
-      "postedDate": "2026-03-05",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_77cce692ecf7",
-      "category": "new_grad",
-      "company": "Premier Construction Software",
-      "role": "Junior Quality Assurance Analyst",
-      "location": "Markham, Ontario, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/69996a0ce0bddb6acac8a387",
       "postedDate": "2026-03-05",
       "isPostedToday": false
     },
