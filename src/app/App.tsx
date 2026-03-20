@@ -73,7 +73,7 @@ function SiteNavbar() {
       <header className="sticky top-0 z-40 w-full border-b bg-background/95 h-14 backdrop-blur supports-[backdrop-filter]:bg-background/60">
         <div className="flex h-full items-center justify-between px-6">
           <div className="flex items-center gap-8">
-            <Link to="/" className="font-inter text-xl font-bold tracking-tight transition-colors hover:text-yellow-500">
+            <Link to="/" className="font-inter text-xl font-bold tracking-tight transition-all hover:-translate-y-0.5 hover:opacity-80 inline-block">
               Jobbie
             </Link>
             <nav className="flex items-center gap-6 text-sm font-medium text-muted-foreground">
@@ -109,7 +109,7 @@ function SiteNavbar() {
   return (
     <header className="sticky top-0 z-40 box-border h-24 bg-background/90 px-4 py-4 backdrop-blur">
       <div className="mx-auto flex h-full max-w-3xl items-center justify-between rounded-full border bg-card/90 px-5 py-3 shadow-sm">
-        <Link to="/" className="font-inter text-2xl font-semibold tracking-tight transition-colors hover:text-yellow-500">
+        <Link to="/" className="font-inter text-2xl font-semibold tracking-tight transition-all hover:-translate-y-0.5 hover:opacity-80 inline-block">
           Jobbie
         </Link>
         <nav className="hidden items-center gap-8 text-sm text-muted-foreground md:flex">
