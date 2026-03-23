@@ -1,16 +1,17 @@
 {
-  "generatedAt": "2026-03-23T02:40:28-5",
+  "generatedAt": "2026-03-23T04:14:26-5",
   "timezone": "America/Chicago",
   "sourceCounts": {
     "simplify_summer_2026": 2272,
     "vansh_summer_2026": 1744,
     "simplify_new_grad_2026": 2141,
     "vansh_new_grad_2026": 1033,
-    "jobright_new_grad_2026": 731
+    "jobright_new_grad_2026": 724
   },
-  "activeJobCount": 5286,
-  "todayJobCount": 2,
+  "activeJobCount": 5277,
+  "todayJobCount": 5,
   "parseWarnings": [
+    "Dropped row 114292a076f8de436a9cd4e5719686c5155a3ef643825a71fc9b82d00b555bf3 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 09cd873feceaff29f4e78cbbadab4e6928eaad1d08d713ff42d3916fd372cd65 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 8044969e88b1e8df27631f7ede5108b008fb76f99f8f4087e1bf4b955592b7d6 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 5923eb6e45c7e9e583927c8e7c9cbb26d5f88c9b59f63e14c3396d81f91fa0bf from simplify_summer_2026: could not parse posted date \"1mo\".",
@@ -597,6 +598,7 @@
     "Dropped row d7cb64263aa535db079d42ce0e7b3afec16976a07d34a487c74f4b3816eee35a from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 17cc434a8732eb3ecde64305a67ea0cf2924f1d2a5788c407c947b74e7882315 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 7eb016bf7e2bf0f747e747a6a19dd2934c7b86ba0b389427e5dccd90b306b64a from simplify_summer_2026: could not parse posted date \"1mo\".",
+    "Dropped row d7a2c3603fd85d3872c71798057bfdba1f876f8e6bda9946f46aea064c07d95c from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 99be65c25a8663853bbb487ee0c94fb68a1387c11c530225cf5cf01a5debf977 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 9c262eba681ba33a2a2127eb68c67d01b3aa42d041a16c3c8ba25568043a452d from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 917dff5445686c396ea4da4304e6f4e3f6e15bce70a67e2b67f009c8fdc40cfb from simplify_summer_2026: could not parse posted date \"1mo\".",
