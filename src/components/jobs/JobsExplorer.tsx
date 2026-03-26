@@ -1,4 +1,4 @@
-import { Bookmark, ChevronLeft, ChevronRight, ExternalLink, Heart, CheckCircle2, Search, ArrowUpRight, Flame, X, Check, Home } from "lucide-react";
+import { Archive, CheckCircle2, Search, ArrowUpRight, X, Check, Home, ChevronLeft, ChevronRight, Heart, RotateCcw } from "lucide-react";
 import { startTransition, useDeferredValue, useEffect, useState, useCallback, useMemo } from "react";
 import { motion, AnimatePresence, useMotionValue, useTransform } from "framer-motion";
 
@@ -11,7 +11,8 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 
-type JobCategory = "intern" | "new_grad" | "saved" | "doom";
+type JobCategory = "intern" | "new_grad";
+type JobFilter = JobCategory | "saved" | "archived" | "doom";
 
 type JobSource = {
   sourceId: string;
@@ -52,17 +53,19 @@ type JobsMetaResponse = {
   parseWarnings: string[];
 };
 
-const FILTER_OPTIONS: Array<{ id: JobCategory; label: string; icon?: any }> = [
+const FILTER_OPTIONS: Array<{ id: JobFilter; label: string; icon?: any }> = [
   { id: "intern", label: "Internships" },
   { id: "new_grad", label: "New Grad" },
   { id: "saved", label: "Saved" },
+  { id: "archived", label: "Archived" },
   { id: "doom", label: "Scroll" },
 ];
 
-function getTitleForFilter(filter: JobCategory): string {
+function getTitleForFilter(filter: JobFilter): string {
   if (filter === "intern") return "Internships";
   if (filter === "new_grad") return "New Grad";
   if (filter === "saved") return "Saved Jobs";
+  if (filter === "archived") return "Archived Jobs";
   return "Doom Scroll";
 }
 
@@ -116,7 +119,7 @@ export function JobsExplorer() {
   const [meta, setMeta] = useState<JobsMetaResponse | null>(null);
   const [pageSize, setPageSize] = useState(50);
   const [search, setSearch] = useState("");
-  const [filter, setFilter] = useState<JobCategory>("intern");
+  const [filter, setFilter] = useState<JobFilter>("intern");
   const [doomPreference, setDoomPreference] = useState<"intern" | "new_grad" | null>(null);
   const [savedSubFilter, setSavedSubFilter] = useState<"all" | "applied" | "pending">("all");
   const [page, setPage] = useState(1);
@@ -134,6 +137,10 @@ export function JobsExplorer() {
     const viewed = localStorage.getItem("jobbie-viewed-jobs");
     return viewed ? new Set(JSON.parse(viewed)) : new Set();
   });
+  const [archivedIds, setArchivedIds] = useState<string[]>(() => {
+    const archived = localStorage.getItem("jobbie-archived-jobs");
+    return archived ? JSON.parse(archived) : [];
+  });
 
   useEffect(() => {
     localStorage.setItem("jobbie-saved-jobs", JSON.stringify(savedIds));
@@ -146,6 +153,10 @@ export function JobsExplorer() {
   useEffect(() => {
     localStorage.setItem("jobbie-viewed-jobs", JSON.stringify(Array.from(viewedIds)));
   }, [viewedIds]);
+
+  useEffect(() => {
+    localStorage.setItem("jobbie-archived-jobs", JSON.stringify(archivedIds));
+  }, [archivedIds]);
 
   useEffect(() => {
     if (filter === "doom") {
@@ -179,6 +190,10 @@ export function JobsExplorer() {
     setAppliedIds(prev => prev.includes(id) ? prev.filter(i => i !== id) : [...prev, id]);
   }, []);
 
+  const toggleArchived = useCallback((id: string) => {
+    setArchivedIds((prev) => (prev.includes(id) ? prev.filter((entry) => entry !== id) : [...prev, id]));
+  }, []);
+
   useEffect(() => {
     if (filter === "doom") {
       const header = document.querySelector("header");
@@ -194,10 +209,11 @@ export function JobsExplorer() {
   }, [filter]);
 
   const clearAllData = useCallback(() => {
-    if (confirm("Reset everything? This will clear all saved, applied, and viewed jobs.")) {
+    if (confirm("Reset everything? This will clear all saved, applied, viewed, and archived jobs.")) {
       localStorage.removeItem("jobbie-saved-jobs");
       localStorage.removeItem("jobbie-applied-jobs");
       localStorage.removeItem("jobbie-viewed-jobs");
+      localStorage.removeItem("jobbie-archived-jobs");
       window.location.reload();
     }
   }, []);
@@ -244,6 +260,14 @@ export function JobsExplorer() {
   const query = deferredSearch.trim().toLowerCase();
   const pageTitle = getTitleForFilter(filter);
   const filteredJobs = jobs.filter((job) => {
+    const isArchived = archivedIds.includes(job.id);
+
+    if (filter === "archived") {
+      if (!isArchived) return false;
+    } else if (isArchived) {
+      return false;
+    }
+
     // Hide viewed jobs unless we are in some specific view where it doesn't matter
     if (filter === "doom") {
       if (viewedIds.has(job.id)) return false;
@@ -257,7 +281,7 @@ export function JobsExplorer() {
       const isApplied = appliedIds.includes(job.id);
       if (savedSubFilter === "applied" && !isApplied) return false;
       if (savedSubFilter === "pending" && isApplied) return false;
-    } else if (filter !== "doom") {
+    } else if (filter !== "doom" && filter !== "archived") {
       // For other tabs, check category
       if (job.category !== filter) return false;
       // Hide applied jobs from main lists
@@ -525,7 +549,7 @@ export function JobsExplorer() {
         </div>
 
         <div className="flex items-center gap-4 px-2 text-[10px] font-bold uppercase tracking-[0.2em] text-muted-foreground/30 border-b border-border/10 pb-4">
-          <span>{jobs.length} Opportunities</span>
+          <span>{jobs.length - archivedIds.length} Opportunities</span>
           <div className="h-1 w-1 rounded-full bg-border/50" />
           <span className="text-muted-foreground/60">{filteredJobs.length} matches</span>
         </div>
@@ -560,6 +584,7 @@ export function JobsExplorer() {
             {pageJobs.map((job, idx) => {
               const isSaved = savedIds.includes(job.id);
               const isApplied = appliedIds.includes(job.id);
+              const isArchived = archivedIds.includes(job.id);
               
               return (
                 <div 
@@ -602,6 +627,22 @@ export function JobsExplorer() {
                     </div>
                     
                     <div className="flex items-center gap-2">
+                      <button
+                         onClick={(e) => {
+                           e.stopPropagation();
+                           toggleArchived(job.id);
+                         }}
+                         className={cn(
+                           "flex h-10 w-10 items-center justify-center rounded-xl border transition-colors",
+                           isArchived
+                             ? "border-amber-500/30 bg-amber-500/5 text-amber-500"
+                             : "border-border/50 text-muted-foreground hover:text-foreground"
+                         )}
+                         aria-label={isArchived ? "Restore archived job" : "Archive job"}
+                      >
+                        {isArchived ? <RotateCcw className="h-4 w-4" /> : <Archive className="h-4 w-4" />}
+                      </button>
+
                       <button 
                          onClick={(e) => { e.stopPropagation(); toggleSave(job.id); }}
                          className={cn(
@@ -641,6 +682,16 @@ export function JobsExplorer() {
                             ) : (
                               <CheckCircle2 className="h-3.5 w-3.5 opacity-50" />
                             )}
+                          </DropdownMenuItem>
+                          <DropdownMenuItem
+                            className={cn(
+                              "flex items-center justify-between rounded-xl px-4 py-3 text-[10px] font-black uppercase tracking-widest transition-colors cursor-pointer",
+                              isArchived ? "focus:bg-sky-500/10 focus:text-sky-500" : "focus:bg-amber-500/10 focus:text-amber-500"
+                            )}
+                            onClick={() => toggleArchived(job.id)}
+                          >
+                            {isArchived ? "Restore Job" : "Archive Job"}
+                            {isArchived ? <RotateCcw className="h-3.5 w-3.5 opacity-50" /> : <Archive className="h-3.5 w-3.5 opacity-50" />}
                           </DropdownMenuItem>
                         </DropdownMenuContent>
                       </DropdownMenu>
