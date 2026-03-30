@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-30T04:48:49-5",
+  "generatedAt": "2026-03-30T05:10:56-5",
   "timezone": "America/Chicago",
   "pageSize": 50,
-  "totalJobs": 4811,
+  "totalJobs": 4761,
   "jobs": [
     {
       "id": "job_3928a902dcc6",
@@ -631,16 +631,6 @@
       "role": "Scheduler - Kiewit Infrastructure Engineers",
       "location": "Lone Tree, CO",
       "applicationUrl": "https://jobright.ai/jobs/info/6958693caa05c26e7ab24d6d",
-      "postedDate": "2026-03-28",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_fcdf150241af",
-      "category": "intern",
-      "company": "Kinaxis",
-      "role": "Intern Developer - Front End Technologies",
-      "location": "Ottawa, ON, Canada",
-      "applicationUrl": "https://careers-kinaxis.icims.com/jobs/34493/job?mobile=true&needsRedirect=false",
       "postedDate": "2026-03-28",
       "isPostedToday": false
     },
@@ -1295,22 +1285,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_18f76291dde2",
-      "category": "new_grad",
-      "company": "BRMi",
-      "role": "IT Tester (Pega)",
-      "location": "Vienna, VA, US",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c6ca26b773006330b72ee0",
-      "postedDate": "2026-03-27",
-      "isPostedToday": false
-    },
-    {
       "id": "job_2b7d39df4dba",
       "category": "new_grad",
       "company": "BRMi",
       "role": "IT Tester (Pega)",
       "location": "US-VA-Vienna",
       "applicationUrl": "https://jobright.ai/jobs/info/69c6c9ffaa3c2c1995e122e0",
+      "postedDate": "2026-03-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_18f76291dde2",
+      "category": "new_grad",
+      "company": "BRMi",
+      "role": "IT Tester (Pega)",
+      "location": "Vienna, VA, US",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c6ca26b773006330b72ee0",
       "postedDate": "2026-03-27",
       "isPostedToday": false
     },
@@ -1361,16 +1351,6 @@
       "role": "QA Analyst",
       "location": "FL-CLIENT-STATE",
       "applicationUrl": "https://jobright.ai/jobs/info/69c6e4c91b5ad02887387e35",
-      "postedDate": "2026-03-27",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_d31761103269",
-      "category": "intern",
-      "company": "Calix",
-      "role": "Customer Experience Operations and Analytics Intern",
-      "location": "La Ronge, SK, Canada",
-      "applicationUrl": "https://calix.wd1.myworkdayjobs.com/External/job/Remote---North-America/Customer-Experience-Operations-and-Analytics-Intern_R-11544",
       "postedDate": "2026-03-27",
       "isPostedToday": false
     },
@@ -1705,32 +1685,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_971a750b2cf7",
+      "id": "job_dcca8d8af1e0",
       "category": "new_grad",
       "company": "Intact Insurance Specialty Solutions",
       "role": "Software Developer I (Hybrid or Remote)",
-      "location": "Boston, Massachusetts, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c6c96b1818a24cd84c86a7",
-      "postedDate": "2026-03-27",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_81ab1883ecb0",
-      "category": "new_grad",
-      "company": "Intact Insurance Specialty Solutions",
-      "role": "Software Developer I (Hybrid or Remote)",
-      "location": "Canton, Massachusetts, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c6c96b83ea553769fdd66a",
-      "postedDate": "2026-03-27",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_01be2f4b2f57",
-      "category": "new_grad",
-      "company": "Intact Insurance Specialty Solutions",
-      "role": "Software Developer I (Hybrid or Remote)",
-      "location": "New York, New York, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c6c965aa3c2c1995e1201b",
+      "location": "Plymouth, Minnesota, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c6c98fb773006330b72c2e",
       "postedDate": "2026-03-27",
       "isPostedToday": false
     },
@@ -1745,12 +1705,32 @@
       "isPostedToday": false
     },
     {
-      "id": "job_dcca8d8af1e0",
+      "id": "job_81ab1883ecb0",
       "category": "new_grad",
       "company": "Intact Insurance Specialty Solutions",
       "role": "Software Developer I (Hybrid or Remote)",
-      "location": "Plymouth, Minnesota, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c6c98fb773006330b72c2e",
+      "location": "Canton, Massachusetts, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c6c96b83ea553769fdd66a",
+      "postedDate": "2026-03-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_971a750b2cf7",
+      "category": "new_grad",
+      "company": "Intact Insurance Specialty Solutions",
+      "role": "Software Developer I (Hybrid or Remote)",
+      "location": "Boston, Massachusetts, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c6c96b1818a24cd84c86a7",
+      "postedDate": "2026-03-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_01be2f4b2f57",
+      "category": "new_grad",
+      "company": "Intact Insurance Specialty Solutions",
+      "role": "Software Developer I (Hybrid or Remote)",
+      "location": "New York, New York, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c6c965aa3c2c1995e1201b",
       "postedDate": "2026-03-27",
       "isPostedToday": false
     },
@@ -1835,12 +1815,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_3dfe17dcb531",
+      "id": "job_599069ceced8",
       "category": "new_grad",
       "company": "Leidos",
       "role": "Junior Software Engineer",
       "location": "Omaha, NE",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c417c36f4f855eeda67404",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c3c2ad6f4f855eeda5e03e",
       "postedDate": "2026-03-27",
       "isPostedToday": false
     },
@@ -3075,22 +3055,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_f0cdf0ee2592",
-      "category": "new_grad",
-      "company": "Booz Allen Hamilton",
-      "role": "Software Engineer",
-      "location": "Chantilly, Virginia, 22021",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c87b641818a24cd84d5165",
-      "postedDate": "2026-03-26",
-      "isPostedToday": false
-    },
-    {
       "id": "job_b4c5c4c84a2a",
       "category": "new_grad",
       "company": "Booz Allen Hamilton",
       "role": "Software Engineer",
       "location": "Alexandria, Virginia, 22350",
       "applicationUrl": "https://jobright.ai/jobs/info/69c85b04aa3c2c1995e1e44c",
+      "postedDate": "2026-03-26",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_f0cdf0ee2592",
+      "category": "new_grad",
+      "company": "Booz Allen Hamilton",
+      "role": "Software Engineer",
+      "location": "Chantilly, Virginia, 22021",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c87b641818a24cd84d5165",
       "postedDate": "2026-03-26",
       "isPostedToday": false
     },
@@ -5445,22 +5425,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_11c70a08405c",
-      "category": "new_grad",
-      "company": "Guidehouse",
-      "role": "Dynamics 365 CE Junior Developer",
-      "location": "Charlotte, NC",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c42a0533eecf310794485b",
-      "postedDate": "2026-03-25",
-      "isPostedToday": false
-    },
-    {
       "id": "job_56eecd32482f",
       "category": "new_grad",
       "company": "Guidehouse",
       "role": "Dynamics 365 CE Junior Developer",
       "location": "Boston, MA",
       "applicationUrl": "https://jobright.ai/jobs/info/69c42a0533eecf3107944860",
+      "postedDate": "2026-03-25",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_11c70a08405c",
+      "category": "new_grad",
+      "company": "Guidehouse",
+      "role": "Dynamics 365 CE Junior Developer",
+      "location": "Charlotte, NC",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c42a0533eecf310794485b",
       "postedDate": "2026-03-25",
       "isPostedToday": false
     },
@@ -6055,6 +6035,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_b21f92bcff8b",
+      "category": "new_grad",
+      "company": "Scalence L.L.C.",
+      "role": "Teller Application Tester",
+      "location": "Pittsburgh, PA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69ca2a40b773006330b8b5f0",
+      "postedDate": "2026-03-25",
+      "isPostedToday": false
+    },
+    {
       "id": "job_105456782ea4",
       "category": "intern",
       "company": "Schonfeld",
@@ -6445,22 +6435,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_d6c9adb26d26",
-      "category": "new_grad",
-      "company": "Transamerica",
-      "role": "Intermediate Software Engineer",
-      "location": "Philadelphia, Pennsylvania",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c4761cd5a1016e98dbb078",
-      "postedDate": "2026-03-25",
-      "isPostedToday": false
-    },
-    {
       "id": "job_7f6dd50609e6",
       "category": "new_grad",
       "company": "Transamerica",
       "role": "Intermediate Software Engineer",
       "location": "Denver, Colorado",
       "applicationUrl": "https://jobright.ai/jobs/info/69c476db6f4f855eeda703ac",
+      "postedDate": "2026-03-25",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_d6c9adb26d26",
+      "category": "new_grad",
+      "company": "Transamerica",
+      "role": "Intermediate Software Engineer",
+      "location": "Philadelphia, Pennsylvania",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c4761cd5a1016e98dbb078",
       "postedDate": "2026-03-25",
       "isPostedToday": false
     },
@@ -6665,22 +6655,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_9eee1a0eb377",
-      "category": "new_grad",
-      "company": "Wolters Kluwer",
-      "role": "Associate Product Software Engineer – Hybrid (KS/TX) R0055727",
-      "location": "USA - Wichita, KS",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c40494d5a1016e98db0991",
-      "postedDate": "2026-03-25",
-      "isPostedToday": false
-    },
-    {
       "id": "job_648ece0889a1",
       "category": "new_grad",
       "company": "Wolters Kluwer",
       "role": "Associate Product Software Engineer – Hybrid (KS/TX) R0055727",
       "location": "USA - Coppell, TX",
       "applicationUrl": "https://jobright.ai/jobs/info/69c404936f4f855eeda65ae4",
+      "postedDate": "2026-03-25",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_9eee1a0eb377",
+      "category": "new_grad",
+      "company": "Wolters Kluwer",
+      "role": "Associate Product Software Engineer – Hybrid (KS/TX) R0055727",
+      "location": "USA - Wichita, KS",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c40494d5a1016e98db0991",
       "postedDate": "2026-03-25",
       "isPostedToday": false
     },
@@ -6785,16 +6775,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_e8bede2d6976",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer I, Backend (Purchasing Power)",
-      "location": "New York, NY",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c30be5ec22f8310ab1196f",
-      "postedDate": "2026-03-24",
-      "isPostedToday": false
-    },
-    {
       "id": "job_6a5af392661c",
       "category": "new_grad",
       "company": "Affirm",
@@ -6805,12 +6785,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_9c783d39d8cc",
+      "id": "job_e8bede2d6976",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer I, Backend (Purchasing Power)",
-      "location": "Dallas, TX",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c30bceec22f8310ab11955",
+      "location": "New York, NY",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c30be5ec22f8310ab1196f",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -6825,12 +6805,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_2288a4275e05",
+      "id": "job_9c783d39d8cc",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer I, Backend (Purchasing Power)",
-      "location": "Sioux Falls, SD",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c30bc4ec22f8310ab1192d",
+      "location": "Dallas, TX",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c30bceec22f8310ab11955",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -6841,6 +6821,16 @@
       "role": "Software Engineer I, Backend (Purchasing Power)",
       "location": "San Diego, CA",
       "applicationUrl": "https://jobright.ai/jobs/info/69c30bc4ec22f8310ab1192e",
+      "postedDate": "2026-03-24",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_2288a4275e05",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer I, Backend (Purchasing Power)",
+      "location": "Sioux Falls, SD",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c30bc4ec22f8310ab1192d",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -6995,22 +6985,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_785cd24f20ad",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer I, Backend (Purchasing Power)",
-      "location": "Chicago, IL",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c2fe92ec22f8310ab10696",
-      "postedDate": "2026-03-24",
-      "isPostedToday": false
-    },
-    {
       "id": "job_9b62e8abbef5",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer I, Backend (Purchasing Power)",
       "location": "St Louis, MO",
       "applicationUrl": "https://jobright.ai/jobs/info/69c2fe92ec22f8310ab10697",
+      "postedDate": "2026-03-24",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_785cd24f20ad",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer I, Backend (Purchasing Power)",
+      "location": "Chicago, IL",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c2fe92ec22f8310ab10696",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -7055,12 +7045,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_2becb5f7388c",
+      "id": "job_648cb66c9bee",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer I, Backend (Purchasing Power)",
-      "location": "Charlotte, NC",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c31960ec22f8310ab13e6b",
+      "location": "Nashville, TN",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c31979753c101b2156aa66",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -7075,12 +7065,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_648cb66c9bee",
+      "id": "job_2becb5f7388c",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer I, Backend (Purchasing Power)",
-      "location": "Nashville, TN",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c31979753c101b2156aa66",
+      "location": "Charlotte, NC",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c31960ec22f8310ab13e6b",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -7575,16 +7565,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_fab0c6d3348e",
-      "category": "new_grad",
-      "company": "EY",
-      "role": "Technology Operations Analyst I (Guidewire), Managed Services Practice - Dieppe, New Brunswick",
-      "location": "Saskatoon, SK",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c3607b7a7a0045db891a6e",
-      "postedDate": "2026-03-24",
-      "isPostedToday": false
-    },
-    {
       "id": "job_2d67108b02eb",
       "category": "new_grad",
       "company": "EY",
@@ -7595,12 +7575,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_130d0dbaa2ae",
+      "id": "job_fab0c6d3348e",
       "category": "new_grad",
       "company": "EY",
       "role": "Technology Operations Analyst I (Guidewire), Managed Services Practice - Dieppe, New Brunswick",
-      "location": "Victoria, BC",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c360737a7a0045db891a57",
+      "location": "Saskatoon, SK",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c3607b7a7a0045db891a6e",
+      "postedDate": "2026-03-24",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_6a10d1124689",
+      "category": "new_grad",
+      "company": "EY",
+      "role": "Technology Operations Analyst I (Guidewire), Managed Services Practice - Dieppe, New Brunswick",
+      "location": "London, ON",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c360737a7a0045db891a59",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -7615,12 +7605,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_6a10d1124689",
+      "id": "job_130d0dbaa2ae",
       "category": "new_grad",
       "company": "EY",
       "role": "Technology Operations Analyst I (Guidewire), Managed Services Practice - Dieppe, New Brunswick",
-      "location": "London, ON",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c360737a7a0045db891a59",
+      "location": "Victoria, BC",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c360737a7a0045db891a57",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -7645,6 +7635,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_d432cafc2c3e",
+      "category": "new_grad",
+      "company": "EY",
+      "role": "Technology Operations Analyst I (Guidewire), Managed Services Practice - Dieppe, New Brunswick",
+      "location": "Waterloo, ON",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c35fde753c101b21572227",
+      "postedDate": "2026-03-24",
+      "isPostedToday": false
+    },
+    {
       "id": "job_d3bbeb35c4be",
       "category": "new_grad",
       "company": "EY",
@@ -7661,16 +7661,6 @@
       "role": "Technology Operations Analyst I (Guidewire), Managed Services Practice - Dieppe, New Brunswick",
       "location": "Calgary, AB",
       "applicationUrl": "https://jobright.ai/jobs/info/69c35fde753c101b21572226",
-      "postedDate": "2026-03-24",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_d432cafc2c3e",
-      "category": "new_grad",
-      "company": "EY",
-      "role": "Technology Operations Analyst I (Guidewire), Managed Services Practice - Dieppe, New Brunswick",
-      "location": "Waterloo, ON",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c35fde753c101b21572227",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -7965,12 +7955,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_a4d6769152c7",
+      "id": "job_fd8df6539a1c",
       "category": "new_grad",
       "company": "Google",
       "role": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
-      "location": "New York, NY",
-      "applicationUrl": "https://jobright.ai/jobs/info/6973f7c037785856350dd961",
+      "location": "Mountain View, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/6973ec7137785856350dbd60",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -7985,12 +7975,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_fd8df6539a1c",
+      "id": "job_a4d6769152c7",
       "category": "new_grad",
       "company": "Google",
       "role": "Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start",
-      "location": "Mountain View, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6973ec7137785856350dbd60",
+      "location": "New York, NY",
+      "applicationUrl": "https://jobright.ai/jobs/info/6973f7c037785856350dd961",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -8025,22 +8015,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_40c9a1fe39fc",
-      "category": "new_grad",
-      "company": "Google",
-      "role": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
-      "location": "Austin, TX",
-      "applicationUrl": "https://jobright.ai/jobs/info/6973f04e37785856350dc222",
-      "postedDate": "2026-03-24",
-      "isPostedToday": false
-    },
-    {
       "id": "job_55ff16bf9d40",
       "category": "new_grad",
       "company": "Google",
       "role": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
       "location": "Kirkland, WA",
       "applicationUrl": "https://jobright.ai/jobs/info/6973f65b37785856350dd4b8",
+      "postedDate": "2026-03-24",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_40c9a1fe39fc",
+      "category": "new_grad",
+      "company": "Google",
+      "role": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
+      "location": "Austin, TX",
+      "applicationUrl": "https://jobright.ai/jobs/info/6973f04e37785856350dc222",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -8975,16 +8965,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_727ee86bfc8b",
-      "category": "new_grad",
-      "company": "Autodesk",
-      "role": "Software Engineer",
-      "location": "Toronto, ON, CAN",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166d775f7ff1cd80f5e71",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
       "id": "job_5ee94e27b12f",
       "category": "new_grad",
       "company": "BeneSys, Inc.",
@@ -9031,16 +9011,6 @@
       "role": "Associate Intern - Marketing Data Analytics",
       "location": "Washington, DC, Chicago, IL",
       "applicationUrl": "https://bcbsa.wd1.myworkdayjobs.com/careers/job/US-IL-Chicago-E-Randolph/Summer-Associate-Intern--Marketing-Data-Analytics-_JR5797",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_5417333c4fce",
-      "category": "new_grad",
-      "company": "Boeing",
-      "role": "Associate Software Engineer - Developers",
-      "location": "USA - Oklahoma City, OK",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166d375f7ff1cd80f5e60",
       "postedDate": "2026-03-23",
       "isPostedToday": false
     },
@@ -9415,436 +9385,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_24be842e4b86",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Indiana",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166e375f7ff1cd80f5ec9",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_d7dd1159bbf8",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Wyoming",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166e375f7ff1cd80f5ecb",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_06464958cf95",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Tennessee",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166e375f7ff1cd80f5eca",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_30ff54d35f86",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Missouri",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166e375f7ff1cd80f5ec8",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_bcb16dabc935",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Maryland",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166e375f7ff1cd80f5ec6",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_1cebba4fcc9b",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Florida",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166e375f7ff1cd80f5ecc",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_c91296169ae7",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Virginia",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166e375f7ff1cd80f5ec7",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_9bcd9a8a4ced",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Idaho",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166e275f7ff1cd80f5ec0",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_fcc65176bdbc",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-New York",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166e275f7ff1cd80f5ec1",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_19ef621fd28b",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Georgia",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166e275f7ff1cd80f5ec2",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_2560a2e3ff46",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Michigan",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166e275f7ff1cd80f5ec3",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_e14fe15ccb82",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Maine",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166e275f7ff1cd80f5ebf",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_21535d0fc42e",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Oklahoma",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166e275f7ff1cd80f5ec4",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_c87bbccb7295",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Kansas",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166e275f7ff1cd80f5ec5",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_069127d965d1",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-North Carolina",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166d92c312363dcd4385c",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_e682928eec85",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Arizona",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166d82c312363dcd4385a",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_956840cac68c",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Alabama",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166d82c312363dcd43859",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_50f66ea1cd9b",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Minnesota",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166cf2c312363dcd4382b",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_66668df953db",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Ohio",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166cf2c312363dcd43840",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_bd92818f8594",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Washington",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166cf2c312363dcd43832",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_52417a30e7f7",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-District of Columbia",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166cf2c312363dcd43838",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_1ffbaea2fa70",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Kentucky",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166cf2c312363dcd43839",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_e927e529b4ca",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Iowa",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166cf2c312363dcd43830",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_306dce0eb7d8",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Vermont",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166cf2c312363dcd43826",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_8edff4470422",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Oregon",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166cf2c312363dcd4382d",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_832de14a958c",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Nebraska",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166cf2c312363dcd43837",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_2de0c0ac41f9",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Massachusetts",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166cf2c312363dcd4383f",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_7c3e84566cdb",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Nevada",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166cf2c312363dcd43836",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_87f28d03527c",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "MA - Wellesley",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166cf2c312363dcd43823",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_dfe6762dc2ec",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Arkansas",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166c679e36d3a847e160b",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_174e5d48e8d2",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Delaware",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166c679e36d3a847e1609",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_702f1694c85a",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Texas",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166c479e36d3a847e15fe",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_c7cd84c7f334",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Illinois",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166c479e36d3a847e15f8",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_fd9ee879841f",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-North Dakota",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166c479e36d3a847e15f1",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_28adc2334ce2",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Pennsylvania",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166c479e36d3a847e15f5",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_fa5aae8ed706",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Louisiana",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166c479e36d3a847e15f2",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_7b9f5477f946",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-West Virginia",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166c479e36d3a847e15ff",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_1bd1e3e15a71",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Wisconsin",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166c479e36d3a847e15f4",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_4ba83c00db25",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Mississippi",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166c379e36d3a847e15e9",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_b6244a3935ef",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-Connecticut",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166c379e36d3a847e15e6",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_a8b1f894a715",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home - Utah",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166c379e36d3a847e15eb",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_66cc2ee2fe83",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-South Carolina",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166c379e36d3a847e15e7",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_a2941861ad09",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Full-Stack Developer - Python",
-      "location": "Work At Home-California",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c166c379e36d3a847e15e8",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
       "id": "job_7b3a522f5e0b",
       "category": "new_grad",
       "company": "DeVine Consulting, Inc.",
@@ -10085,16 +9625,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_d7e7f4938af7",
-      "category": "new_grad",
-      "company": "L3Harris Technologies",
-      "role": "Associate, Software Engineering (Wilmington, MA)",
-      "location": "Wilmington, MA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69a3d64f359fe034b1cebf47",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
       "id": "job_c36243768c9f",
       "category": "new_grad",
       "company": "Legato Search Inc.",
@@ -10165,12 +9695,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_7b541b5e00a4",
+      "id": "job_7caea05e9571",
       "category": "new_grad",
       "company": "Mariana Minerals",
       "role": "Full Stack Software Engineer",
-      "location": "Ann Arbor, MI",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c1e4ec75f7ff1cd8103ff6",
+      "location": "Houston, TX",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c1e5112c312363dcd519ad",
       "postedDate": "2026-03-23",
       "isPostedToday": false
     },
@@ -10185,12 +9715,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_7caea05e9571",
+      "id": "job_7b541b5e00a4",
       "category": "new_grad",
       "company": "Mariana Minerals",
       "role": "Full Stack Software Engineer",
-      "location": "Houston, TX",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c1e5112c312363dcd519ad",
+      "location": "Ann Arbor, MI",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c1e4ec75f7ff1cd8103ff6",
       "postedDate": "2026-03-23",
       "isPostedToday": false
     },
@@ -10641,26 +10171,6 @@
       "role": "Facilities Software Specialist",
       "location": "Albany, NY",
       "applicationUrl": "https://jobright.ai/jobs/info/6977dbf488e2b47213bbd6fb",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_f75202889192",
-      "category": "new_grad",
-      "company": "Torc Robotics",
-      "role": "Software Engineer, I - Release Pipelines",
-      "location": "Ann Arbor, MI",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c16db72c312363dcd44119",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_ef219a143cb4",
-      "category": "new_grad",
-      "company": "Torc Robotics",
-      "role": "Software Engineer, I - Release Pipelines",
-      "location": "Ann Arbor, MI",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c169a575f7ff1cd80f63d3",
       "postedDate": "2026-03-23",
       "isPostedToday": false
     },
@@ -13081,16 +12591,6 @@
       "role": "Cryptography Intern",
       "location": "Bristol, UK",
       "applicationUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Bristol-Bristol-City-of-United-Kingdom/Cryptography-Intern_UNI3783-1",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_710ad8a42478",
-      "category": "new_grad",
-      "company": "Ivo",
-      "role": "Software Engineer",
-      "location": "San Francisco Bay Area",
-      "applicationUrl": "https://jobright.ai/jobs/info/68b7bb5f6369c959209362f1",
       "postedDate": "2026-03-17",
       "isPostedToday": false
     },
