@@ -1,9 +1,19 @@
 {
-  "generatedAt": "2026-03-31T07:01:31-5",
+  "generatedAt": "2026-03-31T08:01:30-5",
   "timezone": "America/Chicago",
   "pageSize": 50,
-  "totalJobs": 4737,
+  "totalJobs": 4725,
   "jobs": [
+    {
+      "id": "job_e037dd73a2f3",
+      "category": "new_grad",
+      "company": "Adobe",
+      "role": "Software Development Engineer",
+      "location": "Lehi, UT",
+      "applicationUrl": "https://jobright.ai/jobs/info/69af458adfaeda6ff59766f9",
+      "postedDate": "2026-03-31",
+      "isPostedToday": true
+    },
     {
       "id": "job_0f0e17a4c131",
       "category": "intern",
@@ -11,6 +21,16 @@
       "role": "Test Engineering Intern (Software)",
       "location": "Hercules, CA",
       "applicationUrl": "https://careers-biorad.icims.com/jobs/38316/test-engineering-intern-%28software%29/job",
+      "postedDate": "2026-03-31",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_d32756be4659",
+      "category": "new_grad",
+      "company": "Booz Allen Hamilton",
+      "role": "Electronic Warfare Software Engineer",
+      "location": "Beavercreek, OH",
+      "applicationUrl": "https://jobright.ai/jobs/info/69af78e4749500645093f5f3",
       "postedDate": "2026-03-31",
       "isPostedToday": true
     },
@@ -51,6 +71,16 @@
       "role": "Software Engineer – Entry Level 🇺🇸",
       "location": "Scottsdale, AZ",
       "applicationUrl": "https://careers-gdms.icims.com/jobs/71627/software-engineer-%E2%80%93-entry-level/job",
+      "postedDate": "2026-03-31",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_1a6a570f6779",
+      "category": "new_grad",
+      "company": "Honey",
+      "role": "Software Engineer - Java",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69af350bdfaeda6ff59751c3",
       "postedDate": "2026-03-31",
       "isPostedToday": true
     },
@@ -145,6 +175,16 @@
       "isPostedToday": true
     },
     {
+      "id": "job_1bf334ff3483",
+      "category": "new_grad",
+      "company": "Scout AI",
+      "role": "Firmware Engineer",
+      "location": "Sunnyvale, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69991e7c81476f6176b19da7",
+      "postedDate": "2026-03-31",
+      "isPostedToday": true
+    },
+    {
       "id": "job_dfdf49f7dcb7",
       "category": "new_grad",
       "company": "Scout AI",
@@ -171,6 +211,16 @@
       "role": "Robotics &amp; Autonomy Engineering Intern",
       "location": "Davis, CA",
       "applicationUrl": "https://apply.workable.com/terabase-energy/j/5CDBB58919",
+      "postedDate": "2026-03-31",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_d46ce28e5cb9",
+      "category": "new_grad",
+      "company": "Westinghouse Electric Company",
+      "role": "Engineer I",
+      "location": "Warrendale, PA",
+      "applicationUrl": "https://jobright.ai/jobs/info/693c9cadaa598a08c3ed82a3",
       "postedDate": "2026-03-31",
       "isPostedToday": true
     },
@@ -265,22 +315,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_008eb7453e20",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Credit Decisioning)",
-      "location": "Windsor, ON",
-      "applicationUrl": "https://jobright.ai/jobs/info/69766892bc8e722e7b1aff7d",
-      "postedDate": "2026-03-30",
-      "isPostedToday": false
-    },
-    {
       "id": "job_01950bf2b735",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Credit Decisioning)",
       "location": "Los Angeles, CA",
       "applicationUrl": "https://jobright.ai/jobs/info/69767349bc8e722e7b1b0557",
+      "postedDate": "2026-03-30",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_008eb7453e20",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Credit Decisioning)",
+      "location": "Windsor, ON",
+      "applicationUrl": "https://jobright.ai/jobs/info/69766892bc8e722e7b1aff7d",
       "postedDate": "2026-03-30",
       "isPostedToday": false
     },
@@ -345,22 +395,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_64cd353bd8f8",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Marketplace Performance)",
-      "location": "Palo Alto, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69cb372caa3c2c1995e34f70",
-      "postedDate": "2026-03-30",
-      "isPostedToday": false
-    },
-    {
       "id": "job_242d0ba22ffb",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Marketplace Performance)",
       "location": "San Francisco, CA",
       "applicationUrl": "https://jobright.ai/jobs/info/69cb372ce565c26a70045a02",
+      "postedDate": "2026-03-30",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_64cd353bd8f8",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Marketplace Performance)",
+      "location": "Palo Alto, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69cb372caa3c2c1995e34f70",
       "postedDate": "2026-03-30",
       "isPostedToday": false
     },
@@ -445,6 +495,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_642ac7781c1f",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Marketplace Performance)",
+      "location": "Houston, TX",
+      "applicationUrl": "https://jobright.ai/jobs/info/69cb23c7aa3c2c1995e3470d",
+      "postedDate": "2026-03-30",
+      "isPostedToday": false
+    },
+    {
       "id": "job_fa4833a27acb",
       "category": "new_grad",
       "company": "Affirm",
@@ -455,12 +515,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_642ac7781c1f",
+      "id": "job_62865ffa12c7",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Marketplace Performance)",
-      "location": "Houston, TX",
-      "applicationUrl": "https://jobright.ai/jobs/info/69cb23c7aa3c2c1995e3470d",
+      "location": "Dallas, TX",
+      "applicationUrl": "https://jobright.ai/jobs/info/69cb23b01b5ad028873a918a",
       "postedDate": "2026-03-30",
       "isPostedToday": false
     },
@@ -481,16 +541,6 @@
       "role": "Software Engineer II, Backend (Marketplace Performance)",
       "location": "Charlotte, NC",
       "applicationUrl": "https://jobright.ai/jobs/info/69cb23b01b5ad028873a918b",
-      "postedDate": "2026-03-30",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_62865ffa12c7",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Marketplace Performance)",
-      "location": "Dallas, TX",
-      "applicationUrl": "https://jobright.ai/jobs/info/69cb23b01b5ad028873a918a",
       "postedDate": "2026-03-30",
       "isPostedToday": false
     },
@@ -615,12 +665,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_32b50f836ec4",
+      "id": "job_976b12598962",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Marketplace Performance)",
-      "location": "San Jose, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69cb2382466f1e133aacb48f",
+      "location": "Las Vegas, NV",
+      "applicationUrl": "https://jobright.ai/jobs/info/69cb2382466f1e133aacb48e",
       "postedDate": "2026-03-30",
       "isPostedToday": false
     },
@@ -635,22 +685,22 @@
       "isPostedToday": false
     },
     {
+      "id": "job_32b50f836ec4",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (Marketplace Performance)",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69cb2382466f1e133aacb48f",
+      "postedDate": "2026-03-30",
+      "isPostedToday": false
+    },
+    {
       "id": "job_aaabb527d8e9",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer II, Backend (Marketplace Performance)",
       "location": "Seattle, WA",
       "applicationUrl": "https://jobright.ai/jobs/info/69cb2382466f1e133aacb48c",
-      "postedDate": "2026-03-30",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_976b12598962",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer II, Backend (Marketplace Performance)",
-      "location": "Las Vegas, NV",
-      "applicationUrl": "https://jobright.ai/jobs/info/69cb2382466f1e133aacb48e",
       "postedDate": "2026-03-30",
       "isPostedToday": false
     },
@@ -1102,7 +1152,7 @@
       "location": "New York, NY",
       "applicationUrl": "https://jobs.ashbyhq.com/farsight/096cdc49-06ae-4724-8f46-c58184e98334",
       "postedDate": "2026-03-30",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_e3c25336d2fa",
@@ -1712,7 +1762,7 @@
       "location": "Boston, MA",
       "applicationUrl": "https://job-boards.greenhouse.io/piaggiofastforward/jobs/6751147",
       "postedDate": "2026-03-30",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_3ad007c7f5c9",
@@ -4115,16 +4165,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_01be2f4b2f57",
-      "category": "new_grad",
-      "company": "Intact Insurance Specialty Solutions",
-      "role": "Software Developer I (Hybrid or Remote)",
-      "location": "New York, New York, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c6c965aa3c2c1995e1201b",
-      "postedDate": "2026-03-27",
-      "isPostedToday": false
-    },
-    {
       "id": "job_aa5054d14b07",
       "category": "new_grad",
       "company": "Intact Insurance Specialty Solutions",
@@ -4161,6 +4201,16 @@
       "role": "Software Developer I (Hybrid or Remote)",
       "location": "Boston, Massachusetts, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/69c6c96b1818a24cd84c86a7",
+      "postedDate": "2026-03-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_01be2f4b2f57",
+      "category": "new_grad",
+      "company": "Intact Insurance Specialty Solutions",
+      "role": "Software Developer I (Hybrid or Remote)",
+      "location": "New York, New York, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c6c965aa3c2c1995e1201b",
       "postedDate": "2026-03-27",
       "isPostedToday": false
     },
@@ -4225,12 +4275,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_3dfe17dcb531",
+      "id": "job_599069ceced8",
       "category": "new_grad",
       "company": "Leidos",
       "role": "Junior Software Engineer",
       "location": "Omaha, NE",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c417c36f4f855eeda67404",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c3c2ad6f4f855eeda5e03e",
       "postedDate": "2026-03-27",
       "isPostedToday": false
     },
@@ -5325,22 +5375,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_4c0733e0648b",
-      "category": "new_grad",
-      "company": "Booz Allen Hamilton",
-      "role": "Software Development Engineer",
-      "location": "McLean, Virginia, 22107",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c880e31b5ad02887393b72",
-      "postedDate": "2026-03-26",
-      "isPostedToday": false
-    },
-    {
       "id": "job_f96d58159403",
       "category": "new_grad",
       "company": "Booz Allen Hamilton",
       "role": "Software Development Engineer",
       "location": "McLean, Virginia, 22107",
       "applicationUrl": "https://jobright.ai/jobs/info/69c880e51b5ad02887393b92",
+      "postedDate": "2026-03-26",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_4c0733e0648b",
+      "category": "new_grad",
+      "company": "Booz Allen Hamilton",
+      "role": "Software Development Engineer",
+      "location": "McLean, Virginia, 22107",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c880e31b5ad02887393b72",
       "postedDate": "2026-03-26",
       "isPostedToday": false
     },
@@ -6505,16 +6555,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_1535924312d3",
-      "category": "new_grad",
-      "company": "TikTok",
-      "role": "Software Engineer Graduate (Ads Infrastructure) - 2026 Start (BS/MS)",
-      "location": "San Jose, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69a9f1c69ca4e908ec6538d1",
-      "postedDate": "2026-03-26",
-      "isPostedToday": false
-    },
-    {
       "id": "job_2ae2cc3b7438",
       "category": "new_grad",
       "company": "TRM Labs",
@@ -6751,16 +6791,6 @@
       "role": "Quality Assurance Technician",
       "location": "14950 MERIDIAN PKWY, MARCH AIR RESERVE BASE, CA, 92518, US",
       "applicationUrl": "https://jobright.ai/jobs/info/69cb284b1b5ad028873a92ba",
-      "postedDate": "2026-03-25",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_f35cc8954959",
-      "category": "new_grad",
-      "company": "Albertsons Companies",
-      "role": "Quality Assurance Technician",
-      "location": "14950 MERIDIAN PKWY, MARCH AIR RESERVE BASE, CA, 92518, US",
-      "applicationUrl": "https://jobright.ai/jobs/info/69cb28fbe565c26a70045322",
       "postedDate": "2026-03-25",
       "isPostedToday": false
     },
@@ -7055,16 +7085,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_bb745d6d1e55",
-      "category": "new_grad",
-      "company": "Boeing",
-      "role": "Systems Software Engineer - C2BMC (Associate, Experienced or Senior)",
-      "location": "Colorado Springs, CO",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c3e1dc6f4f855eeda62221",
-      "postedDate": "2026-03-25",
-      "isPostedToday": false
-    },
-    {
       "id": "job_5158defdde5b",
       "category": "new_grad",
       "company": "Booz Allen Hamilton",
@@ -7125,22 +7145,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_261f48703e86",
-      "category": "new_grad",
-      "company": "CBRE",
-      "role": "Software Engineer Sr Analyst",
-      "location": "Richardson, TX",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c49ac033eecf3107950048",
-      "postedDate": "2026-03-25",
-      "isPostedToday": false
-    },
-    {
       "id": "job_fabef5f76b3b",
       "category": "new_grad",
       "company": "CBRE",
       "role": "Software Engineer Sr Analyst",
       "location": "Richardson, TX",
       "applicationUrl": "https://jobright.ai/jobs/info/69c49abd33eecf310795003f",
+      "postedDate": "2026-03-25",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_261f48703e86",
+      "category": "new_grad",
+      "company": "CBRE",
+      "role": "Software Engineer Sr Analyst",
+      "location": "Richardson, TX",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c49ac033eecf3107950048",
       "postedDate": "2026-03-25",
       "isPostedToday": false
     },
@@ -7445,22 +7465,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_671cbc65e62a",
-      "category": "new_grad",
-      "company": "General Motors",
-      "role": "Software Developer - Early Career",
-      "location": "Oshawa, ON",
-      "applicationUrl": "https://jobright.ai/jobs/info/69a1455bb600907a96277960",
-      "postedDate": "2026-03-25",
-      "isPostedToday": false
-    },
-    {
       "id": "job_6dd3ec194eb5",
       "category": "new_grad",
       "company": "General Motors",
       "role": "Software Developer - Early Career",
       "location": "Markham, ON",
       "applicationUrl": "https://jobright.ai/jobs/info/69188a7845fb6f5ead8a5cf7",
+      "postedDate": "2026-03-25",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_671cbc65e62a",
+      "category": "new_grad",
+      "company": "General Motors",
+      "role": "Software Developer - Early Career",
+      "location": "Oshawa, ON",
+      "applicationUrl": "https://jobright.ai/jobs/info/69a1455bb600907a96277960",
       "postedDate": "2026-03-25",
       "isPostedToday": false
     },
@@ -8385,16 +8405,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_772e330e7abc",
-      "category": "new_grad",
-      "company": "Transamerica",
-      "role": "Intermediate Software Engineer",
-      "location": "Cedar Rapids, Iowa",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c476bb33eecf310794c96a",
-      "postedDate": "2026-03-25",
-      "isPostedToday": false
-    },
-    {
       "id": "job_7f6dd50609e6",
       "category": "new_grad",
       "company": "Transamerica",
@@ -8411,6 +8421,16 @@
       "role": "Intermediate Software Engineer",
       "location": "Philadelphia, Pennsylvania",
       "applicationUrl": "https://jobright.ai/jobs/info/69c4761cd5a1016e98dbb078",
+      "postedDate": "2026-03-25",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_772e330e7abc",
+      "category": "new_grad",
+      "company": "Transamerica",
+      "role": "Intermediate Software Engineer",
+      "location": "Cedar Rapids, Iowa",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c476bb33eecf310794c96a",
       "postedDate": "2026-03-25",
       "isPostedToday": false
     },
@@ -8585,16 +8605,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_6a0b76b4a76c",
-      "category": "intern",
-      "company": "Western Digital",
-      "role": "Intern - Software Engineer - Web/App Development",
-      "location": "San Jose, CA",
-      "applicationUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000116691867",
-      "postedDate": "2026-03-25",
-      "isPostedToday": false
-    },
-    {
       "id": "job_e861fcd3fd6d",
       "category": "new_grad",
       "company": "Wolters Kluwer",
@@ -8735,16 +8745,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_85bc22a13872",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer I, Backend (Purchasing Power)",
-      "location": "Minneapolis, MN",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c30bceec22f8310ab11954",
-      "postedDate": "2026-03-24",
-      "isPostedToday": false
-    },
-    {
       "id": "job_9c783d39d8cc",
       "category": "new_grad",
       "company": "Affirm",
@@ -8755,12 +8755,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_2288a4275e05",
+      "id": "job_85bc22a13872",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer I, Backend (Purchasing Power)",
-      "location": "Sioux Falls, SD",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c30bc4ec22f8310ab1192d",
+      "location": "Minneapolis, MN",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c30bceec22f8310ab11954",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -8775,12 +8775,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_506011e86a08",
+      "id": "job_2288a4275e05",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer I, Backend (Purchasing Power)",
-      "location": "Detroit, MI",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c30ba1753c101b21568571",
+      "location": "Sioux Falls, SD",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c30bc4ec22f8310ab1192d",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -8791,6 +8791,16 @@
       "role": "Software Engineer I, Backend (Purchasing Power)",
       "location": "Seattle, WA",
       "applicationUrl": "https://jobright.ai/jobs/info/69c30ba1753c101b21568570",
+      "postedDate": "2026-03-24",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_506011e86a08",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer I, Backend (Purchasing Power)",
+      "location": "Detroit, MI",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c30ba1753c101b21568571",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -8925,22 +8935,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_9b62e8abbef5",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer I, Backend (Purchasing Power)",
-      "location": "St Louis, MO",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c2fe92ec22f8310ab10697",
-      "postedDate": "2026-03-24",
-      "isPostedToday": false
-    },
-    {
       "id": "job_785cd24f20ad",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer I, Backend (Purchasing Power)",
       "location": "Chicago, IL",
       "applicationUrl": "https://jobright.ai/jobs/info/69c2fe92ec22f8310ab10696",
+      "postedDate": "2026-03-24",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_9b62e8abbef5",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer I, Backend (Purchasing Power)",
+      "location": "St Louis, MO",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c2fe92ec22f8310ab10697",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -8985,16 +8995,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_2becb5f7388c",
-      "category": "new_grad",
-      "company": "Affirm",
-      "role": "Software Engineer I, Backend (Purchasing Power)",
-      "location": "Charlotte, NC",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c31960ec22f8310ab13e6b",
-      "postedDate": "2026-03-24",
-      "isPostedToday": false
-    },
-    {
       "id": "job_648cb66c9bee",
       "category": "new_grad",
       "company": "Affirm",
@@ -9015,12 +9015,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_017ad7c91e5d",
+      "id": "job_2becb5f7388c",
       "category": "new_grad",
       "company": "Affirm",
       "role": "Software Engineer I, Backend (Purchasing Power)",
-      "location": "Remote US",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c2df1894007a2195dee42f",
+      "location": "Charlotte, NC",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c31960ec22f8310ab13e6b",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -9061,16 +9061,6 @@
       "role": "Programmer Analyst - Web Applications",
       "location": "Vienna, VA",
       "applicationUrl": "https://jobright.ai/jobs/info/69c2f691753c101b21566848",
-      "postedDate": "2026-03-24",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_a77f4557c3f8",
-      "category": "new_grad",
-      "company": "Alpha Omega",
-      "role": "Programmer Analyst - Web Applications",
-      "location": "Vienna, Virginia, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c2e9d5ec22f8310ab0e4b1",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -9185,16 +9175,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_09b5294dc414",
-      "category": "new_grad",
-      "company": "BMO Capital Markets",
-      "role": "Analyst, Software Engineer (C#)",
-      "location": "Toronto, ON",
-      "applicationUrl": "https://jobright.ai/jobs/info/69a68238e567421f42578880",
-      "postedDate": "2026-03-24",
-      "isPostedToday": false
-    },
-    {
       "id": "job_5ad128da9899",
       "category": "new_grad",
       "company": "Booz Allen Hamilton",
@@ -9255,16 +9235,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_5522a52b1982",
-      "category": "new_grad",
-      "company": "Campus4Tech",
-      "role": "Junior Salesforce Developer",
-      "location": "Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c2e3ea94007a2195def2c1",
-      "postedDate": "2026-03-24",
-      "isPostedToday": false
-    },
-    {
       "id": "job_a3ecdc9d925f",
       "category": "new_grad",
       "company": "Caterpillar Inc.",
@@ -9281,16 +9251,6 @@
       "role": "Intern Asset Management",
       "location": "Greeley, CO",
       "applicationUrl": "https://elvp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2538",
-      "postedDate": "2026-03-24",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_ebe0d3c24386",
-      "category": "new_grad",
-      "company": "CloudFit Software",
-      "role": "Software Development Engineer",
-      "location": "Lynchburg, VA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c2e3d5753c101b21564815",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -9375,16 +9335,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_58a8c81bb91d",
-      "category": "new_grad",
-      "company": "Ericsson",
-      "role": "SW Developer - Cloud RAN Baseband",
-      "location": "Ottawa, ON",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c2e90cec22f8310ab0e285",
-      "postedDate": "2026-03-24",
-      "isPostedToday": false
-    },
-    {
       "id": "job_fab0c6d3348e",
       "category": "new_grad",
       "company": "EY",
@@ -9455,6 +9405,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_d3bbeb35c4be",
+      "category": "new_grad",
+      "company": "EY",
+      "role": "Technology Operations Analyst I (Guidewire), Managed Services Practice - Dieppe, New Brunswick",
+      "location": "Edmonton, AB",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c35fde753c101b21572225",
+      "postedDate": "2026-03-24",
+      "isPostedToday": false
+    },
+    {
       "id": "job_9780e17491f4",
       "category": "new_grad",
       "company": "EY",
@@ -9471,16 +9431,6 @@
       "role": "Technology Operations Analyst I (Guidewire), Managed Services Practice - Dieppe, New Brunswick",
       "location": "Waterloo, ON",
       "applicationUrl": "https://jobright.ai/jobs/info/69c35fde753c101b21572227",
-      "postedDate": "2026-03-24",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_d3bbeb35c4be",
-      "category": "new_grad",
-      "company": "EY",
-      "role": "Technology Operations Analyst I (Guidewire), Managed Services Practice - Dieppe, New Brunswick",
-      "location": "Edmonton, AB",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c35fde753c101b21572225",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -9531,16 +9481,6 @@
       "role": "Software Engineer Work-Study Program (No Tech Background Needed) - Bletchley Fellowship",
       "location": "Remote (United States)",
       "applicationUrl": "https://jobright.ai/jobs/info/69c322daec22f8310ab14b77",
-      "postedDate": "2026-03-24",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_a6379238dc68",
-      "category": "new_grad",
-      "company": "Fortinet",
-      "role": "Full Stack Software Developer",
-      "location": "Burnaby, BC",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c3077cec22f8310ab10add",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -9691,16 +9631,6 @@
       "role": "Agent Deployment Engineer",
       "location": "Palo Alto, CA",
       "applicationUrl": "https://jobs.ashbyhq.com/Hippocratic%20AI/0437c678-bd5a-429d-b34b-bfd3b70d1793/application",
-      "postedDate": "2026-03-24",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_305e660e3ca6",
-      "category": "new_grad",
-      "company": "Hologic, Inc.",
-      "role": "System Quality Assurance Test Engineer, Sustaining",
-      "location": "Santa Clara, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c2ea9694007a2195defa8d",
       "postedDate": "2026-03-24",
       "isPostedToday": false
     },
@@ -10361,16 +10291,6 @@
       "role": "Data Analyst Intern 🇺🇸",
       "location": "Philadelphia, PA",
       "applicationUrl": "https://jobs.smartrecruiters.com/CityofPhiladelphia/4bb2befc-ab56-48bb-b2f2-969c40c78ca9",
-      "postedDate": "2026-03-23",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_993985ef027f",
-      "category": "intern",
-      "company": "Cognitiv",
-      "role": "Machine Learning Engineer Intern",
-      "location": "Bellevue, WA",
-      "applicationUrl": "https://job-boards.greenhouse.io/cognitiv/jobs/4192536009",
       "postedDate": "2026-03-23",
       "isPostedToday": false
     },
@@ -11745,12 +11665,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_d8381336f548",
+      "id": "job_db28b35cc1e7",
       "category": "new_grad",
       "company": "General Dynamics Mission Systems",
       "role": "Junior Embedded Software Engineer (cleared) 🇺🇸",
       "location": "Dedham, MA",
-      "applicationUrl": "https://careers-gdms.icims.com/jobs/71509/junior-embedded-software-engineer-%28cleared%29/job",
+      "applicationUrl": "",
       "postedDate": "2026-03-19",
       "isPostedToday": false
     },
@@ -12245,16 +12165,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_efc7a87d5b2f",
-      "category": "intern",
-      "company": "EverCommerce",
-      "role": "Software Engineer Intern",
-      "location": "Remote in USA",
-      "applicationUrl": "https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverHealth---Software-Engineer-Internship--Remote--US-_R-106034",
-      "postedDate": "2026-03-18",
-      "isPostedToday": false
-    },
-    {
       "id": "job_e7f308108a0f",
       "category": "intern",
       "company": "Eversource Energy",
@@ -12651,16 +12561,6 @@
       "role": "Claims Product Management Analyst Intern",
       "location": "Manassas, VA",
       "applicationUrl": "https://careers-berkley.icims.com/jobs/13677/job?mobile=true&needsRedirect=false",
-      "postedDate": "2026-03-18",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_c5d698c11df1",
-      "category": "intern",
-      "company": "Western Digital",
-      "role": "Intern - Failure Analysis Engineering",
-      "location": "San Jose, CA",
-      "applicationUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000115355677",
       "postedDate": "2026-03-18",
       "isPostedToday": false
     },
@@ -15065,16 +14965,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_4682ca63ac93",
-      "category": "intern",
-      "company": "University of Rochester",
-      "role": "Co-op Research Student 1",
-      "location": "Rochester, NY",
-      "applicationUrl": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Research-Student-I_R262028",
-      "postedDate": "2026-03-13",
-      "isPostedToday": false
-    },
-    {
       "id": "job_e22275dbd60e",
       "category": "intern",
       "company": "University of Rochester",
@@ -15641,16 +15531,6 @@
       "role": "Product Engineer Intern",
       "location": "Chandler, AZ",
       "applicationUrl": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Product-Engineer-Intern---Summer-2026_R-10062241",
-      "postedDate": "2026-03-12",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_ac9c24a3f8c7",
-      "category": "intern",
-      "company": "OCC",
-      "role": "Year-Round Intern - Software Engineering Risk Analytics 🛂",
-      "location": "Dallas, TX",
-      "applicationUrl": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Dallas-TX/Year-Round-Intern---Software-Engineering-Risk-Analytics_REQ-4592",
       "postedDate": "2026-03-12",
       "isPostedToday": false
     },
