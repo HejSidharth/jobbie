@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T04:42:04-5",
+  "generatedAt": "2026-04-06T05:03:21-5",
   "timezone": "America/Chicago",
   "jobs": [
     {
@@ -12,11 +12,37 @@
       "postedDate": "2026-04-06",
       "isPostedToday": true,
       "firstSeenAt": "2026-04-06T02:21:21-5",
-      "lastSeenAt": "2026-04-06T04:42:04-5",
+      "lastSeenAt": "2026-04-06T05:03:21-5",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
           "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_09b4135534e8",
+      "category": "new_grad",
+      "company": "Patten Seed Company/Super-Sod",
+      "role": "Junior Python Develper",
+      "location": "22 Westedge Charleston, SC 29403",
+      "applicationUrl": "https://jobright.ai/jobs/info/69d00653891d7b11cfcd7cfe",
+      "postedDate": "2026-04-03",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-04-03T15:54:28-5",
+      "lastSeenAt": "2026-04-06T05:03:21-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Apr 03"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Apr 05"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Apr 06"
         }
       ]
     }
