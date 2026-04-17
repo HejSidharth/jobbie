@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-17T02:23:33-5",
+  "generatedAt": "2026-04-17T03:05:55-5",
   "timezone": "America/Chicago",
   "pageSize": 50,
-  "totalJobs": 4479,
+  "totalJobs": 4471,
   "jobs": [
     {
       "id": "job_f130288d94aa",
@@ -42,7 +42,7 @@
       "location": "San Jose, CA",
       "applicationUrl": "https://jobs.bytedance.com/en/position/7629159699020024069/detail",
       "postedDate": "2026-04-16",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_dcb9635728bb",
@@ -62,7 +62,7 @@
       "location": "San Jose, CA",
       "applicationUrl": "https://jobs.bytedance.com/en/position/7629159746370406661/detail",
       "postedDate": "2026-04-16",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_325246f61bfc",
@@ -241,6 +241,16 @@
       "role": "Associate Software Engineer / Software Engineer",
       "location": "United States",
       "applicationUrl": "https://jobright.ai/jobs/info/69e1096efd1c0456f3fac34d",
+      "postedDate": "2026-04-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_baad7408adff",
+      "category": "new_grad",
+      "company": "Archer",
+      "role": "Senior Software Engineer, Backend",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69e1cfd1ff71e82d604b8eb9",
       "postedDate": "2026-04-16",
       "isPostedToday": false
     },
@@ -1055,6 +1065,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_0181999cd8a6",
+      "category": "new_grad",
+      "company": "Manulife",
+      "role": "Associate Full Stack Software Engineer",
+      "location": "Waterloo, ON",
+      "applicationUrl": "https://jobright.ai/jobs/info/69e1cb176c20aa114954300b",
+      "postedDate": "2026-04-16",
+      "isPostedToday": false
+    },
+    {
       "id": "job_f35241e4bb26",
       "category": "new_grad",
       "company": "Maximus",
@@ -1271,6 +1291,16 @@
       "role": "#Product Software Engineer",
       "location": "San Diego, CA",
       "applicationUrl": "https://jobright.ai/jobs/info/69d5c35ecfdc6132f946572e",
+      "postedDate": "2026-04-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_38d810878745",
+      "category": "new_grad",
+      "company": "Qualcomm",
+      "role": "GPU Compiler Engineer - Multiple Levels",
+      "location": "Markham, ON",
+      "applicationUrl": "https://jobright.ai/jobs/info/69a66777e567421f425770a0",
       "postedDate": "2026-04-16",
       "isPostedToday": false
     },
@@ -1705,6 +1735,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_0c4688f5d6ac",
+      "category": "new_grad",
+      "company": "True Anomaly",
+      "role": "Software Engineer I, Front End",
+      "location": "Denver, CO or Long Beach, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/692652f0d47de4798ecd65e3",
+      "postedDate": "2026-04-16",
+      "isPostedToday": false
+    },
+    {
       "id": "job_6b28b8ed548e",
       "category": "intern",
       "company": "Trumid",
@@ -2041,16 +2081,6 @@
       "role": "Software Development Engineer - 2026 (US)",
       "location": "Seattle, WA",
       "applicationUrl": "https://jobright.ai/jobs/info/698bff790f6f7e7a2ce78ef3",
-      "postedDate": "2026-04-15",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_589c7010d5f6",
-      "category": "intern",
-      "company": "Applied Materials",
-      "role": "Software Engineer Intern - Software Engineer",
-      "location": "Santa Clara, CA",
-      "applicationUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Software-Engineer_R2614549",
       "postedDate": "2026-04-15",
       "isPostedToday": false
     },
@@ -2415,22 +2445,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_2774ec4d1972",
-      "category": "new_grad",
-      "company": "Booz Allen Hamilton",
-      "role": "Software Engineer",
-      "location": "El Segundo, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69dfffd34920452a85dd0f9f",
-      "postedDate": "2026-04-15",
-      "isPostedToday": false
-    },
-    {
       "id": "job_dc2c8d55ba34",
       "category": "new_grad",
       "company": "Booz Allen Hamilton",
       "role": "Software Engineer",
       "location": "Annapolis Junction, MD",
       "applicationUrl": "https://jobright.ai/jobs/info/69dfffd34920452a85dd0fa5",
+      "postedDate": "2026-04-15",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_2774ec4d1972",
+      "category": "new_grad",
+      "company": "Booz Allen Hamilton",
+      "role": "Software Engineer",
+      "location": "El Segundo, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69dfffd34920452a85dd0f9f",
       "postedDate": "2026-04-15",
       "isPostedToday": false
     },
@@ -2905,22 +2935,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_d432cafc2c3e",
-      "category": "new_grad",
-      "company": "EY",
-      "role": "Technology Operations Analyst I (Guidewire), Managed Services Practice - Dieppe, New Brunswick",
-      "location": "Waterloo, ON",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c35fde753c101b21572227",
-      "postedDate": "2026-04-15",
-      "isPostedToday": false
-    },
-    {
       "id": "job_9780e17491f4",
       "category": "new_grad",
       "company": "EY",
       "role": "Technology Operations Analyst I (Guidewire), Managed Services Practice - Dieppe, New Brunswick",
       "location": "Calgary, AB",
       "applicationUrl": "https://jobright.ai/jobs/info/69c35fde753c101b21572226",
+      "postedDate": "2026-04-15",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_d432cafc2c3e",
+      "category": "new_grad",
+      "company": "EY",
+      "role": "Technology Operations Analyst I (Guidewire), Managed Services Practice - Dieppe, New Brunswick",
+      "location": "Waterloo, ON",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c35fde753c101b21572227",
       "postedDate": "2026-04-15",
       "isPostedToday": false
     },
@@ -4865,6 +4895,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_1727afeae141",
+      "category": "new_grad",
+      "company": "CDW Corporation",
+      "role": "Software Engineer 1 - Backend",
+      "location": "Illinois",
+      "applicationUrl": "",
+      "postedDate": "2026-04-14",
+      "isPostedToday": false
+    },
+    {
       "id": "job_f27ccd182077",
       "category": "intern",
       "company": "Centific",
@@ -5571,26 +5611,6 @@
       "role": "AI Intern",
       "location": "Frisco, TX",
       "applicationUrl": "https://mcafee.wd1.myworkdayjobs.com/external/job/US-Texas-Frisco/AI-Intern_JR0032477",
-      "postedDate": "2026-04-14",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_03d9abd8d79a",
-      "category": "new_grad",
-      "company": "Medtronic",
-      "role": "Software Engineer I",
-      "location": "Lafayette, CO",
-      "applicationUrl": "https://jobright.ai/jobs/info/69def40e433ac8430e0ddba0",
-      "postedDate": "2026-04-14",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_be589eaa539e",
-      "category": "new_grad",
-      "company": "Medtronic",
-      "role": "Software Engineer I",
-      "location": "Lafayette, Colorado, United States of America",
-      "applicationUrl": "https://jobright.ai/jobs/info/69dea5d7e34484770f1a3e04",
       "postedDate": "2026-04-14",
       "isPostedToday": false
     },
@@ -6485,12 +6505,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_ecb364a4186a",
+      "id": "job_5d6663c976fc",
       "category": "new_grad",
       "company": "Abbott",
       "role": "Software Verification Engineer I",
       "location": "United States - Minnesota - St. Paul",
-      "applicationUrl": "https://jobright.ai/jobs/info/69dd0d7a61f6ed54321fab4a",
+      "applicationUrl": "https://jobright.ai/jobs/info/69dd0d79f748bc5d08a5dc63",
       "postedDate": "2026-04-13",
       "isPostedToday": false
     },
@@ -6831,16 +6851,6 @@
       "role": "Embedded Software Engineer",
       "location": "Mossville, Illinois",
       "applicationUrl": "https://jobright.ai/jobs/info/69dcfb93738f2f099e8b3ba7",
-      "postedDate": "2026-04-13",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_390eb468db8b",
-      "category": "new_grad",
-      "company": "CDW Corporation",
-      "role": "Software Engineer 1 - Backend",
-      "location": "Illinois",
-      "applicationUrl": "https://cdw.wd5.myworkdayjobs.com/careers/job/Virtual---Illinois/Software-Engineer-I---Backend_R26_00001466",
       "postedDate": "2026-04-13",
       "isPostedToday": false
     },
@@ -7255,22 +7265,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_1d54cb01372d",
+      "id": "job_9805da19085c",
       "category": "new_grad",
       "company": "Johnson & Johnson",
       "role": "Technical Platform Analyst – Digital Platform & Design System",
       "location": "Titusville, New Jersey, United States of America",
-      "applicationUrl": "https://jobright.ai/jobs/info/69dd7bbc5356a60f40fee639",
-      "postedDate": "2026-04-13",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_fdb3aa08c586",
-      "category": "new_grad",
-      "company": "Johnson & Johnson",
-      "role": "Technical Platform Analyst – Digital Platform & Design System",
-      "location": "Horsham, Pennsylvania, United States of America",
-      "applicationUrl": "https://jobright.ai/jobs/info/69dd7bba738f2f099e8b6703",
+      "applicationUrl": "https://jobright.ai/jobs/info/69dd7bbc61f6ed54321fd8e7",
       "postedDate": "2026-04-13",
       "isPostedToday": false
     },
@@ -7281,6 +7281,16 @@
       "role": "Technical Platform Analyst – Digital Platform & Design System",
       "location": "Horsham, Pennsylvania, United States of America",
       "applicationUrl": "https://jobright.ai/jobs/info/69dd7bbb738f2f099e8b6713",
+      "postedDate": "2026-04-13",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_fdb3aa08c586",
+      "category": "new_grad",
+      "company": "Johnson & Johnson",
+      "role": "Technical Platform Analyst – Digital Platform & Design System",
+      "location": "Horsham, Pennsylvania, United States of America",
+      "applicationUrl": "https://jobright.ai/jobs/info/69dd7bba738f2f099e8b6703",
       "postedDate": "2026-04-13",
       "isPostedToday": false
     },
@@ -8665,12 +8675,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_fb43b0f21aca",
+      "id": "job_c9a48f6d0290",
       "category": "new_grad",
-      "company": "Amazon Web Services (AWS)",
-      "role": "Software Development Engineer, Amazon Redshift Query Optimizer",
-      "location": "East Palo Alto, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69d6e4e1cfdc6132f946df65",
+      "company": "Apple",
+      "role": "Design Verification Engineer",
+      "location": "Cupertino, California, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/69da2d85b67cec4f9b0a80c2",
       "postedDate": "2026-04-10",
       "isPostedToday": false
     },
@@ -8681,16 +8691,6 @@
       "role": "Design Verification Engineer",
       "location": "Santa Clara, California, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/69da2fec9f97a42dc9c27a33",
-      "postedDate": "2026-04-10",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_c9a48f6d0290",
-      "category": "new_grad",
-      "company": "Apple",
-      "role": "Design Verification Engineer",
-      "location": "Cupertino, California, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/69da2d85b67cec4f9b0a80c2",
       "postedDate": "2026-04-10",
       "isPostedToday": false
     },
@@ -9405,26 +9405,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_04df556c62e2",
-      "category": "new_grad",
-      "company": "Raytheon",
-      "role": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
-      "location": "Tewksbury, MA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69d90a239f97a42dc9c1f360",
-      "postedDate": "2026-04-10",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_5c0013cb2ff9",
-      "category": "new_grad",
-      "company": "Raytheon",
-      "role": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
-      "location": "Fort Wayne, IN",
-      "applicationUrl": "https://jobright.ai/jobs/info/69d908c4b67cec4f9b09fa37",
-      "postedDate": "2026-04-10",
-      "isPostedToday": false
-    },
-    {
       "id": "job_6d0ed57317c6",
       "category": "new_grad",
       "company": "Reality Based Group",
@@ -9495,32 +9475,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_a3884b32263e",
-      "category": "new_grad",
-      "company": "Scale AI",
-      "role": "Software Engineer - New Grad",
-      "location": "San Francisco Bay Area",
-      "applicationUrl": "https://jobright.ai/jobs/info/68cf5685846f0b04af681243",
-      "postedDate": "2026-04-10",
-      "isPostedToday": false
-    },
-    {
       "id": "job_9674e46b932f",
       "category": "new_grad",
       "company": "Scalence L.L.C.",
       "role": "Fresher/Junior Embedded software development -CAN communications",
       "location": "Cary, NC",
       "applicationUrl": "https://jobright.ai/jobs/info/69d95f2ef748bc5d08a4ae49",
-      "postedDate": "2026-04-10",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_2b8c55ee30c2",
-      "category": "new_grad",
-      "company": "SharkNinja",
-      "role": "Software Development Test Engineer II",
-      "location": "Needham, MA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69bd04c14828227293ff3479",
       "postedDate": "2026-04-10",
       "isPostedToday": false
     },
@@ -9771,16 +9731,6 @@
       "role": "Wearables Prototype Engineer Intern - Hardware + Software",
       "location": "Menlo Park, CA",
       "applicationUrl": "https://job-boards.greenhouse.io/workstream/jobs/5924391004",
-      "postedDate": "2026-04-10",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_2fdd2eb885d4",
-      "category": "new_grad",
-      "company": "Wyetech, LLC",
-      "role": "Software Engineer 1 (DM)",
-      "location": "Linthicum Heights, Maryland",
-      "applicationUrl": "https://jobright.ai/jobs/info/69d93d37f748bc5d08a49f6e",
       "postedDate": "2026-04-10",
       "isPostedToday": false
     },
@@ -11621,16 +11571,6 @@
       "role": "Software Engineer Intern",
       "location": "Van Buren Charter Township, MI",
       "applicationUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-MI-Ypsilanti/Software-Engineering-Intern---Summer-2026_324471",
-      "postedDate": "2026-04-06",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_0463dc1faf20",
-      "category": "intern",
-      "company": "CACI",
-      "role": "Software Engineering Intern",
-      "location": "Colorado Springs, CO",
-      "applicationUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Colorado-Springs/Software-Engineering-Intern---Summer-2026_324241",
       "postedDate": "2026-04-06",
       "isPostedToday": false
     },
@@ -15515,16 +15455,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_1e1390a6b024",
-      "category": "intern",
-      "company": "Gen",
-      "role": "Software Engineering Intern",
-      "location": "Tempe, AZ",
-      "applicationUrl": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---Arizona-Tempe/Software-Engineering-Intern_55324",
-      "postedDate": "2026-03-24",
-      "isPostedToday": false
-    },
-    {
       "id": "job_6c229b7e3286",
       "category": "intern",
       "company": "Group 1001",
@@ -17731,16 +17661,6 @@
       "role": "Software Engineer Intern",
       "location": "Boston, MA",
       "applicationUrl": "https://snyk.wd103.myworkdayjobs.com/External/job/United-States---Boston-Office/Software-Engineer-Intern_JR100489",
-      "postedDate": "2026-03-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_d25ed81c1494",
-      "category": "intern",
-      "company": "Synchrony Financial",
-      "role": "Software Engineer Intern",
-      "location": "Canton, OH, Ohio, Cincinnati, OH",
-      "applicationUrl": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Canton-Remote-OH/Software-Engineer-Intern---Summer-2026_2503435-2",
       "postedDate": "2026-03-17",
       "isPostedToday": false
     },
