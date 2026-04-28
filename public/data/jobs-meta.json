@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-04-28T11:48:11-5",
+  "generatedAt": "2026-04-28T12:03:02-5",
   "timezone": "America/Chicago",
   "sourceCounts": {
     "simplify_summer_2026": 1027,
     "vansh_summer_2026": 1772,
     "simplify_new_grad_2026": 2213,
     "vansh_new_grad_2026": 1052,
-    "jobright_new_grad_2026": 632
+    "jobright_new_grad_2026": 638
   },
-  "activeJobCount": 4243,
-  "todayJobCount": 61,
+  "activeJobCount": 4248,
+  "todayJobCount": 66,
   "parseWarnings": [
     "Dropped row 04c1b811869467a3a70a1ce918869675bb1a498c8b4cd95bc14967a4af3f1a7c from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row b1bae85caac70cb139dc8acc516cc3f6543b481ae5b42e12a032c0278846b990 from simplify_summer_2026: could not parse posted date \"1mo\".",
@@ -2359,6 +2359,7 @@
     "Dropped row 076a47c32481531bd54948d67271a8c40b0a691d10fee826e56e500271536037 from simplify_new_grad_2026: could not parse posted date \"7mo\".",
     "Dropped row 9400511c116d58fc8a5761be66ccb0f57099820ab8504aa5f4ad3fd9495cd1ea from simplify_new_grad_2026: could not parse posted date \"7mo\".",
     "Dropped row 076a47c32481531bd54948d67271a8c40b0a691d10fee826e56e500271536037 from simplify_new_grad_2026: could not parse posted date \"7mo\".",
-    "Dropped row 9400511c116d58fc8a5761be66ccb0f57099820ab8504aa5f4ad3fd9495cd1ea from simplify_new_grad_2026: could not parse posted date \"7mo\"."
+    "Dropped row 9400511c116d58fc8a5761be66ccb0f57099820ab8504aa5f4ad3fd9495cd1ea from simplify_new_grad_2026: could not parse posted date \"7mo\".",
+    "Dropped row 2b0fb46f8a7f62236a55bc67d8863250ec67bc7de9b653500cca1860ae433aab from jobright_new_grad_2026: could not parse posted date \"Atlanta\"."
   ]
 }
