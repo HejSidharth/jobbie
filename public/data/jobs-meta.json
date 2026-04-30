@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-04-30T13:45:57-5",
+  "generatedAt": "2026-04-30T14:09:54-5",
   "timezone": "America/Chicago",
   "sourceCounts": {
-    "simplify_summer_2026": 994,
+    "simplify_summer_2026": 989,
     "vansh_summer_2026": 1774,
-    "simplify_new_grad_2026": 2224,
+    "simplify_new_grad_2026": 2223,
     "vansh_new_grad_2026": 1052,
-    "jobright_new_grad_2026": 664
+    "jobright_new_grad_2026": 681
   },
-  "activeJobCount": 4272,
-  "todayJobCount": 187,
+  "activeJobCount": 4285,
+  "todayJobCount": 202,
   "parseWarnings": [
     "Dropped row c7c46678d5d07d451fb674082a11c0b458d68a37025a41c53780dd23184a6894 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row b0ea432c6683b435646cd76c697f814aa48628f90a65a21a9bb051c92fed0491 from simplify_summer_2026: could not parse posted date \"1mo\".",
@@ -360,7 +360,6 @@
     "Dropped row c16712cb0bdda3b578a6c573ab019e6eabaaf3da354b1e4aca273d945dfdfd65 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row ce3921038c803ed21dd960cba410594913d28fbc33d7838b83714cf4f89010e4 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 5dc39d5182521257aae430534cdb0f4d0dd67f2ac7ecb608e85a31f923790202 from simplify_summer_2026: could not parse posted date \"1mo\".",
-    "Dropped row 20220564c0650a185042a1fe9c4cfb63212cb5b017d2f4f141128a5e1f960157 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 71fbf2eef3a4a33a212111f2eaffd55bef976d3bc192cca2ee3a7bb5e28d8206 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 8289347acd5180813876c73a5a7d1d714af3932803e3275cffd18ae8279a48d6 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 221ed480655d3f9c014b91745f0c0986576cacb4f034c282c21c2ba9eb21de29 from simplify_summer_2026: could not parse posted date \"1mo\".",
@@ -1345,7 +1344,7 @@
     "Dropped row 6c3fc9f4801bfb64f4578db7ff6abae2ad2e027730376d5440e894113fece9de from simplify_new_grad_2026: could not parse posted date \"6mo\".",
     "Dropped row 20b749af2c1a0f53e8d0a8ea7b42cf19efe998e6f5bd09d08096c52752ef0d02 from simplify_new_grad_2026: could not parse posted date \"6mo\".",
     "Dropped row 7e0fabe1c981bdeb1b1a580f88fee6078cfd3c36158b5f7566d7837c46b2a1d4 from simplify_new_grad_2026: could not parse posted date \"6mo\".",
-    "Dropped row 62fd240965bb214b7dc9cca4033bac97274f912cc78f92cc9ea6482d1b112805 from simplify_new_grad_2026: could not parse posted date \"6mo\".",
+    "Dropped row dc730ed24e4e49a19e8872179fa78bb5bc1a303c83a69017fdabe6288b137d59 from simplify_new_grad_2026: could not parse posted date \"6mo\".",
     "Dropped row 8b52a053ac56cc63cd99120da5a35cf5cd912b8e8c95053685765986125e6026 from simplify_new_grad_2026: could not parse posted date \"6mo\".",
     "Dropped row a2f0add7754f512b58efb6ecabde3c0a43639904aaefd7c169ff186b178554ec from simplify_new_grad_2026: could not parse posted date \"6mo\".",
     "Dropped row c9a330bec91034e67f731053bf9f7e8918e7fd9272d0994040cf42b00cce34af from simplify_new_grad_2026: could not parse posted date \"6mo\".",
@@ -2342,7 +2341,6 @@
     "Dropped row 076a47c32481531bd54948d67271a8c40b0a691d10fee826e56e500271536037 from simplify_new_grad_2026: could not parse posted date \"7mo\".",
     "Dropped row 9400511c116d58fc8a5761be66ccb0f57099820ab8504aa5f4ad3fd9495cd1ea from simplify_new_grad_2026: could not parse posted date \"7mo\".",
     "Dropped row 076a47c32481531bd54948d67271a8c40b0a691d10fee826e56e500271536037 from simplify_new_grad_2026: could not parse posted date \"7mo\".",
-    "Dropped row 9400511c116d58fc8a5761be66ccb0f57099820ab8504aa5f4ad3fd9495cd1ea from simplify_new_grad_2026: could not parse posted date \"7mo\".",
     "Dropped row 7fd9ed337564eebb064cf671d9b8ecccdae391ccf63e7634edb6578b7ef6d03a from jobright_new_grad_2026: could not parse posted date \"Hybrid\".",
     "Dropped row 2b0fb46f8a7f62236a55bc67d8863250ec67bc7de9b653500cca1860ae433aab from jobright_new_grad_2026: could not parse posted date \"Atlanta\"."
   ]
