@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-05-10T04:02:57-5",
+  "generatedAt": "2026-05-10T05:07:50-5",
   "timezone": "America/Chicago",
   "jobs": [
+    {
+      "id": "job_70644257c3d9",
+      "category": "new_grad",
+      "company": "RemoteHunter",
+      "role": "Associate Software Engineer, 2026 New Grad",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a004293a0eddc08c239ba4d",
+      "postedDate": "2026-05-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-05-10T05:07:50-5",
+      "lastSeenAt": "2026-05-10T05:07:50-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "May 10"
+        }
+      ]
+    },
     {
       "id": "job_cf73b1492d10",
       "category": "intern",
@@ -12,7 +30,7 @@
       "postedDate": "2026-05-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-05-09T18:06:29-5",
-      "lastSeenAt": "2026-05-10T04:02:57-5",
+      "lastSeenAt": "2026-05-10T05:07:50-5",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -30,11 +48,33 @@
       "postedDate": "2026-05-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-05-09T18:06:29-5",
-      "lastSeenAt": "2026-05-10T04:02:57-5",
+      "lastSeenAt": "2026-05-10T05:07:50-5",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
           "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_334f99c47ebf",
+      "category": "new_grad",
+      "company": "Penske Media Corporation",
+      "role": "PMC: Full Stack Engineer",
+      "location": "California - Los Angeles Office",
+      "applicationUrl": "https://jobright.ai/jobs/info/69852d518da7a612045f8bf0",
+      "postedDate": "2026-05-06",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-05-06T08:51:20-5",
+      "lastSeenAt": "2026-05-10T05:07:50-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "May 06"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "May 10"
         }
       ]
     }
