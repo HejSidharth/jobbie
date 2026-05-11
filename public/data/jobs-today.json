@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T03:37:18-5",
+  "generatedAt": "2026-05-11T06:59:37-5",
   "timezone": "America/Chicago",
   "jobs": [
     {
@@ -12,7 +12,7 @@
       "postedDate": "2026-05-11",
       "isPostedToday": true,
       "firstSeenAt": "2026-05-11T03:37:18-5",
-      "lastSeenAt": "2026-05-11T03:37:18-5",
+      "lastSeenAt": "2026-05-11T06:59:37-5",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -30,11 +30,87 @@
       "postedDate": "2026-05-11",
       "isPostedToday": true,
       "firstSeenAt": "2026-05-11T03:37:18-5",
-      "lastSeenAt": "2026-05-11T03:37:18-5",
+      "lastSeenAt": "2026-05-11T06:59:37-5",
       "sources": [
         {
           "sourceId": "simplify_new_grad_2026",
           "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_0f1d8a0eddfb",
+      "category": "intern",
+      "company": "Suffolk County",
+      "role": "Trading Standards Apprentice",
+      "location": "Ipswich, UK",
+      "applicationUrl": "https://eoce.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/23103",
+      "postedDate": "2026-05-11",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-05-11T06:59:37-5",
+      "lastSeenAt": "2026-05-11T06:59:37-5",
+      "sources": [
+        {
+          "sourceId": "simplify_summer_2026",
+          "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_1684a2a92f2c",
+      "category": "intern",
+      "company": "True Anomaly",
+      "role": "Full Stack Software Engineer Intern",
+      "location": "Denver, CO",
+      "applicationUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5131361007",
+      "postedDate": "2026-05-11",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-05-11T06:59:37-5",
+      "lastSeenAt": "2026-05-11T06:59:37-5",
+      "sources": [
+        {
+          "sourceId": "simplify_summer_2026",
+          "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_744c3ed59284",
+      "category": "new_grad",
+      "company": "Xplor Technologies",
+      "role": "Software Engineer (Java)",
+      "location": "Toronto, ON, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a019adb238f143e8352d211",
+      "postedDate": "2026-05-11",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-05-11T06:59:37-5",
+      "lastSeenAt": "2026-05-11T06:59:37-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "May 11"
+        }
+      ]
+    },
+    {
+      "id": "job_5ef1e1faab4d",
+      "category": "new_grad",
+      "company": "Google",
+      "role": "Hardware Validation Engineer, Cloud Platforms",
+      "location": "Sunnyvale, CA, USA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69fb3b4e38179b6f1ae76d1f",
+      "postedDate": "2026-05-06",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-05-06T11:23:57-5",
+      "lastSeenAt": "2026-05-11T06:59:37-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "May 06"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "May 11"
         }
       ]
     }
