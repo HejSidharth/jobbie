@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-04T23:47:40-5",
+  "generatedAt": "2026-06-05T02:02:13-5",
   "timezone": "America/Chicago",
   "sourceCounts": {
-    "simplify_summer_2026": 414,
+    "simplify_summer_2026": 413,
     "vansh_summer_2026": 72,
-    "simplify_new_grad_2026": 2142,
+    "simplify_new_grad_2026": 2140,
     "vansh_new_grad_2026": 1052,
-    "jobright_new_grad_2026": 145
+    "jobright_new_grad_2026": 147
   },
   "activeJobCount": 1745,
-  "todayJobCount": 172,
+  "todayJobCount": 27,
   "parseWarnings": [
     "Dropped row ffc1f887345a9878d56430b93c173f5dfe4367e1702750156fb06d2a9d1117c5 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 42a8ef78edb525a2b22a794575183653e6da836018caab8b38a354a6102c538e from simplify_summer_2026: could not parse posted date \"1mo\".",
@@ -113,6 +113,7 @@
     "Dropped row 344d84962165b42d2d7f026a6d55190289827279a4c8d4b94454f2406d042f9b from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 5113b8da471443a47e1f24d2046833d86a2febe520de71dbaeb01374f76ea4d1 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row c15b7e07346b2849a0d474390f34791563e06461f7658ca25b89d61b9bb9b714 from simplify_summer_2026: could not parse posted date \"1mo\".",
+    "Dropped row 84c7f578a85f3167c7a7343d3e8344cc6eb773ce0eddcb8c6ebc626344f7c7c9 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 3a6b62587113f1f781e62ef984d157bf4ca7500d40fbb2bf2596b9c491ca9638 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 2ea1cd901af966a2d12e8d39951feb29c4ce7c40532618922477d9717da5e252 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 0511a9ff4e9d0933452f3bc4835e83367e51cd55e4584fb5b2433551c7d06824 from simplify_summer_2026: could not parse posted date \"1mo\".",
@@ -156,7 +157,7 @@
     "Dropped row 09f019509d34c162fdc4eb0b25a4b7c64a82713b38c97b0b30c8dd32bbf4a722 from simplify_new_grad_2026: could not parse posted date \"1mo\".",
     "Dropped row ac48d51a88c734649c2f1f9340392e406145daef208bd6a3dcf579aa01b10ef2 from simplify_new_grad_2026: could not parse posted date \"1mo\".",
     "Dropped row 04372a8c09cbfb36e475f24359fa3902a0645f354752c778074f91bbc74c8fbf from simplify_new_grad_2026: could not parse posted date \"1mo\".",
-    "Dropped row c0bce681deaf01c9600ed5715db85427eb5c59413e0fb4c70e11a30dd9ffa51c from simplify_new_grad_2026: could not parse posted date \"1mo\".",
+    "Dropped row 89505435dabefc160193ea3393cd00558fef9b96428a0f73ff059310bff380fa from simplify_new_grad_2026: could not parse posted date \"2mo\".",
     "Dropped row f25accaf11f061dd261803b05efd641dad60fc691b2f4f20615738522d706cc3 from simplify_new_grad_2026: could not parse posted date \"2mo\".",
     "Dropped row b090af04839d006a0f6eab746590157325c09e05f376f5a682ca219e6c89e2ef from simplify_new_grad_2026: could not parse posted date \"2mo\".",
     "Dropped row 7b191234ecd0788674261798a568a49fa537e2c4ea9ba50903cd5372844ee3f7 from simplify_new_grad_2026: could not parse posted date \"2mo\".",
@@ -1387,7 +1388,6 @@
     "Dropped row f8bf81c82d6cc7924f7ab33e4c7f401ac47068f5a1ced508ff6b019d45fb0bc4 from simplify_new_grad_2026: could not parse posted date \"7mo\".",
     "Dropped row 099a815ad8fe7cbb6502fe21a84f90720529993efeb99923e9c05b1dce5e704a from simplify_new_grad_2026: could not parse posted date \"7mo\".",
     "Dropped row e431352d74182b3f3e16240775d8dc3e1081c0b46a185216dd1f110541ffaaa8 from simplify_new_grad_2026: could not parse posted date \"7mo\".",
-    "Dropped row cdbcb9fb3cbf1436691c3acc6fc7759fe19c5d91b7b00adaee2d9c81db449d6d from simplify_new_grad_2026: could not parse posted date \"7mo\".",
     "Dropped row e518c5847a88db93e78358696d56e5aac50af04935668687aa76da4780d2e261 from simplify_new_grad_2026: could not parse posted date \"2mo\".",
     "Dropped row 1bc6230e691f58c76de4180ba6749915bc8dbb961e6a7d3ef4b6ca3072c02190 from simplify_new_grad_2026: could not parse posted date \"1mo\".",
     "Dropped row 96d74c0fce895b22109786550c6771f90a953d1e5c19141d0a4a1f5dbbae6808 from simplify_new_grad_2026: could not parse posted date \"1mo\".",
@@ -1698,7 +1698,6 @@
     "Dropped row f7104567839b4e68e3e7493a0af41f0ee5b3b93cd2d13fad623b4cabfc28b510 from simplify_new_grad_2026: could not parse posted date \"7mo\".",
     "Dropped row b76c44f979850969edde74c532a0e7e35e175379e2d05df7fd75d7f6d4c2d3df from simplify_new_grad_2026: could not parse posted date \"7mo\".",
     "Dropped row f014a9b6c6006724b0bb8f7a0255c7b2af76030e43e745c8d7fc222ed3c5bb66 from simplify_new_grad_2026: could not parse posted date \"7mo\".",
-    "Dropped row d8dc85a2d7838f4e3a43bb519804266e2ec7372ee9c9906587853831647992b7 from simplify_new_grad_2026: could not parse posted date \"7mo\".",
     "Dropped row 2c89d1203d85f4deb389dbd0ec952cfa29ecfeef2316cddafd61de080e86790a from simplify_new_grad_2026: could not parse posted date \"1mo\".",
     "Dropped row 31019fc9e5b3895da15d81cdf4bf72d8ed63003277f03d7dc5549c861ee7115b from simplify_new_grad_2026: could not parse posted date \"1mo\".",
     "Dropped row 3119a20ad3545ee96d6b468e9e8111bc60de5859e0d0f42bb363aa0b8e2fcf1c from simplify_new_grad_2026: could not parse posted date \"4mo\".",
