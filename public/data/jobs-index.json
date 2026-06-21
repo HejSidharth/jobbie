@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-21T12:53:26-5",
+  "generatedAt": "2026-06-21T14:20:20-5",
   "timezone": "America/Chicago",
   "pageSize": 50,
-  "totalJobs": 2049,
+  "totalJobs": 2053,
   "jobs": [
     {
       "id": "job_fcad9eb28e7a",
@@ -25,12 +25,62 @@
       "isPostedToday": true
     },
     {
+      "id": "job_8844cec35b58",
+      "category": "new_grad",
+      "company": "Microsoft",
+      "role": "Software Engineer - CTJ - Poly",
+      "location": "United States, Georgia, Atlanta",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a372c69ce501060b5cf814a",
+      "postedDate": "2026-06-21",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_026a0ad09c07",
+      "category": "new_grad",
+      "company": "Microsoft",
+      "role": "Software Engineer - CTJ - Poly",
+      "location": "United States, Washington, Redmond",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a364bccce501060b5cf6840",
+      "postedDate": "2026-06-21",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_a31cb48e086d",
+      "category": "new_grad",
+      "company": "Microsoft",
+      "role": "Software Engineer - CTJ - Poly",
+      "location": "United States, Virginia, Reston",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a37f144ce501060b5cf901e",
+      "postedDate": "2026-06-21",
+      "isPostedToday": true
+    },
+    {
       "id": "job_e0aa9baf999d",
       "category": "new_grad",
       "company": "SpaceX",
       "role": "Facilities Infrastructure Engineer",
       "location": "Hawthorne, CA",
       "applicationUrl": "https://jobright.ai/jobs/info/696ff5673ed06875134aead5",
+      "postedDate": "2026-06-21",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_0f1b3e693ca3",
+      "category": "new_grad",
+      "company": "SpaceX",
+      "role": "Software Engineer, C++ - Top Secret Clearance",
+      "location": "Hawthorne, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/696e81a4db26b61895115f26",
+      "postedDate": "2026-06-21",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_7a70f36101ae",
+      "category": "new_grad",
+      "company": "SpaceX",
+      "role": "Software Engineer, Satellite Operations (Starshield)",
+      "location": "Hawthorne, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/6971976551f726477183f226",
       "postedDate": "2026-06-21",
       "isPostedToday": true
     },
@@ -75,32 +125,12 @@
       "isPostedToday": true
     },
     {
-      "id": "job_1cb06de68778",
+      "id": "job_c826264f5757",
       "category": "new_grad",
       "company": "True Anomaly",
       "role": "Flight Software Engineer I",
       "location": "Denver, CO",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a109abe69bd827926aef704",
-      "postedDate": "2026-06-21",
-      "isPostedToday": true
-    },
-    {
-      "id": "job_23893f56b5dc",
-      "category": "new_grad",
-      "company": "WHOOP",
-      "role": "iOS Engineer",
-      "location": "Boston, MA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69e298163ce36005badbed86",
-      "postedDate": "2026-06-21",
-      "isPostedToday": true
-    },
-    {
-      "id": "job_011cf7745c6b",
-      "category": "new_grad",
-      "company": "WHOOP",
-      "role": "iOS Engineer",
-      "location": "Boston, MA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a16c1d6a429fd279da9a4f9",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a06f1e49f57175bd581ae93",
       "postedDate": "2026-06-21",
       "isPostedToday": true
     },
@@ -115,12 +145,42 @@
       "isPostedToday": true
     },
     {
-      "id": "job_9eadaf2907a0",
+      "id": "job_011cf7745c6b",
+      "category": "new_grad",
+      "company": "WHOOP",
+      "role": "iOS Engineer",
+      "location": "Boston, MA",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a16c1d6a429fd279da9a4f9",
+      "postedDate": "2026-06-21",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_23893f56b5dc",
+      "category": "new_grad",
+      "company": "WHOOP",
+      "role": "iOS Engineer",
+      "location": "Boston, MA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69e298163ce36005badbed86",
+      "postedDate": "2026-06-21",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_65f68e5f1b10",
       "category": "new_grad",
       "company": "Amazon",
       "role": "Software Development Engineer - Military Veterans",
-      "location": "Arlington, Virginia, USA",
-      "applicationUrl": "https://jobright.ai/jobs/info/698d2e5af64d441a164f2618",
+      "location": "Sunnyvale, California, USA",
+      "applicationUrl": "https://jobright.ai/jobs/info/698d1b1b78b4502f12a3a119",
+      "postedDate": "2026-06-20",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_afbb41e3e1a7",
+      "category": "new_grad",
+      "company": "Amazon",
+      "role": "Software Development Engineer - Military Veterans",
+      "location": "Denver, Colorado, USA",
+      "applicationUrl": "https://jobright.ai/jobs/info/698d133478b4502f12a39082",
       "postedDate": "2026-06-20",
       "isPostedToday": true
     },
@@ -135,22 +195,22 @@
       "isPostedToday": true
     },
     {
+      "id": "job_8cb64ecb4816",
+      "category": "new_grad",
+      "company": "Amazon",
+      "role": "Software Development Engineer - Military Veterans",
+      "location": "Redmond, Washington, USA",
+      "applicationUrl": "https://jobright.ai/jobs/info/698d2da978b4502f12a3be16",
+      "postedDate": "2026-06-20",
+      "isPostedToday": true
+    },
+    {
       "id": "job_297d4ef43e14",
       "category": "new_grad",
       "company": "Amazon",
       "role": "Software Development Engineer - Military Veterans",
       "location": "Culver City, California, USA",
       "applicationUrl": "https://jobright.ai/jobs/info/698d1a9e0f6f7e7a2ce8d40e",
-      "postedDate": "2026-06-20",
-      "isPostedToday": true
-    },
-    {
-      "id": "job_65f68e5f1b10",
-      "category": "new_grad",
-      "company": "Amazon",
-      "role": "Software Development Engineer - Military Veterans",
-      "location": "Sunnyvale, California, USA",
-      "applicationUrl": "https://jobright.ai/jobs/info/698d1b1b78b4502f12a3a119",
       "postedDate": "2026-06-20",
       "isPostedToday": true
     },
@@ -165,22 +225,12 @@
       "isPostedToday": true
     },
     {
-      "id": "job_8cb64ecb4816",
+      "id": "job_9eadaf2907a0",
       "category": "new_grad",
       "company": "Amazon",
       "role": "Software Development Engineer - Military Veterans",
-      "location": "Redmond, Washington, USA",
-      "applicationUrl": "https://jobright.ai/jobs/info/698d2da978b4502f12a3be16",
-      "postedDate": "2026-06-20",
-      "isPostedToday": true
-    },
-    {
-      "id": "job_afbb41e3e1a7",
-      "category": "new_grad",
-      "company": "Amazon",
-      "role": "Software Development Engineer - Military Veterans",
-      "location": "Denver, Colorado, USA",
-      "applicationUrl": "https://jobright.ai/jobs/info/698d133478b4502f12a39082",
+      "location": "Arlington, Virginia, USA",
+      "applicationUrl": "https://jobright.ai/jobs/info/698d2e5af64d441a164f2618",
       "postedDate": "2026-06-20",
       "isPostedToday": true
     },
@@ -225,12 +275,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_5618aed7d0db",
+      "id": "job_035050e84ea0",
       "category": "new_grad",
       "company": "Anduril Industries",
       "role": "Software Engineer, Maritime",
-      "location": "Quincy, Massachusetts, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a06fec8152f493123c4bc64",
+      "location": "Costa Mesa, CA (HQ)",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a0722ba24dcb03739f22410",
+      "postedDate": "2026-06-20",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_c14360f7b410",
+      "category": "new_grad",
+      "company": "Anduril Industries",
+      "role": "Software Engineer, Maritime",
+      "location": "Quincy, MA",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a06fec8152f493123c4bc63",
       "postedDate": "2026-06-20",
       "isPostedToday": true
     },
@@ -245,12 +305,12 @@
       "isPostedToday": true
     },
     {
-      "id": "job_035050e84ea0",
+      "id": "job_5618aed7d0db",
       "category": "new_grad",
       "company": "Anduril Industries",
       "role": "Software Engineer, Maritime",
-      "location": "Costa Mesa, CA (HQ)",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a0722ba24dcb03739f22410",
+      "location": "Quincy, Massachusetts, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a06fec8152f493123c4bc64",
       "postedDate": "2026-06-20",
       "isPostedToday": true
     },
@@ -261,16 +321,6 @@
       "role": "Software Engineer, Maritime",
       "location": "Boston, Massachusetts, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a06fe681f7fa33581c98bda",
-      "postedDate": "2026-06-20",
-      "isPostedToday": true
-    },
-    {
-      "id": "job_c14360f7b410",
-      "category": "new_grad",
-      "company": "Anduril Industries",
-      "role": "Software Engineer, Maritime",
-      "location": "Quincy, MA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a06fec8152f493123c4bc63",
       "postedDate": "2026-06-20",
       "isPostedToday": true
     },
@@ -325,16 +375,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_08c8549e1eaa",
-      "category": "new_grad",
-      "company": "Blue Origin",
-      "role": "Software Development Eng II",
-      "location": "Greater Seattle Area",
-      "applicationUrl": "https://jobright.ai/jobs/info/69a91a5b79f3f4037f43cf4d",
-      "postedDate": "2026-06-20",
-      "isPostedToday": false
-    },
-    {
       "id": "job_9c33e3315132",
       "category": "new_grad",
       "company": "Blue Origin",
@@ -345,12 +385,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_617c32b50e2e",
+      "id": "job_08c8549e1eaa",
       "category": "new_grad",
-      "company": "Citi",
-      "role": "Apps Dev Intmd Programmer Analyst - Officer",
-      "location": "Rutherford New Jersey United States, US",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a0dc352c152ac782447f926",
+      "company": "Blue Origin",
+      "role": "Software Development Eng II",
+      "location": "Greater Seattle Area",
+      "applicationUrl": "https://jobright.ai/jobs/info/69a91a5b79f3f4037f43cf4d",
       "postedDate": "2026-06-20",
       "isPostedToday": false
     },
@@ -361,6 +401,16 @@
       "role": "Apps Dev Intmd Programmer Analyst - Officer",
       "location": "Rutherford New Jersey United States, US",
       "applicationUrl": "https://jobright.ai/jobs/info/69fe0695f363bc4dc339b158",
+      "postedDate": "2026-06-20",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_617c32b50e2e",
+      "category": "new_grad",
+      "company": "Citi",
+      "role": "Apps Dev Intmd Programmer Analyst - Officer",
+      "location": "Rutherford New Jersey United States, US",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a0dc352c152ac782447f926",
       "postedDate": "2026-06-20",
       "isPostedToday": false
     },
@@ -495,22 +545,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_3209dff37171",
-      "category": "new_grad",
-      "company": "Fuze Health",
-      "role": "Graduate Software Engineer - Fuze Services",
-      "location": "US Remote - Fuze Health",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a1198ca69bd827926af3ed3",
-      "postedDate": "2026-06-20",
-      "isPostedToday": false
-    },
-    {
       "id": "job_b982daec6eb7",
       "category": "new_grad",
       "company": "Fuze Health",
       "role": "Graduate Software Engineer - Fuze Services",
       "location": "US Remote - Fuze Health",
       "applicationUrl": "https://jobright.ai/jobs/info/6a0702489f57175bd581e3a6",
+      "postedDate": "2026-06-20",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_3209dff37171",
+      "category": "new_grad",
+      "company": "Fuze Health",
+      "role": "Graduate Software Engineer - Fuze Services",
+      "location": "US Remote - Fuze Health",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a1198ca69bd827926af3ed3",
       "postedDate": "2026-06-20",
       "isPostedToday": false
     },
@@ -645,22 +695,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_7439e9f02b99",
-      "category": "new_grad",
-      "company": "SpaceX",
-      "role": "Full Stack Software Engineer, Data (Starlink)",
-      "location": "Hawthorne, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a163540dc845f4be5bdd484",
-      "postedDate": "2026-06-20",
-      "isPostedToday": false
-    },
-    {
       "id": "job_673a3e9a2417",
       "category": "new_grad",
       "company": "SpaceX",
       "role": "Full Stack Software Engineer, Data (Starlink)",
       "location": "Hawthorne, CA",
       "applicationUrl": "https://jobright.ai/jobs/info/69fd4b567824dc6135beea38",
+      "postedDate": "2026-06-20",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_7439e9f02b99",
+      "category": "new_grad",
+      "company": "SpaceX",
+      "role": "Full Stack Software Engineer, Data (Starlink)",
+      "location": "Hawthorne, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a163540dc845f4be5bdd484",
       "postedDate": "2026-06-20",
       "isPostedToday": false
     },
@@ -735,22 +785,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_c9ca23b51e2b",
-      "category": "new_grad",
-      "company": "The Trade Desk",
-      "role": "Anaplan Model Builder",
-      "location": "San Jose",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a2bf5b3a1d15e3c552f97cd",
-      "postedDate": "2026-06-20",
-      "isPostedToday": true
-    },
-    {
       "id": "job_1d0f6f9a27d3",
       "category": "new_grad",
       "company": "The Trade Desk",
       "role": "Anaplan Model Builder",
       "location": "Irvine",
       "applicationUrl": "https://jobright.ai/jobs/info/6a2bf5b5a1d15e3c552f97ce",
+      "postedDate": "2026-06-20",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_c9ca23b51e2b",
+      "category": "new_grad",
+      "company": "The Trade Desk",
+      "role": "Anaplan Model Builder",
+      "location": "San Jose",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a2bf5b3a1d15e3c552f97cd",
       "postedDate": "2026-06-20",
       "isPostedToday": true
     },
@@ -805,12 +855,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_5a36f76178d9",
+      "id": "job_999ae1f138ef",
       "category": "new_grad",
       "company": "Viant Technology",
       "role": "Technical Platform Operations Specialist",
       "location": "Irvine, California, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a06eca74b07a86277877f83",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a12ccd7619335383fb3b594",
       "postedDate": "2026-06-20",
       "isPostedToday": false
     },
@@ -935,12 +985,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_3e429e81af67",
+      "id": "job_1a24203d23eb",
       "category": "new_grad",
       "company": "Booz Allen Hamilton",
       "role": "Full Stack Software Developer",
       "location": "McLean, Virginia, 22107",
-      "applicationUrl": "https://jobright.ai/jobs/info/69e40338cd85881c95060153",
+      "applicationUrl": "https://jobright.ai/jobs/info/69e0963fc17d1d5254335468",
       "postedDate": "2026-06-19",
       "isPostedToday": false
     },
@@ -975,12 +1025,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_a16101d10769",
+      "id": "job_421763777d27",
       "category": "new_grad",
       "company": "City of Philadelphia",
       "role": "Associate Software Engineer-Applications & Automation",
       "location": "1234 Market St, Philadelphia, PA 19107, USA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a05cb23a88ea73abf7f39ae",
+      "applicationUrl": "https://jobright.ai/jobs/info/69fbeed83802c7621fd8e2e9",
       "postedDate": "2026-06-19",
       "isPostedToday": false
     },
@@ -1565,22 +1615,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_4fefd2b30c07",
+      "id": "job_4b3873946e5e",
       "category": "new_grad",
       "company": "Tenstorrent",
       "role": "GCC Compiler Engineer",
-      "location": "Toronto, ON",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a06fae51f7fa33581c9767d",
-      "postedDate": "2026-06-19",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_8661e58b43ed",
-      "category": "new_grad",
-      "company": "Tenstorrent",
-      "role": "GCC Compiler Engineer",
-      "location": "Austin, Texas, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6941d4ae14ee092a69ffe641",
+      "location": "Austin, TX",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a06fae51f7fa33581c9767e",
       "postedDate": "2026-06-19",
       "isPostedToday": false
     },
@@ -1595,12 +1635,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_4b3873946e5e",
+      "id": "job_8661e58b43ed",
       "category": "new_grad",
       "company": "Tenstorrent",
       "role": "GCC Compiler Engineer",
-      "location": "Austin, TX",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a06fae51f7fa33581c9767e",
+      "location": "Austin, Texas, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6941d4ae14ee092a69ffe641",
+      "postedDate": "2026-06-19",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_4fefd2b30c07",
+      "category": "new_grad",
+      "company": "Tenstorrent",
+      "role": "GCC Compiler Engineer",
+      "location": "Toronto, ON",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a06fae51f7fa33581c9767d",
       "postedDate": "2026-06-19",
       "isPostedToday": false
     },
@@ -1645,32 +1695,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_445fa96c47ea",
-      "category": "new_grad",
-      "company": "Twitch",
-      "role": "Software Engineer I, Commerce Engineering",
-      "location": "San Francisco, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a107e9069bd827926aee9b3",
-      "postedDate": "2026-06-19",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_f82f50c17c78",
-      "category": "new_grad",
-      "company": "Twitch",
-      "role": "Software Engineer I, Commerce Engineering",
-      "location": "San Francisco, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69c448eed5a1016e98db67c6",
-      "postedDate": "2026-06-19",
-      "isPostedToday": false
-    },
-    {
       "id": "job_75cf1c139d54",
       "category": "new_grad",
       "company": "Twitch",
       "role": "Software Engineer I, Commerce Engineering",
       "location": "San Francisco, CA",
       "applicationUrl": "https://jobright.ai/jobs/info/6a1cb08cc2a87d6cd3e089a8",
+      "postedDate": "2026-06-19",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_445fa96c47ea",
+      "category": "new_grad",
+      "company": "Twitch",
+      "role": "Software Engineer I, Commerce Engineering",
+      "location": "San Francisco, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a107e9069bd827926aee9b3",
       "postedDate": "2026-06-19",
       "isPostedToday": false
     },
@@ -1691,6 +1731,16 @@
       "role": "Software Engineer I, Commerce Engineering",
       "location": "Seattle, WA",
       "applicationUrl": "https://jobright.ai/jobs/info/69c447a16f4f855eeda6b52f",
+      "postedDate": "2026-06-19",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_f82f50c17c78",
+      "category": "new_grad",
+      "company": "Twitch",
+      "role": "Software Engineer I, Commerce Engineering",
+      "location": "San Francisco, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69c448eed5a1016e98db67c6",
       "postedDate": "2026-06-19",
       "isPostedToday": false
     },
@@ -1735,22 +1785,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_fd71fdb2e34b",
-      "category": "new_grad",
-      "company": "York Space Systems",
-      "role": "Software Engineer I - Ground Software",
-      "location": "Austin, TX, 7701 North Lamar Blvd, Austin, Texas, United States of America",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a35586df6b55d12c791f670",
-      "postedDate": "2026-06-19",
-      "isPostedToday": false
-    },
-    {
       "id": "job_66bdf28b6959",
       "category": "new_grad",
       "company": "York Space Systems",
       "role": "Software Engineer I - Ground Software",
       "location": "Greenwood Village, CO, 6060 South Willow Drive, Greenwood Village, Colorado, United States of America",
       "applicationUrl": "https://jobright.ai/jobs/info/6a35586df6b55d12c791f672",
+      "postedDate": "2026-06-19",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_fd71fdb2e34b",
+      "category": "new_grad",
+      "company": "York Space Systems",
+      "role": "Software Engineer I - Ground Software",
+      "location": "Austin, TX, 7701 North Lamar Blvd, Austin, Texas, United States of America",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a35586df6b55d12c791f670",
       "postedDate": "2026-06-19",
       "isPostedToday": false
     },
@@ -1765,16 +1815,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_fd2852c0cbf9",
-      "category": "new_grad",
-      "company": "Accenture Federal Services",
-      "role": "Embedded Developer 0",
-      "location": "Annapolis Junction, MD",
-      "applicationUrl": "https://jobright.ai/jobs/info/67f49662bd2699df45df0dce",
-      "postedDate": "2026-06-18",
-      "isPostedToday": false
-    },
-    {
       "id": "job_89d7f5024902",
       "category": "new_grad",
       "company": "Accenture Federal Services",
@@ -1785,12 +1825,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_c193d62c86eb",
+      "id": "job_fd2852c0cbf9",
       "category": "new_grad",
       "company": "Accenture Federal Services",
-      "role": "Oracle Cloud and Operations Lead",
-      "location": "Arlington, VA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a106609619335383fb32486",
+      "role": "Embedded Developer 0",
+      "location": "Annapolis Junction, MD",
+      "applicationUrl": "https://jobright.ai/jobs/info/67f49662bd2699df45df0dce",
       "postedDate": "2026-06-18",
       "isPostedToday": false
     },
@@ -1801,6 +1841,16 @@
       "role": "Oracle Cloud and Operations Lead",
       "location": "Washington, DC",
       "applicationUrl": "https://jobright.ai/jobs/info/6a106607619335383fb32485",
+      "postedDate": "2026-06-18",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_c193d62c86eb",
+      "category": "new_grad",
+      "company": "Accenture Federal Services",
+      "role": "Oracle Cloud and Operations Lead",
+      "location": "Arlington, VA",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a106609619335383fb32486",
       "postedDate": "2026-06-18",
       "isPostedToday": false
     },
@@ -1875,16 +1925,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_7eb3d7e0dcba",
-      "category": "new_grad",
-      "company": "Accenture Federal Services",
-      "role": "Software Engineering Analyst",
-      "location": "Washington, DC",
-      "applicationUrl": "https://jobright.ai/jobs/info/69fe4685ad691a11f34eca43",
-      "postedDate": "2026-06-18",
-      "isPostedToday": false
-    },
-    {
       "id": "job_14fd37a3a82d",
       "category": "new_grad",
       "company": "Accenture Federal Services",
@@ -1895,22 +1935,22 @@
       "isPostedToday": false
     },
     {
+      "id": "job_7eb3d7e0dcba",
+      "category": "new_grad",
+      "company": "Accenture Federal Services",
+      "role": "Software Engineering Analyst",
+      "location": "Washington, DC",
+      "applicationUrl": "https://jobright.ai/jobs/info/69fe4685ad691a11f34eca43",
+      "postedDate": "2026-06-18",
+      "isPostedToday": false
+    },
+    {
       "id": "job_8c86184f15b8",
       "category": "new_grad",
       "company": "Alation",
       "role": "UX Software Engineer I (Contractor)",
       "location": "USA-CA-REDWOOD CITY, US",
       "applicationUrl": "https://jobright.ai/jobs/info/6a34020bce501060b5ceedcd",
-      "postedDate": "2026-06-18",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_dbb4c21294e7",
-      "category": "new_grad",
-      "company": "Anduril Industries",
-      "role": "Software Engineer, Intelligence Systems",
-      "location": "Reston, VA (NOVA)",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a072b474a0a6a7e7d825838",
       "postedDate": "2026-06-18",
       "isPostedToday": false
     },
@@ -1931,6 +1971,16 @@
       "role": "Software Engineer, Intelligence Systems",
       "location": "Reston, VA (NOVA-01)",
       "applicationUrl": "https://jobright.ai/jobs/info/6a0f2f8972b52f7225f3b7cc",
+      "postedDate": "2026-06-18",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_dbb4c21294e7",
+      "category": "new_grad",
+      "company": "Anduril Industries",
+      "role": "Software Engineer, Intelligence Systems",
+      "location": "Reston, VA (NOVA)",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a072b474a0a6a7e7d825838",
       "postedDate": "2026-06-18",
       "isPostedToday": false
     },
@@ -2485,22 +2535,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_83536ac619cf",
-      "category": "new_grad",
-      "company": "Nuro",
-      "role": "Software Engineer, Autonomy Visualization",
-      "location": "Mountain View, California (HQ)",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a0711404a0a6a7e7d822e62",
-      "postedDate": "2026-06-18",
-      "isPostedToday": false
-    },
-    {
       "id": "job_08dfa7b2e009",
       "category": "new_grad",
       "company": "Nuro",
       "role": "Software Engineer, Autonomy Visualization",
       "location": "California - HQ",
       "applicationUrl": "https://jobright.ai/jobs/info/6a228407597131741415f0a1",
+      "postedDate": "2026-06-18",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_5d813037b81e",
+      "category": "new_grad",
+      "company": "Nuro",
+      "role": "Software Engineer, Autonomy Visualization",
+      "location": "Mountain View, California (HQ)",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a04154b22395b6dc6d9a4cc",
       "postedDate": "2026-06-18",
       "isPostedToday": false
     },
@@ -2745,62 +2795,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_207b751f87af",
-      "category": "new_grad",
-      "company": "Tenstorrent",
-      "role": "Software Engineer, Metal Runtime (API & Abstractions)",
-      "location": "Toronto, Ontario, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a06f94f152f493123c49e4c",
-      "postedDate": "2026-06-18",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_64c9604c4c50",
-      "category": "new_grad",
-      "company": "Tenstorrent",
-      "role": "Software Engineer, Metal Runtime (API & Abstractions)",
-      "location": "Toronto",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a06f940152f493123c49df5",
-      "postedDate": "2026-06-18",
-      "isPostedToday": false
-    },
-    {
       "id": "job_769de4db2f57",
       "category": "new_grad",
       "company": "Tenstorrent",
       "role": "Software Engineer, Metal Runtime (API & Abstractions)",
       "location": "Austin, Texas, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a06f94a152f493123c49e2e",
-      "postedDate": "2026-06-18",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_fcc72100f165",
-      "category": "new_grad",
-      "company": "Tenstorrent",
-      "role": "Software Engineer, Metal Runtime (API & Abstractions)",
-      "location": "Toronto, ON",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a0724ad24dcb03739f22878",
-      "postedDate": "2026-06-18",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_80023cf8e147",
-      "category": "new_grad",
-      "company": "Tenstorrent",
-      "role": "Software Engineer, Metal Runtime (API & Abstractions)",
-      "location": "Santa Clara, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a0724ad24dcb03739f22879",
-      "postedDate": "2026-06-18",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_56b12ed2df73",
-      "category": "new_grad",
-      "company": "Tenstorrent",
-      "role": "Software Engineer, Metal Runtime (API & Abstractions)",
-      "location": "Toronto",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a184b3edbc80963f934186e",
       "postedDate": "2026-06-18",
       "isPostedToday": false
     },
@@ -2825,12 +2825,62 @@
       "isPostedToday": false
     },
     {
+      "id": "job_56b12ed2df73",
+      "category": "new_grad",
+      "company": "Tenstorrent",
+      "role": "Software Engineer, Metal Runtime (API & Abstractions)",
+      "location": "Toronto",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a184b3edbc80963f934186e",
+      "postedDate": "2026-06-18",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_64c9604c4c50",
+      "category": "new_grad",
+      "company": "Tenstorrent",
+      "role": "Software Engineer, Metal Runtime (API & Abstractions)",
+      "location": "Toronto",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a06f940152f493123c49df5",
+      "postedDate": "2026-06-18",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_207b751f87af",
+      "category": "new_grad",
+      "company": "Tenstorrent",
+      "role": "Software Engineer, Metal Runtime (API & Abstractions)",
+      "location": "Toronto, Ontario, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a06f94f152f493123c49e4c",
+      "postedDate": "2026-06-18",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_80023cf8e147",
+      "category": "new_grad",
+      "company": "Tenstorrent",
+      "role": "Software Engineer, Metal Runtime (API & Abstractions)",
+      "location": "Santa Clara, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a0724ad24dcb03739f22879",
+      "postedDate": "2026-06-18",
+      "isPostedToday": false
+    },
+    {
       "id": "job_533f815a5634",
       "category": "new_grad",
       "company": "Tenstorrent",
       "role": "Software Engineer, Metal Runtime (API & Abstractions)",
       "location": "Santa Clara, California, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a06f94b152f493123c49e34",
+      "postedDate": "2026-06-18",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_fcc72100f165",
+      "category": "new_grad",
+      "company": "Tenstorrent",
+      "role": "Software Engineer, Metal Runtime (API & Abstractions)",
+      "location": "Toronto, ON",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a0724ad24dcb03739f22878",
       "postedDate": "2026-06-18",
       "isPostedToday": false
     },
@@ -2945,12 +2995,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_5aa767f36140",
+      "id": "job_4235a0d5d78a",
       "category": "new_grad",
       "company": "Visionworks of America",
       "role": "Quality Assurance Tech - PM",
       "location": "Richland Hills Dr, San Antonio, TX, USA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69be38f1b10602456283a9dc",
+      "applicationUrl": "https://jobright.ai/jobs/info/69fb0ea987a4820e6da844a4",
       "postedDate": "2026-06-18",
       "isPostedToday": false
     },
@@ -2975,22 +3025,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_b51be75e9eb6",
-      "category": "new_grad",
-      "company": "WHOOP",
-      "role": "Software Engineer I (Quality)",
-      "location": "Boston, MA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69dec4e318cf504166e2fcb3",
-      "postedDate": "2026-06-18",
-      "isPostedToday": false
-    },
-    {
       "id": "job_6baa193cd6bf",
       "category": "new_grad",
       "company": "WHOOP",
       "role": "Software Engineer I (Quality)",
       "location": "Boston, MA",
       "applicationUrl": "https://jobright.ai/jobs/info/6a16c1e4202ae849ed8d4f50",
+      "postedDate": "2026-06-18",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_b51be75e9eb6",
+      "category": "new_grad",
+      "company": "WHOOP",
+      "role": "Software Engineer I (Quality)",
+      "location": "Boston, MA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69dec4e318cf504166e2fcb3",
       "postedDate": "2026-06-18",
       "isPostedToday": false
     },
@@ -3015,6 +3065,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_f548e0e12967",
+      "category": "new_grad",
+      "company": "Zone 5 Technologies",
+      "role": "Embedded Software Engineer I/II",
+      "location": "San Luis Obispo, California",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a1e1d55c2a87d6cd3e1002f",
+      "postedDate": "2026-06-18",
+      "isPostedToday": false
+    },
+    {
       "id": "job_d06830b20a00",
       "category": "new_grad",
       "company": "Zone 5 Technologies",
@@ -3031,16 +3091,6 @@
       "role": "Embedded Software Engineer I/II",
       "location": "San Luis Obispo, California",
       "applicationUrl": "https://jobright.ai/jobs/info/69f9015ddb88714bcdfbd0ba",
-      "postedDate": "2026-06-18",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_f548e0e12967",
-      "category": "new_grad",
-      "company": "Zone 5 Technologies",
-      "role": "Embedded Software Engineer I/II",
-      "location": "San Luis Obispo, California",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a1e1d55c2a87d6cd3e1002f",
       "postedDate": "2026-06-18",
       "isPostedToday": false
     },
@@ -3115,12 +3165,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_297b274a3857",
+      "id": "job_2248add85328",
       "category": "new_grad",
       "company": "Amazon",
       "role": "Software Development Engineer – Amazon Leo (US)",
-      "location": "San Diego, California, USA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a0b55cc22d0d34036c8aea4",
+      "location": "Northridge, California, USA",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a0b55cc22d0d34036c8ae9c",
       "postedDate": "2026-06-17",
       "isPostedToday": false
     },
@@ -3135,12 +3185,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_2248add85328",
+      "id": "job_297b274a3857",
       "category": "new_grad",
       "company": "Amazon",
       "role": "Software Development Engineer – Amazon Leo (US)",
-      "location": "Northridge, California, USA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a0b55cc22d0d34036c8ae9c",
+      "location": "San Diego, California, USA",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a0b55cc22d0d34036c8aea4",
       "postedDate": "2026-06-17",
       "isPostedToday": false
     },
@@ -3215,22 +3265,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_8011e0723d4c",
-      "category": "new_grad",
-      "company": "Booz Allen Hamilton",
-      "role": "Test Engineer",
-      "location": "MD,",
-      "applicationUrl": "https://jobright.ai/jobs/info/69e0962f9564e855a25de436",
-      "postedDate": "2026-06-17",
-      "isPostedToday": false
-    },
-    {
       "id": "job_e42ce3e7d11f",
       "category": "new_grad",
       "company": "Booz Allen Hamilton",
       "role": "Test Engineer",
       "location": "MD,",
       "applicationUrl": "https://jobright.ai/jobs/info/69e1a222d612782e611498c3",
+      "postedDate": "2026-06-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_8011e0723d4c",
+      "category": "new_grad",
+      "company": "Booz Allen Hamilton",
+      "role": "Test Engineer",
+      "location": "MD,",
+      "applicationUrl": "https://jobright.ai/jobs/info/69e0962f9564e855a25de436",
       "postedDate": "2026-06-17",
       "isPostedToday": false
     },
@@ -3335,16 +3385,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_19abb372fcac",
-      "category": "new_grad",
-      "company": "Gemba Advantage",
-      "role": "Software Engineer",
-      "location": "Manchester (Hybrid)",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a29b838d3ec8317fe1400c5",
-      "postedDate": "2026-06-17",
-      "isPostedToday": false
-    },
-    {
       "id": "job_ab391b78716e",
       "category": "new_grad",
       "company": "Gemba Advantage",
@@ -3365,12 +3405,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_7cf5393f082c",
+      "id": "job_19abb372fcac",
       "category": "new_grad",
       "company": "Gemba Advantage",
       "role": "Software Engineer",
-      "location": "Cheltenham (Hybrid)",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a1d4e14b524ae49285a5d8c",
+      "location": "Manchester (Hybrid)",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a29b838d3ec8317fe1400c5",
       "postedDate": "2026-06-17",
       "isPostedToday": false
     },
@@ -3381,6 +3421,16 @@
       "role": "Software Engineer",
       "location": "Manchester (Hybrid)",
       "applicationUrl": "https://jobright.ai/jobs/info/69ea73c67820c036924ee039",
+      "postedDate": "2026-06-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_7cf5393f082c",
+      "category": "new_grad",
+      "company": "Gemba Advantage",
+      "role": "Software Engineer",
+      "location": "Cheltenham (Hybrid)",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a1d4e14b524ae49285a5d8c",
       "postedDate": "2026-06-17",
       "isPostedToday": false
     },
@@ -3595,22 +3645,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_44127f63c339",
-      "category": "new_grad",
-      "company": "Motorola Solutions",
-      "role": "Web Interface Software Engineer",
-      "location": "Los Angeles, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69dd447e61f6ed54321fc1d3",
-      "postedDate": "2026-06-17",
-      "isPostedToday": false
-    },
-    {
       "id": "job_1186206edeee",
       "category": "new_grad",
       "company": "Motorola Solutions",
       "role": "Web Interface Software Engineer",
       "location": "Los Angeles, CA, US",
       "applicationUrl": "https://jobright.ai/jobs/info/6a03f9dd6c07461fe1708bf8",
+      "postedDate": "2026-06-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_44127f63c339",
+      "category": "new_grad",
+      "company": "Motorola Solutions",
+      "role": "Web Interface Software Engineer",
+      "location": "Los Angeles, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69dd447e61f6ed54321fc1d3",
       "postedDate": "2026-06-17",
       "isPostedToday": false
     },
@@ -3655,22 +3705,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_fb069fe7887a",
-      "category": "new_grad",
-      "company": "NexHealth",
-      "role": "Software Engineer",
-      "location": "Seattle",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a22130ac00e701fe8372b1e",
-      "postedDate": "2026-06-17",
-      "isPostedToday": false
-    },
-    {
       "id": "job_c85ed929254f",
       "category": "new_grad",
       "company": "NexHealth",
       "role": "Software Engineer",
       "location": "Seattle, Washington, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a22130ac00e701fe8372b1f",
+      "postedDate": "2026-06-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_fb069fe7887a",
+      "category": "new_grad",
+      "company": "NexHealth",
+      "role": "Software Engineer",
+      "location": "Seattle",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a22130ac00e701fe8372b1e",
       "postedDate": "2026-06-17",
       "isPostedToday": false
     },
@@ -3695,6 +3745,26 @@
       "isPostedToday": false
     },
     {
+      "id": "job_afff7b60ae96",
+      "category": "new_grad",
+      "company": "OSI Maritime Systems",
+      "role": "Software Engineer",
+      "location": "OSI Maritime Systems (CA), Suite 400 - 4585 Canada Way, Burnaby, British Columbia, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a045634bc4184089f239c00",
+      "postedDate": "2026-06-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_b0df720481ed",
+      "category": "new_grad",
+      "company": "OSI Maritime Systems",
+      "role": "Software Engineer",
+      "location": "OSI Maritime Systems (CA), Suite 400 - 4585 Canada Way, Burnaby, British Columbia, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a1b1478c2a87d6cd3e02e5e",
+      "postedDate": "2026-06-17",
+      "isPostedToday": false
+    },
+    {
       "id": "job_6f899bfa85ce",
       "category": "new_grad",
       "company": "OSI Maritime Systems",
@@ -3705,32 +3775,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_c4cf89838c4a",
-      "category": "new_grad",
-      "company": "OSI Maritime Systems",
-      "role": "Software Engineer",
-      "location": "OSI Maritime Systems (CA), Suite 400 - 4585 Canada Way, Burnaby, British Columbia, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a114c869fdbf21f36cb3825",
-      "postedDate": "2026-06-17",
-      "isPostedToday": false
-    },
-    {
       "id": "job_2969953c6baa",
       "category": "new_grad",
       "company": "OSI Maritime Systems",
       "role": "Software Engineer",
       "location": "OSI Maritime Systems (CA), Suite 400 - 4585 Canada Way, Burnaby, British Columbia, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/6a32286ce7b7d514a3bd7177",
-      "postedDate": "2026-06-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_afff7b60ae96",
-      "category": "new_grad",
-      "company": "OSI Maritime Systems",
-      "role": "Software Engineer",
-      "location": "OSI Maritime Systems (CA), Suite 400 - 4585 Canada Way, Burnaby, British Columbia, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a045634bc4184089f239c00",
       "postedDate": "2026-06-17",
       "isPostedToday": false
     },
@@ -4005,22 +4055,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_8435d3f5e2cf",
-      "category": "new_grad",
-      "company": "Torc Robotics",
-      "role": "Software Engineer I - Metrics for Release Implementation",
-      "location": "Remote - US",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a15e0fe1935fa61b3c6c074",
-      "postedDate": "2026-06-17",
-      "isPostedToday": false
-    },
-    {
       "id": "job_0095cd8973c9",
       "category": "new_grad",
       "company": "Torc Robotics",
       "role": "Software Engineer I - Metrics for Release Implementation",
       "location": "Remote, US",
       "applicationUrl": "https://jobright.ai/jobs/info/6a15e1041935fa61b3c6c078",
+      "postedDate": "2026-06-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_8435d3f5e2cf",
+      "category": "new_grad",
+      "company": "Torc Robotics",
+      "role": "Software Engineer I - Metrics for Release Implementation",
+      "location": "Remote - US",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a15e0fe1935fa61b3c6c074",
       "postedDate": "2026-06-17",
       "isPostedToday": false
     },
@@ -4095,12 +4145,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_7acaf9c07b7c",
+      "id": "job_0e376376ab66",
       "category": "new_grad",
       "company": "VideoAmp",
       "role": "Software Engineer, API Integrations",
       "location": "United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a0fd5559f654b3359ce8889",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a0fd55c9f654b3359ce888d",
       "postedDate": "2026-06-17",
       "isPostedToday": false
     },
@@ -4285,22 +4335,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_d4fb226381ca",
-      "category": "new_grad",
-      "company": "Alteryx",
-      "role": "Software Engineer",
-      "location": "US - Remote, US",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a10929b69bd827926aef51e",
-      "postedDate": "2026-06-16",
-      "isPostedToday": false
-    },
-    {
       "id": "job_6163f685cab5",
       "category": "new_grad",
       "company": "Alteryx",
       "role": "Software Engineer",
       "location": "US - Remote",
       "applicationUrl": "https://jobright.ai/jobs/info/699ea122e0bddb6acace6ce0",
+      "postedDate": "2026-06-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_d4fb226381ca",
+      "category": "new_grad",
+      "company": "Alteryx",
+      "role": "Software Engineer",
+      "location": "US - Remote, US",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a10929b69bd827926aef51e",
       "postedDate": "2026-06-16",
       "isPostedToday": false
     },
@@ -4575,22 +4625,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_66493b68a83a",
-      "category": "new_grad",
-      "company": "Deloitte",
-      "role": "Analyst, Functional Transformation SAP",
-      "location": "Portland, OR",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a314d47e7b7d514a3bd2cad",
-      "postedDate": "2026-06-16",
-      "isPostedToday": false
-    },
-    {
       "id": "job_97bdfadd4424",
       "category": "new_grad",
       "company": "Deloitte",
       "role": "Analyst, Functional Transformation SAP",
       "location": "Tampa, FL",
       "applicationUrl": "https://jobright.ai/jobs/info/6a314d4735e80310003a64ec",
+      "postedDate": "2026-06-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_66493b68a83a",
+      "category": "new_grad",
+      "company": "Deloitte",
+      "role": "Analyst, Functional Transformation SAP",
+      "location": "Portland, OR",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a314d47e7b7d514a3bd2cad",
       "postedDate": "2026-06-16",
       "isPostedToday": false
     },
@@ -4665,22 +4715,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_5f71a9c3e011",
-      "category": "new_grad",
-      "company": "Deloitte",
-      "role": "Analyst, Functional Transformation SAP",
-      "location": "Miami, FL",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a314d400ff23769fdb1d478",
-      "postedDate": "2026-06-16",
-      "isPostedToday": false
-    },
-    {
       "id": "job_051e2be0fa00",
       "category": "new_grad",
       "company": "Deloitte",
       "role": "Analyst, Functional Transformation SAP",
       "location": "Fort Worth, TX",
       "applicationUrl": "https://jobright.ai/jobs/info/6a314d400ff23769fdb1d479",
+      "postedDate": "2026-06-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_5f71a9c3e011",
+      "category": "new_grad",
+      "company": "Deloitte",
+      "role": "Analyst, Functional Transformation SAP",
+      "location": "Miami, FL",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a314d400ff23769fdb1d478",
       "postedDate": "2026-06-16",
       "isPostedToday": false
     },
@@ -4695,16 +4745,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_336bf9237117",
-      "category": "new_grad",
-      "company": "Deloitte",
-      "role": "Analyst, Functional Transformation SAP",
-      "location": "Jericho, NY",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a314d3be7b7d514a3bd2ca6",
-      "postedDate": "2026-06-16",
-      "isPostedToday": false
-    },
-    {
       "id": "job_87344c670ee7",
       "category": "new_grad",
       "company": "Deloitte",
@@ -4715,12 +4755,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_b0b41c21ec50",
+      "id": "job_336bf9237117",
       "category": "new_grad",
       "company": "Deloitte",
       "role": "Analyst, Functional Transformation SAP",
-      "location": "Kansas City, MO",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a314d3a0ff23769fdb1d476",
+      "location": "Jericho, NY",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a314d3be7b7d514a3bd2ca6",
       "postedDate": "2026-06-16",
       "isPostedToday": false
     },
@@ -4731,6 +4771,16 @@
       "role": "Analyst, Functional Transformation SAP",
       "location": "Des Moines, IA",
       "applicationUrl": "https://jobright.ai/jobs/info/6a314d3a35e80310003a64e6",
+      "postedDate": "2026-06-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_b0b41c21ec50",
+      "category": "new_grad",
+      "company": "Deloitte",
+      "role": "Analyst, Functional Transformation SAP",
+      "location": "Kansas City, MO",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a314d3a0ff23769fdb1d476",
       "postedDate": "2026-06-16",
       "isPostedToday": false
     },
@@ -4755,22 +4805,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_040d5a72c938",
-      "category": "new_grad",
-      "company": "Deloitte",
-      "role": "Analyst, Functional Transformation SAP",
-      "location": "Houston, TX",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a314d352ee3ac1b4beee05c",
-      "postedDate": "2026-06-16",
-      "isPostedToday": false
-    },
-    {
       "id": "job_4157a14d0047",
       "category": "new_grad",
       "company": "Deloitte",
       "role": "Analyst, Functional Transformation SAP",
       "location": "Williamsville, NY",
       "applicationUrl": "https://jobright.ai/jobs/info/6a314d3535e80310003a64e5",
+      "postedDate": "2026-06-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_040d5a72c938",
+      "category": "new_grad",
+      "company": "Deloitte",
+      "role": "Analyst, Functional Transformation SAP",
+      "location": "Houston, TX",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a314d352ee3ac1b4beee05c",
       "postedDate": "2026-06-16",
       "isPostedToday": false
     },
@@ -4805,22 +4855,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_fbf33efaf463",
-      "category": "new_grad",
-      "company": "Deloitte",
-      "role": "Analyst, Functional Transformation SAP",
-      "location": "Tulsa, OK",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a314d3235e80310003a64e2",
-      "postedDate": "2026-06-16",
-      "isPostedToday": false
-    },
-    {
       "id": "job_2717e5855fe4",
       "category": "new_grad",
       "company": "Deloitte",
       "role": "Analyst, Functional Transformation SAP",
       "location": "San Jose, CA",
       "applicationUrl": "https://jobright.ai/jobs/info/6a314d335958816970013f51",
+      "postedDate": "2026-06-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_fbf33efaf463",
+      "category": "new_grad",
+      "company": "Deloitte",
+      "role": "Analyst, Functional Transformation SAP",
+      "location": "Tulsa, OK",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a314d3235e80310003a64e2",
       "postedDate": "2026-06-16",
       "isPostedToday": false
     },
@@ -4875,26 +4925,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_c576f6329873",
-      "category": "new_grad",
-      "company": "Deloitte",
-      "role": "Analyst, Functional Transformation SAP",
-      "location": "San Antonio, TX",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a314d245958816970013f49",
-      "postedDate": "2026-06-16",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_1a9e175bc21c",
-      "category": "new_grad",
-      "company": "Deloitte",
-      "role": "Analyst, Functional Transformation SAP",
-      "location": "Wichita, KS",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a314d245958816970013f4a",
-      "postedDate": "2026-06-16",
-      "isPostedToday": false
-    },
-    {
       "id": "job_010997dff2ea",
       "category": "new_grad",
       "company": "Deloitte",
@@ -4905,12 +4935,32 @@
       "isPostedToday": false
     },
     {
+      "id": "job_c576f6329873",
+      "category": "new_grad",
+      "company": "Deloitte",
+      "role": "Analyst, Functional Transformation SAP",
+      "location": "San Antonio, TX",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a314d245958816970013f49",
+      "postedDate": "2026-06-16",
+      "isPostedToday": false
+    },
+    {
       "id": "job_61fdf4ab0437",
       "category": "new_grad",
       "company": "Deloitte",
       "role": "Analyst, Functional Transformation SAP",
       "location": "Westlake, TX",
       "applicationUrl": "https://jobright.ai/jobs/info/6a314d245958816970013f4b",
+      "postedDate": "2026-06-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_1a9e175bc21c",
+      "category": "new_grad",
+      "company": "Deloitte",
+      "role": "Analyst, Functional Transformation SAP",
+      "location": "Wichita, KS",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a314d245958816970013f4a",
       "postedDate": "2026-06-16",
       "isPostedToday": false
     },
@@ -4945,6 +4995,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_c198de52a904",
+      "category": "new_grad",
+      "company": "Deloitte",
+      "role": "Analyst, Functional Transformation SAP",
+      "location": "Raleigh, NC",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a314d1de7b7d514a3bd2c9c",
+      "postedDate": "2026-06-16",
+      "isPostedToday": false
+    },
+    {
       "id": "job_d9ee57a33bdc",
       "category": "new_grad",
       "company": "Deloitte",
@@ -4961,16 +5021,6 @@
       "role": "Analyst, Functional Transformation SAP",
       "location": "Baltimore, MD",
       "applicationUrl": "https://jobright.ai/jobs/info/6a314d1d2ee3ac1b4beee057",
-      "postedDate": "2026-06-16",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_c198de52a904",
-      "category": "new_grad",
-      "company": "Deloitte",
-      "role": "Analyst, Functional Transformation SAP",
-      "location": "Raleigh, NC",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a314d1de7b7d514a3bd2c9c",
       "postedDate": "2026-06-16",
       "isPostedToday": false
     },
@@ -5015,22 +5065,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_d191d2a0e059",
-      "category": "new_grad",
-      "company": "Deloitte",
-      "role": "Analyst, Functional Transformation SAP",
-      "location": "Arlington, VA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a314d152ee3ac1b4beee051",
-      "postedDate": "2026-06-16",
-      "isPostedToday": false
-    },
-    {
       "id": "job_db42088a5e3f",
       "category": "new_grad",
       "company": "Deloitte",
       "role": "Analyst, Functional Transformation SAP",
       "location": "Dayton, OH",
       "applicationUrl": "https://jobright.ai/jobs/info/6a314d152ee3ac1b4beee053",
+      "postedDate": "2026-06-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_d191d2a0e059",
+      "category": "new_grad",
+      "company": "Deloitte",
+      "role": "Analyst, Functional Transformation SAP",
+      "location": "Arlington, VA",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a314d152ee3ac1b4beee051",
       "postedDate": "2026-06-16",
       "isPostedToday": false
     },
@@ -5535,22 +5585,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_930fcdc80b13",
-      "category": "new_grad",
-      "company": "PrizePicks",
-      "role": "QA Analyst – Trading Data & Pricing",
-      "location": "United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a30e81a43732c05812e40cf",
-      "postedDate": "2026-06-16",
-      "isPostedToday": false
-    },
-    {
       "id": "job_27d209d6633e",
       "category": "new_grad",
       "company": "PrizePicks",
       "role": "QA Analyst – Trading Data & Pricing",
       "location": "Atlanta, GA",
       "applicationUrl": "https://jobright.ai/jobs/info/6a30e82343732c05812e40d0",
+      "postedDate": "2026-06-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_930fcdc80b13",
+      "category": "new_grad",
+      "company": "PrizePicks",
+      "role": "QA Analyst – Trading Data & Pricing",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a30e81a43732c05812e40cf",
       "postedDate": "2026-06-16",
       "isPostedToday": false
     },
@@ -5625,6 +5675,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_c147993aaf5d",
+      "category": "new_grad",
+      "company": "SpaceX",
+      "role": "Full Stack Software Engineer (Starlink)",
+      "location": "Palo Alto, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/69dda83fe34484770f19e656",
+      "postedDate": "2026-06-16",
+      "isPostedToday": false
+    },
+    {
       "id": "job_083484642075",
       "category": "new_grad",
       "company": "SpaceX",
@@ -5641,16 +5701,6 @@
       "role": "Full Stack Software Engineer (Starlink)",
       "location": "Palo Alto",
       "applicationUrl": "https://jobright.ai/jobs/info/6a0704ec24dcb03739f1e5fc",
-      "postedDate": "2026-06-16",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_c147993aaf5d",
-      "category": "new_grad",
-      "company": "SpaceX",
-      "role": "Full Stack Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69dda83fe34484770f19e656",
       "postedDate": "2026-06-16",
       "isPostedToday": false
     },
@@ -5705,16 +5755,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_272b65d1c5fd",
-      "category": "new_grad",
-      "company": "Tenstorrent",
-      "role": "Software Engineer, TT-Distributed",
-      "location": "Austin, Texas, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a06f94d152f493123c49e43",
-      "postedDate": "2026-06-16",
-      "isPostedToday": false
-    },
-    {
       "id": "job_8e8ff969e464",
       "category": "new_grad",
       "company": "Tenstorrent",
@@ -5731,6 +5771,16 @@
       "role": "Software Engineer, TT-Distributed",
       "location": "Toronto, Ontario, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/6a06f940152f493123c49de9",
+      "postedDate": "2026-06-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_272b65d1c5fd",
+      "category": "new_grad",
+      "company": "Tenstorrent",
+      "role": "Software Engineer, TT-Distributed",
+      "location": "Austin, Texas, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a06f94d152f493123c49e43",
       "postedDate": "2026-06-16",
       "isPostedToday": false
     },
@@ -5815,12 +5865,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_64f5e5de06b4",
+      "id": "job_2128677ec2d8",
       "category": "new_grad",
       "company": "UST HealthProof",
       "role": "Junior Full Stack Developer (Data CoE)",
       "location": "Bellevue",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a320ff5e7b7d514a3bd6c8d",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a320ff50ff23769fdb218dc",
       "postedDate": "2026-06-16",
       "isPostedToday": false
     },
@@ -6125,16 +6175,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_0c1a1b28f592",
-      "category": "new_grad",
-      "company": "Medtronic",
-      "role": "Associate IT Technologist - Boulder, CO",
-      "location": "Boulder, Colorado, United States of America",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a3004e2afabbe533fb88908",
-      "postedDate": "2026-06-15",
-      "isPostedToday": false
-    },
-    {
       "id": "job_b1372b2b74da",
       "category": "new_grad",
       "company": "Medtronic",
@@ -6151,6 +6191,16 @@
       "role": "Associate IT Technologist - Boulder, CO",
       "location": "Parker, Colorado, United States of America",
       "applicationUrl": "https://jobright.ai/jobs/info/6a3004e2afabbe533fb88909",
+      "postedDate": "2026-06-15",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_0c1a1b28f592",
+      "category": "new_grad",
+      "company": "Medtronic",
+      "role": "Associate IT Technologist - Boulder, CO",
+      "location": "Boulder, Colorado, United States of America",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a3004e2afabbe533fb88908",
       "postedDate": "2026-06-15",
       "isPostedToday": false
     },
@@ -6515,12 +6565,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_6d9fec13464c",
+      "id": "job_6a1b5ed4d441",
       "category": "new_grad",
       "company": "Ramp",
       "role": "Mobile Engineer, Android",
-      "location": "Remote (US)",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a160120dc845f4be5bdb779",
+      "location": "Remote (Canada)",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a16011ddc845f4be5bdb768",
       "postedDate": "2026-06-14",
       "isPostedToday": false
     },
@@ -6535,22 +6585,22 @@
       "isPostedToday": false
     },
     {
+      "id": "job_6d9fec13464c",
+      "category": "new_grad",
+      "company": "Ramp",
+      "role": "Mobile Engineer, Android",
+      "location": "Remote (US)",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a160120dc845f4be5bdb779",
+      "postedDate": "2026-06-14",
+      "isPostedToday": false
+    },
+    {
       "id": "job_92f71355f207",
       "category": "new_grad",
       "company": "Ramp",
       "role": "Mobile Engineer, Android",
       "location": "San Francisco, CA",
       "applicationUrl": "https://jobright.ai/jobs/info/6a16011edc845f4be5bdb76f",
-      "postedDate": "2026-06-14",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_6a1b5ed4d441",
-      "category": "new_grad",
-      "company": "Ramp",
-      "role": "Mobile Engineer, Android",
-      "location": "Remote (Canada)",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a16011ddc845f4be5bdb768",
       "postedDate": "2026-06-14",
       "isPostedToday": false
     },
@@ -6575,22 +6625,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_de49cf392554",
-      "category": "new_grad",
-      "company": "Accenture Federal Services",
-      "role": "Cloud Engineer (Winchester, VA)",
-      "location": "Chantilly, VA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a06ff4f4a0a6a7e7d81f03f",
-      "postedDate": "2026-06-13",
-      "isPostedToday": false
-    },
-    {
       "id": "job_fc562759dffb",
       "category": "new_grad",
       "company": "Accenture Federal Services",
       "role": "Cloud Engineer (Winchester, VA)",
       "location": "Arlington, VA",
       "applicationUrl": "https://jobright.ai/jobs/info/69e16ea7d612782e61148ace",
+      "postedDate": "2026-06-13",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_de49cf392554",
+      "category": "new_grad",
+      "company": "Accenture Federal Services",
+      "role": "Cloud Engineer (Winchester, VA)",
+      "location": "Chantilly, VA",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a06ff4f4a0a6a7e7d81f03f",
       "postedDate": "2026-06-13",
       "isPostedToday": false
     },
@@ -6675,22 +6725,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_522a5a856fab",
-      "category": "new_grad",
-      "company": "Booz Allen Hamilton",
-      "role": "Software Engineer",
-      "location": "Alexandria, Virginia, 22350",
-      "applicationUrl": "https://jobright.ai/jobs/info/69e09640c17d1d525433547f",
-      "postedDate": "2026-06-12",
-      "isPostedToday": false
-    },
-    {
       "id": "job_35cb0260a595",
       "category": "new_grad",
       "company": "Booz Allen Hamilton",
       "role": "Software Engineer",
       "location": "Montgomery, Alabama, 36136",
       "applicationUrl": "https://jobright.ai/jobs/info/69e09639b20fd532b4ae256a",
+      "postedDate": "2026-06-12",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_522a5a856fab",
+      "category": "new_grad",
+      "company": "Booz Allen Hamilton",
+      "role": "Software Engineer",
+      "location": "Alexandria, Virginia, 22350",
+      "applicationUrl": "https://jobright.ai/jobs/info/69e09640c17d1d525433547f",
       "postedDate": "2026-06-12",
       "isPostedToday": false
     },
@@ -7295,16 +7345,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_c6f4b9189a36",
-      "category": "intern",
-      "company": "SHEIN",
-      "role": "Data Analysis Intern - Logistics - Supply Chain",
-      "location": "United States",
-      "applicationUrl": "https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA08128269",
-      "postedDate": "2026-06-10",
-      "isPostedToday": false
-    },
-    {
       "id": "job_7054a8f4db2e",
       "category": "new_grad",
       "company": "SpaceX",
@@ -7425,22 +7465,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_45ae1cd0e119",
-      "category": "new_grad",
-      "company": "Pigment",
-      "role": "Associate Solution Architect",
-      "location": "Toronto",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a0cfbfd538d03366dc93177",
-      "postedDate": "2026-06-09",
-      "isPostedToday": false
-    },
-    {
       "id": "job_42f648ccb34d",
       "category": "new_grad",
       "company": "Pigment",
       "role": "Associate Solution Architect",
       "location": "Toronto",
       "applicationUrl": "https://jobright.ai/jobs/info/69bc86e045e08b3dc1f94349",
+      "postedDate": "2026-06-09",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_45ae1cd0e119",
+      "category": "new_grad",
+      "company": "Pigment",
+      "role": "Associate Solution Architect",
+      "location": "Toronto",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a0cfbfd538d03366dc93177",
       "postedDate": "2026-06-09",
       "isPostedToday": false
     },
