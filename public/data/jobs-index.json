@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-26T17:05:49-5",
+  "generatedAt": "2026-06-26T17:37:08-5",
   "timezone": "America/Chicago",
   "pageSize": 50,
-  "totalJobs": 2034,
+  "totalJobs": 2018,
   "jobs": [
     {
       "id": "job_a74b1b028598",
@@ -1262,7 +1262,7 @@
       "location": "Austin, TX",
       "applicationUrl": "https://job-boards.greenhouse.io/fourhands/jobs/4297618009",
       "postedDate": "2026-06-25",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_9d75420b7f81",
@@ -9375,26 +9375,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_9f79931e67a0",
-      "category": "new_grad",
-      "company": "Dexcom",
-      "role": "IOS/Andriod Engineer 1",
-      "location": "Portland, OR",
-      "applicationUrl": "",
-      "postedDate": "2026-05-27",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_cbf915018dca",
-      "category": "new_grad",
-      "company": "General Motors",
-      "role": "Early Career Software Developer - Brake Controls and Diagnostics",
-      "location": "Markham, ON, Canada, Oshawa, ON, Canada",
-      "applicationUrl": "",
-      "postedDate": "2026-05-27",
-      "isPostedToday": false
-    },
-    {
       "id": "job_7bb9960f2f75",
       "category": "intern",
       "company": "Magna",
@@ -9445,26 +9425,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_bc0bb3982b3d",
-      "category": "new_grad",
-      "company": "Rocket Lab USA",
-      "role": "Flight Software Engineer 1",
-      "location": "Littleton, CO",
-      "applicationUrl": "",
-      "postedDate": "2026-05-27",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_dec68737cba8",
-      "category": "new_grad",
-      "company": "RTX",
-      "role": "Software Engineer 1 - Receiver - Exciter",
-      "location": "Marlborough, MA",
-      "applicationUrl": "",
-      "postedDate": "2026-05-27",
-      "isPostedToday": false
-    },
-    {
       "id": "job_b367f349e6f4",
       "category": "new_grad",
       "company": "Talan",
@@ -9482,16 +9442,6 @@
       "location": "San Luis Obispo, CA",
       "applicationUrl": "https://job-boards.greenhouse.io/zone5technologies/jobs/5231405008",
       "postedDate": "2026-05-27",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_07f8e2c4d0dc",
-      "category": "intern",
-      "company": "Anterior",
-      "role": "Clinical AI Intern 🎓",
-      "location": "NYC",
-      "applicationUrl": "https://jobs.ashbyhq.com/anterior/550c48f9-eb2e-4d5e-80ff-8db076b4e52d/application",
-      "postedDate": "2026-05-26",
       "isPostedToday": false
     },
     {
@@ -9521,116 +9471,6 @@
       "role": "Software Engineer Intern",
       "location": "Austin, TX",
       "applicationUrl": "https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application",
-      "postedDate": "2026-05-26",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_a721edb6ae3c",
-      "category": "intern",
-      "company": "Black Box",
-      "role": "AI Engineer Intern 🎓",
-      "location": "Plano, TX",
-      "applicationUrl": "https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/6315",
-      "postedDate": "2026-05-26",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_412cc0c75b11",
-      "category": "intern",
-      "company": "MaintainX",
-      "role": "Software Development Intern",
-      "location": "Montreal, QC, Canada",
-      "applicationUrl": "https://job-boards.greenhouse.io/maintainx/jobs/5146022007",
-      "postedDate": "2026-05-26",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_c905b475b449",
-      "category": "intern",
-      "company": "Mercedes-Benz",
-      "role": "OBD Certification &amp; Compliance Intern",
-      "location": "Ann Arbor, MI",
-      "applicationUrl": "https://jobs.lever.co/MBRDNA/8c461c13-0cfc-461b-bc2d-dc2dfed92581/apply",
-      "postedDate": "2026-05-26",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_469215b5dc7d",
-      "category": "intern",
-      "company": "Periodic Labs",
-      "role": "Nanofabrication Intern",
-      "location": "Menlo Park, CA",
-      "applicationUrl": "https://jobs.ashbyhq.com/periodic-labs/2cfb099d-42f1-4dff-93f4-1862b13f914a/application",
-      "postedDate": "2026-05-26",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_9e6eeedb9a2c",
-      "category": "intern",
-      "company": "PlusAI",
-      "role": "Computer Vision Engineer Intern 🎓",
-      "location": "Santa Clara, CA",
-      "applicationUrl": "https://jobs.lever.co/plus-2/c143df6e-66c2-4498-b19b-8323f9954ca9/apply",
-      "postedDate": "2026-05-26",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_07f38687e7d2",
-      "category": "intern",
-      "company": "PlusAI",
-      "role": "Deep Learning Intern 🎓",
-      "location": "Santa Clara, CA",
-      "applicationUrl": "https://jobs.lever.co/plus-2/58d77886-bf3a-4707-8af8-e1af47162e2e/apply",
-      "postedDate": "2026-05-26",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_94c4a1569f3b",
-      "category": "intern",
-      "company": "PlusAI",
-      "role": "Deep Learning Research Intern 🎓",
-      "location": "Santa Clara, CA",
-      "applicationUrl": "https://jobs.lever.co/plus-2/2f2c1cd9-f099-483a-9717-0da83a391333/apply",
-      "postedDate": "2026-05-26",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_d21682e6c63d",
-      "category": "intern",
-      "company": "PlusAI",
-      "role": "Perception Intern 🎓",
-      "location": "Santa Clara, CA",
-      "applicationUrl": "https://jobs.lever.co/plus-2/e4b669b3-c07f-4b5f-abb6-c1c6db602a64/apply",
-      "postedDate": "2026-05-26",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_e64efc421c1b",
-      "category": "intern",
-      "company": "PlusAI",
-      "role": "Reinforcement Learning Planning Research Intern 🎓",
-      "location": "Santa Clara, CA",
-      "applicationUrl": "https://jobs.lever.co/plus-2/7565aed4-41b0-44e9-8608-3ccd07e18262/apply",
-      "postedDate": "2026-05-26",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_bb590e1185ae",
-      "category": "intern",
-      "company": "PlusAI",
-      "role": "Research Engineer Intern - Mapping &amp; Localization 🎓",
-      "location": "Santa Clara, CA",
-      "applicationUrl": "https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061/apply",
-      "postedDate": "2026-05-26",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_16ca6cf4fb8c",
-      "category": "intern",
-      "company": "PlusAI",
-      "role": "Research Engineer Intern 🎓",
-      "location": "Santa Clara, CA",
-      "applicationUrl": "https://jobs.lever.co/plus-2/5f066e92-3ca3-4c04-ae21-2377352166ca/apply",
       "postedDate": "2026-05-26",
       "isPostedToday": false
     },
