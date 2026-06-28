@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T06:16:53-5",
+  "generatedAt": "2026-06-28T07:47:01-5",
   "timezone": "America/Chicago",
   "jobs": [
     {
@@ -12,7 +12,7 @@
       "postedDate": "2026-06-28",
       "isPostedToday": true,
       "firstSeenAt": "2026-06-28T06:01:39-5",
-      "lastSeenAt": "2026-06-28T06:16:53-5",
+      "lastSeenAt": "2026-06-28T07:47:01-5",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -30,7 +30,7 @@
       "postedDate": "2026-06-27",
       "isPostedToday": true,
       "firstSeenAt": "2026-06-27T18:31:20-5",
-      "lastSeenAt": "2026-06-28T06:16:53-5",
+      "lastSeenAt": "2026-06-28T07:47:01-5",
       "sources": [
         {
           "sourceId": "simplify_new_grad_2026",
@@ -48,11 +48,41 @@
       "postedDate": "2026-06-27",
       "isPostedToday": true,
       "firstSeenAt": "2026-06-27T21:47:42-5",
-      "lastSeenAt": "2026-06-28T06:16:53-5",
+      "lastSeenAt": "2026-06-28T07:47:01-5",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
           "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_2d3e55776d35",
+      "category": "new_grad",
+      "company": "Affirm",
+      "role": "Software Engineer II, Backend (PMI Integrations)",
+      "location": "Remote Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/69e8fc294b0fa35a7076a8f6",
+      "postedDate": "2026-06-25",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-06-25T09:10:19-5",
+      "lastSeenAt": "2026-06-28T07:47:01-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Jun 25"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Jun 26"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Jun 27"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Jun 28"
         }
       ]
     }
