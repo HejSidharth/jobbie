@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-11T05:10:22-5",
+  "generatedAt": "2026-07-11T05:34:43-5",
   "timezone": "America/Chicago",
   "sourceCounts": {
-    "simplify_summer_2026": 302,
+    "simplify_summer_2026": 304,
     "vansh_summer_2026": 88,
     "simplify_new_grad_2026": 2059,
     "vansh_new_grad_2026": 1058,
@@ -11,6 +11,7 @@
   "activeJobCount": 2126,
   "todayJobCount": 7,
   "parseWarnings": [
+    "Dropped row ca0e3ad6c42d0c6ce7af87a9f94bb79f5b18ecfb914991bdd2c356846f8518e6 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 1f6daf433feddb9db22459a9749c98625d0d2fdd2aa5a5f87c0e5f0b432d640c from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 743e474d5acd5c9b39264c5053deb5c25a45ee7b7d5e1537840669ad42868d87 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 8ad00b0b9e733c858e957737a508d7077a6d3bb1ed2a95a78f84d6073349feaa from simplify_summer_2026: could not parse posted date \"1mo\".",
@@ -70,6 +71,7 @@
     "Dropped row 5aa4bd7ec467cd2764099dda20b2eeeda235a07f663e00a3223f42936b3f3835 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 1aeaefdf6501f3286be9fe564845278b0e01027a297a904d9b562fe049b6d0e6 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 1c3b521e1c8b1b7ecafb70867ce9279459f2c9f4b3442826abec6fce7d334629 from simplify_summer_2026: could not parse posted date \"1mo\".",
+    "Dropped row 77fa79e82a750a25785dd636ec30b9703603a4769f7c1f57b5391f0b0d66b64c from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row a5c5beb2484cae3b635b1998608965247163f981c7d0b287b132e7c6078444c0 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 8c712baa494346f1703d33fa7da42fc0ecbf982095efadad0644a1a416342628 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 83b43db0530a4f68a91097305223224ff3b56e7853365e2f0c1cf3f952b52112 from simplify_summer_2026: could not parse posted date \"1mo\".",
