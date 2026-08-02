@@ -1,9 +1,19 @@
 {
-  "generatedAt": "2026-08-02T03:10:03-5",
+  "generatedAt": "2026-08-02T04:22:58-5",
   "timezone": "America/Chicago",
   "pageSize": 50,
-  "totalJobs": 2228,
+  "totalJobs": 2224,
   "jobs": [
+    {
+      "id": "job_e7dd6a21f637",
+      "category": "new_grad",
+      "company": "Core One",
+      "role": "Software Developer L1-6",
+      "location": "Tysons Corner, VA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a3be472d261407de97fb6ee",
+      "postedDate": "2026-08-02",
+      "isPostedToday": true
+    },
     {
       "id": "job_13396e312020",
       "category": "new_grad",
@@ -41,16 +51,6 @@
       "role": "Front End Entry Level",
       "location": "Plainfield, IL, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a5da225856af468ab01163b",
-      "postedDate": "2026-08-01",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_d965357abaf0",
-      "category": "new_grad",
-      "company": "Albertsons Companies",
-      "role": "Front End Entry Level",
-      "location": "Bellevue, WA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a63c21ce8d8d22e3292a8c5",
       "postedDate": "2026-08-01",
       "isPostedToday": false
     },
@@ -175,22 +175,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_62fee420c807",
-      "category": "new_grad",
-      "company": "DAT Freight & Analytics",
-      "role": "Software Engineer I",
-      "location": "Denver, CO, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a57c6dcefb06a45240dd281",
-      "postedDate": "2026-08-01",
-      "isPostedToday": false
-    },
-    {
       "id": "job_1976832b98e5",
       "category": "new_grad",
       "company": "DAT Freight & Analytics",
       "role": "Software Engineer I",
       "location": "Denver, CO, USA",
       "applicationUrl": "https://jobright.ai/jobs/info/6a199fa0e24ef36525825ec6",
+      "postedDate": "2026-08-01",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_62fee420c807",
+      "category": "new_grad",
+      "company": "DAT Freight & Analytics",
+      "role": "Software Engineer I",
+      "location": "Denver, CO, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a57c6dcefb06a45240dd281",
       "postedDate": "2026-08-01",
       "isPostedToday": false
     },
@@ -495,12 +495,12 @@
       "isPostedToday": true
     },
     {
-      "id": "job_c1f12ede0490",
+      "id": "job_5d813037b81e",
       "category": "new_grad",
       "company": "Nuro",
       "role": "Software Engineer, Autonomy Visualization",
       "location": "Mountain View, California (HQ)",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a22840e597131741415f0a3",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a04154b22395b6dc6d9a4cc",
       "postedDate": "2026-08-01",
       "isPostedToday": false
     },
@@ -515,12 +515,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_5d813037b81e",
+      "id": "job_c1f12ede0490",
       "category": "new_grad",
       "company": "Nuro",
       "role": "Software Engineer, Autonomy Visualization",
       "location": "Mountain View, California (HQ)",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a04154b22395b6dc6d9a4cc",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a22840e597131741415f0a3",
       "postedDate": "2026-08-01",
       "isPostedToday": false
     },
@@ -605,22 +605,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_e3107bb23d72",
-      "category": "new_grad",
-      "company": "SpaceX",
-      "role": "Full Stack Software Engineer (Application Software)",
-      "location": "Redmond, WA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a5215eed007ee02d95f5f50",
-      "postedDate": "2026-08-01",
-      "isPostedToday": false
-    },
-    {
       "id": "job_abc978dd79a1",
       "category": "new_grad",
       "company": "SpaceX",
       "role": "Full Stack Software Engineer (Application Software)",
       "location": "Hawthorne, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a51fc7fae4052672fe9d088",
+      "postedDate": "2026-08-01",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_e3107bb23d72",
+      "category": "new_grad",
+      "company": "SpaceX",
+      "role": "Full Stack Software Engineer (Application Software)",
+      "location": "Redmond, WA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a5215eed007ee02d95f5f50",
       "postedDate": "2026-08-01",
       "isPostedToday": false
     },
@@ -735,22 +735,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_75cf1c139d54",
-      "category": "new_grad",
-      "company": "Twitch",
-      "role": "Software Engineer I, Commerce Engineering",
-      "location": "San Francisco, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a1cb08cc2a87d6cd3e089a8",
-      "postedDate": "2026-08-01",
-      "isPostedToday": false
-    },
-    {
       "id": "job_ca810ec27ae8",
       "category": "new_grad",
       "company": "Twitch",
       "role": "Software Engineer I, Commerce Engineering",
       "location": "San Francisco, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a51171157513b72e0c63bbd",
+      "postedDate": "2026-08-01",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_75cf1c139d54",
+      "category": "new_grad",
+      "company": "Twitch",
+      "role": "Software Engineer I, Commerce Engineering",
+      "location": "San Francisco, CA",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a1cb08cc2a87d6cd3e089a8",
       "postedDate": "2026-08-01",
       "isPostedToday": false
     },
@@ -795,12 +795,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_9c7f8bff5fab",
+      "id": "job_336491b52ac3",
       "category": "new_grad",
       "company": "York Space Systems",
       "role": "Software Engineer I - Ground Software",
-      "location": "Laurel, MD, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6b65b85c54bc4752ce8b53",
+      "location": "Laurel, MD, 7901 Sandy Spring Road, Laurel, Maryland, United States of America",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a3bd2218bfad862bc997f48",
       "postedDate": "2026-08-01",
       "isPostedToday": false
     },
@@ -815,22 +815,22 @@
       "isPostedToday": false
     },
     {
+      "id": "job_9c7f8bff5fab",
+      "category": "new_grad",
+      "company": "York Space Systems",
+      "role": "Software Engineer I - Ground Software",
+      "location": "Laurel, MD, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a6b65b85c54bc4752ce8b53",
+      "postedDate": "2026-08-01",
+      "isPostedToday": false
+    },
+    {
       "id": "job_db36cc64a9a8",
       "category": "new_grad",
       "company": "York Space Systems",
       "role": "Software Engineer I - Ground Software",
       "location": "Greenwood Village, CO, 6060 South Willow Drive, Greenwood Village, Colorado, United States of America",
       "applicationUrl": "https://jobright.ai/jobs/info/6a42bb68ff87fd527f98558e",
-      "postedDate": "2026-08-01",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_336491b52ac3",
-      "category": "new_grad",
-      "company": "York Space Systems",
-      "role": "Software Engineer I - Ground Software",
-      "location": "Laurel, MD, 7901 Sandy Spring Road, Laurel, Maryland, United States of America",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a3bd2218bfad862bc997f48",
       "postedDate": "2026-08-01",
       "isPostedToday": false
     },
@@ -1315,16 +1315,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_8b43fcb9c970",
-      "category": "new_grad",
-      "company": "Collins Aerospace",
-      "role": "Software Engineer I (Onsite)",
-      "location": "Fulton, MD, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6d3937ba7efe79c2f69088",
-      "postedDate": "2026-07-31",
-      "isPostedToday": false
-    },
-    {
       "id": "job_c89a3df0fc96",
       "category": "new_grad",
       "company": "Collins Aerospace",
@@ -1515,12 +1505,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_be001d148de7",
+      "id": "job_46730fd3bb82",
       "category": "new_grad",
       "company": "Gemba Advantage",
       "role": "Software Engineer",
-      "location": "Manchester, United Kingdom",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a55cf9cfdf4fa71202b58a3",
+      "location": "Cheltenham, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a509cba2e2ceb72963b3547",
+      "postedDate": "2026-07-31",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_f56149e67639",
+      "category": "new_grad",
+      "company": "Gemba Advantage",
+      "role": "Software Engineer",
+      "location": "London (Hybrid)",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a2d3ac2c260bb1b8ae187f6",
       "postedDate": "2026-07-31",
       "isPostedToday": false
     },
@@ -1531,6 +1531,16 @@
       "role": "Software Engineer",
       "location": "Manchester (Hybrid)",
       "applicationUrl": "https://jobright.ai/jobs/info/6a29b838d3ec8317fe1400c5",
+      "postedDate": "2026-07-31",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_be001d148de7",
+      "category": "new_grad",
+      "company": "Gemba Advantage",
+      "role": "Software Engineer",
+      "location": "Manchester, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a55cf9cfdf4fa71202b58a3",
       "postedDate": "2026-07-31",
       "isPostedToday": false
     },
@@ -1555,16 +1565,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_46730fd3bb82",
-      "category": "new_grad",
-      "company": "Gemba Advantage",
-      "role": "Software Engineer",
-      "location": "Cheltenham, United Kingdom",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a509cba2e2ceb72963b3547",
-      "postedDate": "2026-07-31",
-      "isPostedToday": false
-    },
-    {
       "id": "job_ab391b78716e",
       "category": "new_grad",
       "company": "Gemba Advantage",
@@ -1585,12 +1585,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_f56149e67639",
+      "id": "job_b2f70a32c015",
       "category": "new_grad",
-      "company": "Gemba Advantage",
-      "role": "Software Engineer",
-      "location": "London (Hybrid)",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a2d3ac2c260bb1b8ae187f6",
+      "company": "General Dynamics Information Technology",
+      "role": "Software Developer TS/SCI w/Polygraph",
+      "location": "McLean, VA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a51db6a8d7d3e6cf1cc3ed2",
       "postedDate": "2026-07-31",
       "isPostedToday": false
     },
@@ -1601,16 +1601,6 @@
       "role": "Software Developer TS/SCI w/Polygraph",
       "location": "USA VA McLean, US",
       "applicationUrl": "https://jobright.ai/jobs/info/6a047600bc4184089f23ac71",
-      "postedDate": "2026-07-31",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_b2f70a32c015",
-      "category": "new_grad",
-      "company": "General Dynamics Information Technology",
-      "role": "Software Developer TS/SCI w/Polygraph",
-      "location": "McLean, VA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a51db6a8d7d3e6cf1cc3ed2",
       "postedDate": "2026-07-31",
       "isPostedToday": false
     },
@@ -1825,16 +1815,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_200c8d51ed0f",
-      "category": "new_grad",
-      "company": "L3Harris Technologies",
-      "role": "Associate, Software Engineering",
-      "location": "Colorado Springs, CO, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6cd603acb0a61f9dbc7682",
-      "postedDate": "2026-07-31",
-      "isPostedToday": false
-    },
-    {
       "id": "job_eec28842a098",
       "category": "new_grad",
       "company": "L3Harris Technologies",
@@ -1851,6 +1831,16 @@
       "role": "Associate, Software Engineering",
       "location": "Rochester, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a6cd5e9acb0a61f9dbc766e",
+      "postedDate": "2026-07-31",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_200c8d51ed0f",
+      "category": "new_grad",
+      "company": "L3Harris Technologies",
+      "role": "Associate, Software Engineering",
+      "location": "Colorado Springs, CO, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a6cd603acb0a61f9dbc7682",
       "postedDate": "2026-07-31",
       "isPostedToday": false
     },
@@ -2535,22 +2525,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_254ebb413467",
-      "category": "new_grad",
-      "company": "Apex - Satellite Platforms",
-      "role": "Early Flight Software Engineer",
-      "location": "Los Angeles, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a56d88fefb06a45240d87bb",
-      "postedDate": "2026-07-30",
-      "isPostedToday": false
-    },
-    {
       "id": "job_9f14988aa962",
       "category": "new_grad",
       "company": "Apex - Satellite Platforms",
       "role": "Early Flight Software Engineer",
       "location": "Los Angeles",
       "applicationUrl": "https://jobright.ai/jobs/info/6a1a469ce24ef3652582ac11",
+      "postedDate": "2026-07-30",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_254ebb413467",
+      "category": "new_grad",
+      "company": "Apex - Satellite Platforms",
+      "role": "Early Flight Software Engineer",
+      "location": "Los Angeles, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a56d88fefb06a45240d87bb",
       "postedDate": "2026-07-30",
       "isPostedToday": false
     },
@@ -2635,22 +2625,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_26acb10559ac",
-      "category": "new_grad",
-      "company": "Booz Allen Hamilton",
-      "role": "Test Engineer",
-      "location": "Annapolis Junction, MD, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a65001a5c7e2d715ebb119e",
-      "postedDate": "2026-07-30",
-      "isPostedToday": false
-    },
-    {
       "id": "job_3a2269e82a48",
       "category": "new_grad",
       "company": "Booz Allen Hamilton",
       "role": "Test Engineer",
       "location": "Annapolis Junction, MD, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a6593630c8e2b4f36dd3ea9",
+      "postedDate": "2026-07-30",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_26acb10559ac",
+      "category": "new_grad",
+      "company": "Booz Allen Hamilton",
+      "role": "Test Engineer",
+      "location": "Annapolis Junction, MD, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a65001a5c7e2d715ebb119e",
       "postedDate": "2026-07-30",
       "isPostedToday": false
     },
@@ -3215,22 +3205,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_8c9333af7fd8",
-      "category": "new_grad",
-      "company": "Huntington National Bank",
-      "role": "Junior Backend Java Developer- Enterprise Payments and Credit Card",
-      "location": "Columbus, OH, US",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a31832959588169700150f3",
-      "postedDate": "2026-07-30",
-      "isPostedToday": false
-    },
-    {
       "id": "job_878c3717151b",
       "category": "new_grad",
       "company": "Huntington National Bank",
       "role": "Junior Backend Java Developer- Enterprise Payments and Credit Card",
       "location": "Minnetonka, MN, United States of America",
       "applicationUrl": "https://jobright.ai/jobs/info/6a31833559588169700150fc",
+      "postedDate": "2026-07-30",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_8c9333af7fd8",
+      "category": "new_grad",
+      "company": "Huntington National Bank",
+      "role": "Junior Backend Java Developer- Enterprise Payments and Credit Card",
+      "location": "Columbus, OH, US",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a31832959588169700150f3",
       "postedDate": "2026-07-30",
       "isPostedToday": false
     },
@@ -3525,22 +3515,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_84b68f9fe197",
-      "category": "new_grad",
-      "company": "Oracle",
-      "role": "Software Developer",
-      "location": "Kansas City, MO, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6bc15957120971bf3a8ba7",
-      "postedDate": "2026-07-30",
-      "isPostedToday": false
-    },
-    {
       "id": "job_7bad97c39182",
       "category": "new_grad",
       "company": "Oracle",
       "role": "Software Developer",
       "location": "Kansas City, MO, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a6bc4bdc00ae03109f85def",
+      "postedDate": "2026-07-30",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_84b68f9fe197",
+      "category": "new_grad",
+      "company": "Oracle",
+      "role": "Software Developer",
+      "location": "Kansas City, MO, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a6bc15957120971bf3a8ba7",
       "postedDate": "2026-07-30",
       "isPostedToday": false
     },
@@ -4135,12 +4125,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_43af0874e71c",
+      "id": "job_9cbe14e9a62d",
       "category": "new_grad",
       "company": "Boeing",
       "role": "Software Systems Engineer (Associate or Experienced)",
       "location": "Colorado Springs, CO, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6a2aa7c63ba56308f519b8",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a6a2ab20b42f866b6197178",
       "postedDate": "2026-07-29",
       "isPostedToday": false
     },
@@ -4505,6 +4495,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_05f72b953f71",
+      "category": "new_grad",
+      "company": "MANTECH",
+      "role": "Software Developer",
+      "location": "USA-MD-Saint Inigoes",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a521b278ef95364ead8cde4",
+      "postedDate": "2026-07-29",
+      "isPostedToday": false
+    },
+    {
       "id": "job_e9824ebb5a8a",
       "category": "new_grad",
       "company": "MANTECH",
@@ -4521,16 +4521,6 @@
       "role": "Software Developer",
       "location": "Fort Detrick, MD, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a58ee5f3ac7627fe9ffc3bd",
-      "postedDate": "2026-07-29",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_05f72b953f71",
-      "category": "new_grad",
-      "company": "MANTECH",
-      "role": "Software Developer",
-      "location": "USA-MD-Saint Inigoes",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a521b278ef95364ead8cde4",
       "postedDate": "2026-07-29",
       "isPostedToday": false
     },
@@ -4575,22 +4565,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_ce2162bb7fd8",
-      "category": "new_grad",
-      "company": "NVIDIA",
-      "role": "Software Quality Assurance Engineer - 2026 New College Grad",
-      "location": "Santa Clara, CA, US",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a30399fafabbe533fb89dd8",
-      "postedDate": "2026-07-29",
-      "isPostedToday": false
-    },
-    {
       "id": "job_51cd7e0dcac9",
       "category": "new_grad",
       "company": "NVIDIA",
       "role": "Software Quality Assurance Engineer - 2026 New College Grad",
       "location": "US, CA, Santa Clara, United States of America",
       "applicationUrl": "https://jobright.ai/jobs/info/6a56444c53b3962b910aefc8",
+      "postedDate": "2026-07-29",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_ce2162bb7fd8",
+      "category": "new_grad",
+      "company": "NVIDIA",
+      "role": "Software Quality Assurance Engineer - 2026 New College Grad",
+      "location": "Santa Clara, CA, US",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a30399fafabbe533fb89dd8",
       "postedDate": "2026-07-29",
       "isPostedToday": false
     },
@@ -4635,22 +4625,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_e90897bb58ba",
-      "category": "new_grad",
-      "company": "Parsons Corporation",
-      "role": "Software Engineer TS",
-      "location": "US - VA, Centreville, US",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a2ff020524fd5657fe0e235",
-      "postedDate": "2026-07-29",
-      "isPostedToday": false
-    },
-    {
       "id": "job_48e284804bdc",
       "category": "new_grad",
       "company": "Parsons Corporation",
       "role": "Software Engineer TS",
       "location": "US - VA, Centreville, United States of America",
       "applicationUrl": "https://jobright.ai/jobs/info/6a541982e726ec56126a9297",
+      "postedDate": "2026-07-29",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_e90897bb58ba",
+      "category": "new_grad",
+      "company": "Parsons Corporation",
+      "role": "Software Engineer TS",
+      "location": "US - VA, Centreville, US",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a2ff020524fd5657fe0e235",
       "postedDate": "2026-07-29",
       "isPostedToday": false
     },
@@ -5055,22 +5045,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_e670f1d5e27e",
+      "id": "job_74f3b3c6deaf",
       "category": "new_grad",
       "company": "Boeing",
-      "role": "Entry-level Software Engineer–Developers",
-      "location": "El Segundo, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6930b1b22f1b56a602b408",
-      "postedDate": "2026-07-28",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_132866cb6d80",
-      "category": "new_grad",
-      "company": "Boeing",
-      "role": "Entry-level Software Engineer–Developers",
-      "location": "El Segundo, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6930b1b22f1b56a602b40b",
+      "role": "Modernization Software Engineer (Associate or Mid-Level)",
+      "location": "Colorado Springs, CO, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a68ff8bb22f1b56a602a1e7",
       "postedDate": "2026-07-28",
       "isPostedToday": false
     },
@@ -5081,16 +5061,6 @@
       "role": "Modernization Software Engineer (Associate or Mid-Level)",
       "location": "Colorado Springs, CO, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a68ff8f05bae84301b59e0e",
-      "postedDate": "2026-07-28",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_74f3b3c6deaf",
-      "category": "new_grad",
-      "company": "Boeing",
-      "role": "Modernization Software Engineer (Associate or Mid-Level)",
-      "location": "Colorado Springs, CO, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a68ff8bb22f1b56a602a1e7",
       "postedDate": "2026-07-28",
       "isPostedToday": false
     },
@@ -5315,22 +5285,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_3bee4bada852",
-      "category": "new_grad",
-      "company": "L3Harris Technologies",
-      "role": "Associate, Software Engineer",
-      "location": "Herndon, VA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a68e0cc05bae84301b591a3",
-      "postedDate": "2026-07-28",
-      "isPostedToday": false
-    },
-    {
       "id": "job_fbcfcfd7ed34",
       "category": "new_grad",
       "company": "L3Harris Technologies",
       "role": "Associate, Software Engineer",
       "location": "Herndon, VA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a6918ee05bae84301b5a839",
+      "postedDate": "2026-07-28",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_3bee4bada852",
+      "category": "new_grad",
+      "company": "L3Harris Technologies",
+      "role": "Associate, Software Engineer",
+      "location": "Herndon, VA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a68e0cc05bae84301b591a3",
       "postedDate": "2026-07-28",
       "isPostedToday": false
     },
@@ -5505,12 +5475,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_9e3ea472f0d7",
+      "id": "job_6d213c359cca",
       "category": "new_grad",
       "company": "Oracle",
       "role": "Application Software Engineer 2",
       "location": "Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a5af4e44da96a42cfd98896",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a5bfe1a856af468ab00e07f",
       "postedDate": "2026-07-28",
       "isPostedToday": false
     },
@@ -6225,22 +6195,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_7e20c2a28f78",
-      "category": "new_grad",
-      "company": "Curtiss-Wright Corporation",
-      "role": "Quality Assurance Engineer, Assoc.",
-      "location": "US-CT-East Windsor (ST-700)",
-      "applicationUrl": "https://jobright.ai/jobs/info/68de9b8e44d32141e0c01049",
-      "postedDate": "2026-07-27",
-      "isPostedToday": false
-    },
-    {
       "id": "job_e25ac43ad290",
       "category": "new_grad",
       "company": "Curtiss-Wright Corporation",
       "role": "Quality Assurance Engineer, Assoc.",
       "location": "US-CT-East Windsor (ST-700), United States of America",
       "applicationUrl": "https://jobright.ai/jobs/info/6a5128ff02522b5b722e80ee",
+      "postedDate": "2026-07-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_7e20c2a28f78",
+      "category": "new_grad",
+      "company": "Curtiss-Wright Corporation",
+      "role": "Quality Assurance Engineer, Assoc.",
+      "location": "US-CT-East Windsor (ST-700)",
+      "applicationUrl": "https://jobright.ai/jobs/info/68de9b8e44d32141e0c01049",
       "postedDate": "2026-07-27",
       "isPostedToday": false
     },
@@ -6555,22 +6525,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_41220ed466ea",
-      "category": "new_grad",
-      "company": "Nokia",
-      "role": "Jr. Embedded Software Developer",
-      "location": "Ottawa, ON, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a5ad13a3ac7627fe9005300",
-      "postedDate": "2026-07-27",
-      "isPostedToday": false
-    },
-    {
       "id": "job_48752ea0c228",
       "category": "new_grad",
       "company": "Nokia",
       "role": "Jr. Embedded Software Developer",
       "location": "Ottawa, ON, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/6a675f925d2a117fb9ceb169",
+      "postedDate": "2026-07-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_41220ed466ea",
+      "category": "new_grad",
+      "company": "Nokia",
+      "role": "Jr. Embedded Software Developer",
+      "location": "Ottawa, ON, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a5ad13a3ac7627fe9005300",
       "postedDate": "2026-07-27",
       "isPostedToday": false
     },
@@ -6615,22 +6585,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_459187f74226",
-      "category": "new_grad",
-      "company": "Polaris Inc.",
-      "role": "OneStream Developer",
-      "location": "Medina, MN, USA, US",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a1f52a1b61b2c65b37b14be",
-      "postedDate": "2026-07-27",
-      "isPostedToday": false
-    },
-    {
       "id": "job_0808fb14c66d",
       "category": "new_grad",
       "company": "Polaris Inc.",
       "role": "OneStream Developer",
       "location": "Medina, MN, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a51dee98d7d3e6cf1cc41fe",
+      "postedDate": "2026-07-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_459187f74226",
+      "category": "new_grad",
+      "company": "Polaris Inc.",
+      "role": "OneStream Developer",
+      "location": "Medina, MN, USA, US",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a1f52a1b61b2c65b37b14be",
       "postedDate": "2026-07-27",
       "isPostedToday": false
     },
@@ -7185,12 +7155,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_b071a1bbdf7a",
+      "id": "job_876e340b4a8c",
       "category": "new_grad",
       "company": "ArcheSys Inc",
       "role": "Junior Cloud Engineer",
       "location": "United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a5c87e44da96a42cfd9cb60",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a5bdea74da96a42cfd9b45f",
       "postedDate": "2026-07-26",
       "isPostedToday": false
     },
@@ -7241,16 +7211,6 @@
       "role": "Software Engineer 1",
       "location": "Austin, TX",
       "applicationUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I---18525_R202680328",
-      "postedDate": "2026-07-26",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_7b9f71eb2cfc",
-      "category": "new_grad",
-      "company": "DeNOVO Solutions, LLC",
-      "role": "Junior Developer (TS/SCI with CI Poly Required)",
-      "location": "Aurora, CO, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a53398f8ef95364ead917ae",
       "postedDate": "2026-07-26",
       "isPostedToday": false
     },
@@ -7695,22 +7655,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_2f848fcfc583",
-      "category": "new_grad",
-      "company": "AMERICAN SYSTEMS",
-      "role": "Java Developer l",
-      "location": "Watertown, SD, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a63b6de0c8e2b4f36dcf630",
-      "postedDate": "2026-07-24",
-      "isPostedToday": false
-    },
-    {
       "id": "job_4200339d1f8c",
       "category": "new_grad",
       "company": "AMERICAN SYSTEMS",
       "role": "Java Developer l",
       "location": "Lakewood, CO, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a63a1e45c7e2d715ebad1ac",
+      "postedDate": "2026-07-24",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_2f848fcfc583",
+      "category": "new_grad",
+      "company": "AMERICAN SYSTEMS",
+      "role": "Java Developer l",
+      "location": "Watertown, SD, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a63b6de0c8e2b4f36dcf630",
       "postedDate": "2026-07-24",
       "isPostedToday": false
     },
@@ -8705,6 +8665,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_9980b7aad404",
+      "category": "new_grad",
+      "company": "Palantir Technologies",
+      "role": "Software Engineer, New Grad - Production Infrastructure",
+      "location": "Washington, D.C., United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a5528b4268af95237be9ae7",
+      "postedDate": "2026-07-22",
+      "isPostedToday": false
+    },
+    {
       "id": "job_bba272b2db56",
       "category": "new_grad",
       "company": "Palantir Technologies",
@@ -8721,16 +8691,6 @@
       "role": "Software Engineer, New Grad - Production Infrastructure",
       "location": "Seattle, WA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a55b6b1ef22935f2e3f5e86",
-      "postedDate": "2026-07-22",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_9980b7aad404",
-      "category": "new_grad",
-      "company": "Palantir Technologies",
-      "role": "Software Engineer, New Grad - Production Infrastructure",
-      "location": "Washington, D.C., United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a5528b4268af95237be9ae7",
       "postedDate": "2026-07-22",
       "isPostedToday": false
     },
@@ -8955,22 +8915,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_96ab41dd2e47",
-      "category": "new_grad",
-      "company": "NVIDIA",
-      "role": "Formal Verification Engineer - New College Grad 2026",
-      "location": "US, TX, Austin, United States of America",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a513c398d7d3e6cf1cc021b",
-      "postedDate": "2026-07-21",
-      "isPostedToday": false
-    },
-    {
       "id": "job_0990b47737a1",
       "category": "new_grad",
       "company": "NVIDIA",
       "role": "Formal Verification Engineer - New College Grad 2026",
       "location": "US, TX, Austin",
       "applicationUrl": "https://jobright.ai/jobs/info/6999bfa0ce78e77b4fdeabfc",
+      "postedDate": "2026-07-21",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_96ab41dd2e47",
+      "category": "new_grad",
+      "company": "NVIDIA",
+      "role": "Formal Verification Engineer - New College Grad 2026",
+      "location": "US, TX, Austin, United States of America",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a513c398d7d3e6cf1cc021b",
       "postedDate": "2026-07-21",
       "isPostedToday": false
     },
