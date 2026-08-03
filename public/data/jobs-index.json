@@ -1,18 +1,828 @@
 {
-  "generatedAt": "2026-08-03T01:13:20-5",
+  "generatedAt": "2026-08-03T02:47:51-5",
   "timezone": "America/Chicago",
   "pageSize": 50,
-  "totalJobs": 2231,
+  "totalJobs": 2308,
   "jobs": [
     {
-      "id": "job_5618aed7d0db",
+      "id": "job_350c20585e0d",
+      "category": "intern",
+      "company": "🔥 Microsoft",
+      "role": "Product Manager Intern",
+      "location": "Redmond, WA",
+      "applicationUrl": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_6689af8106c5",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Artificial Intelligence Engineer Intern - Client Architecture",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667935738190465285",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_afb3c23ff21c",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Backend Software Engineer Intern",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667935565120112949",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_c355c12f4b68",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Backend Software Engineer Intern",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667933335084124469",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_7d2c1bf4010a",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Backend Software Engineer Intern",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667934635573692725",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_f0919bea38dc",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Backend Software Engineer Intern",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667933770819897605",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_f00e03ca8a88",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Backend Software Engineer Intern",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667935739300317493",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_7e02219cc7a7",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Backend Software Engineer Intern - Digital Content Center",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667934302872537397",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_1090fe80ee1c",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Backend Software Engineer Intern - Innovative Growth",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667934860750063925",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_3d0ac26536d2",
       "category": "new_grad",
-      "company": "Anduril Industries",
-      "role": "Software Engineer, Maritime",
-      "location": "Quincy, Massachusetts, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a06fec8152f493123c4bc64",
-      "postedDate": "2026-08-02",
-      "isPostedToday": false
+      "company": "🔥 TikTok",
+      "role": "Backend Software Engineer New Grad - Emerging Products &amp; AI Safety",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7663036952090347829",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_b08ad82e6f37",
+      "category": "new_grad",
+      "company": "🔥 TikTok",
+      "role": "Backend Software Engineer New Grad - Feed Safety",
+      "location": "Seattle, WA",
+      "applicationUrl": "https://lifeattiktok.com/search/7663028952600807733",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_d32a2fa84c61",
+      "category": "new_grad",
+      "company": "🔥 TikTok",
+      "role": "Backend Software Engineer New Grad - Trust &amp; Safety",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7665994926887291189",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_282dc38c1a58",
+      "category": "new_grad",
+      "company": "🔥 TikTok",
+      "role": "Backend Software Engineer New Grad - Trust &amp; Safety",
+      "location": "Seattle, WA",
+      "applicationUrl": "https://lifeattiktok.com/search/7664533229944178949",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_cb33a8181f51",
+      "category": "new_grad",
+      "company": "🔥 TikTok",
+      "role": "Content Product New Grad - TikTok Local Services",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667573235673073925",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_28ece4fb2aaf",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Frontend Engineer Intern - Open Platform",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667935739300792629",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_f6bc7558d575",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Frontend Software Engineer Intern - Ads Measurement Signal and Privacy",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668584161852229893",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_20d80aef5a6f",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics 🎓",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668183035989281029",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_c6260d002ea7",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Engineer Intern",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667338938890930437",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_a0efc741c48a",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Engineer Intern",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667350291952765237",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_ae298290ffac",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Engineer Intern",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667346576033777925",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_6b48b4d6803a",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Engineer Intern - Basic Ranking 🎓",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667339583362025781",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_b59586a8ce72",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Engineer Intern - Data Search - Visual Search 🎓",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667349591727278341",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_beb0fd78374c",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Engineer Intern - Data Search Search Quality 🎓",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7665475888805611781",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_e858a0e618ca",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Engineer Intern - Recommendation 🎓",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7662653087863081221",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_6ab7250b4895",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Engineer Intern - Search Quality",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7665475460339665157",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_2e9317061a81",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Engineer Intern - Trust and Safety 🎓",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7662672554084059445",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_fe878fc6cd37",
+      "category": "new_grad",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Engineer New Grad",
+      "location": "Seattle, WA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668376903708281141",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_461674a78784",
+      "category": "new_grad",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Engineer New Grad - Data Search - Visual Search 🎓",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667346535273007413",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_fc681f163e27",
+      "category": "new_grad",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Engineer New Grad - Data Search Visual Search",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667349591747758341",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_fb89c1e542ab",
+      "category": "new_grad",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Engineer New Grad - Data-Global E-Commerce-Search 🎓",
+      "location": "Seattle, WA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668389759463393589",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_aa2de7a6d5d1",
+      "category": "new_grad",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Engineer New Grad - E-Commerce Search",
+      "location": "Seattle, WA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668390999147776309",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_bf8442758db0",
+      "category": "new_grad",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Engineer New Grad - Search Quality 🎓",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7665793152026740997",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_9b804d008bf7",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Scientist Intern - Content Ecology - LLM Application 🎓",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667933770625599749",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_676b790e23a0",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Scientist Intern - Recommendation 🎓",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7662657855099357493",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_b038101323d9",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Machine Learning Scientist Intern 🎓",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667934169444485429",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_e441bcd62937",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Research Scientist Intern - Foundations &amp; Intelligence Service 🎓",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7662677746436524293",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_317ffe75849b",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Research Scientist Intern - Neural Graphics and World Models 🎓",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667935738840090933",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_e28e23d479c8",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Research Scientist Intern - Recommendation 🎓",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7662661203281447221",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_67f80f5db103",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Research Scientist Intern - Trust and Safety 🎓",
+      "location": "Seattle, WA",
+      "applicationUrl": "https://lifeattiktok.com/search/7662672903447988485",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_706a607a8c87",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Software Engineer Intern",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7662700594251958581",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_aa189a4f7995",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Software Engineer Intern",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667935738376227077",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_2172611e4337",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Software Engineer Intern",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668581636242016565",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_a005d91114a8",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Software Engineer Intern",
+      "location": "Seattle, WA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668582086899763461",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_1da0d51f2858",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Software Engineer Intern",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668675500744837381",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_7a657786733c",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Software Engineer Intern - Ads Measurement Signal and Privacy",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668582031916435717",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_036797b36f70",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Software Engineer Intern - Agentic Creation-Effect Platform",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668445566565321013",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_469e8cd853fb",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Software Engineer Intern - Business Integrity",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668584916620527925",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_68c987810557",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Software Engineer Intern - Creative Intelligence and Brand Innovation",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668642761473902901",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_285166eb59b3",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Software Engineer Intern - Data Architecture - E-commerce",
+      "location": "Seattle, WA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668582146236631349",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_2154ee31ca87",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Software Engineer Intern - Social Friending",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7667935399050692917",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_f06068f61dfc",
+      "category": "intern",
+      "company": "🔥 TikTok",
+      "role": "Software Engineer Intern - Trust and Safety Engineering",
+      "location": "Seattle, WA",
+      "applicationUrl": "https://lifeattiktok.com/search/7662684280234232117",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_3db89d130579",
+      "category": "new_grad",
+      "company": "🔥 TikTok",
+      "role": "Software Engineer New Grad - Ads Measurement Signal Technology",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668717356843977013",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_d3f7295d2892",
+      "category": "new_grad",
+      "company": "🔥 TikTok",
+      "role": "Software Engineer New Grad - Ads Signal &amp; Measurement",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668724383120804149",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_8af51fb0e9f0",
+      "category": "new_grad",
+      "company": "🔥 TikTok",
+      "role": "Software Engineer New Grad - Business Integrity",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668592494649690421",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_ab63bebb44b2",
+      "category": "new_grad",
+      "company": "🔥 TikTok",
+      "role": "Software Engineer New Grad - Quality and Efficiency Technology",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668680253677504821",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_e8fa5e7d7356",
+      "category": "new_grad",
+      "company": "🔥 TikTok",
+      "role": "Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration",
+      "location": "San Jose, CA",
+      "applicationUrl": "https://lifeattiktok.com/search/7668701834807101749",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_4399b9a69311",
+      "category": "intern",
+      "company": "American Express",
+      "role": "Campus Undergraduate Summer Internship - Strategy &amp; Analytics - Credit &amp; Fraud Risk",
+      "location": "NYC",
+      "applicationUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_0b1fd3623f4a",
+      "category": "intern",
+      "company": "American Express",
+      "role": "Digital Product Analyst Intern",
+      "location": "NYC",
+      "applicationUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011918",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_fb68899660d9",
+      "category": "intern",
+      "company": "American Express",
+      "role": "Product Management Intern - Product Innovation - Credit &amp; Fraud Risk",
+      "location": "NYC",
+      "applicationUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_56153b4ab4ad",
+      "category": "intern",
+      "company": "American Express",
+      "role": "Undergraduate Intern - Strategy &amp; Analytics",
+      "location": "Phoenix, AZ",
+      "applicationUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_7e0a79d001a0",
+      "category": "new_grad",
+      "company": "Capgemini",
+      "role": "Junior Data Engineer/Junior Data Scientist",
+      "location": "NYC",
+      "applicationUrl": "https://careers.capgemini.com/job/New-York,-NY-Junior-Data-EngineerJunior-Data-Scientist-NY-10001/1418866433?ats=successfactors",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_f7613e21db2a",
+      "category": "new_grad",
+      "company": "Capgemini",
+      "role": "Junior Data Engineer/Junior Data Scientist",
+      "location": "Atlanta, GA",
+      "applicationUrl": "https://careers.capgemini.com/job/Atlanta,-GA-Junior-Data-EngineerJunior-Data-Scientist-GA-30301/1418864933?ats=successfactors",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_4f0773ff60a9",
+      "category": "new_grad",
+      "company": "EAi Technologies",
+      "role": "Entry Level .NET Software Developer",
+      "location": "Vienna, VA",
+      "applicationUrl": "https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_5ff5d21380ec",
+      "category": "new_grad",
+      "company": "EAi Technologies",
+      "role": "Entry Level Software Developer",
+      "location": "Vienna, VA",
+      "applicationUrl": "https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_e5fc70231855",
+      "category": "new_grad",
+      "company": "GliaCell Technologies",
+      "role": "Junior Java Software Engineer",
+      "location": "Annapolis Junction, MD",
+      "applicationUrl": "https://gliacelltechnologies.applytojob.com/apply/5LJjRwD5B9/Junior-Java-Software-Engineer",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_5259c4a0f06a",
+      "category": "new_grad",
+      "company": "GliaCell Technologies",
+      "role": "Junior Software Engineer",
+      "location": "Annapolis Junction, MD",
+      "applicationUrl": "https://gliacelltechnologies.applytojob.com/apply/Zet89PpNoU/Junior-Software-Engineer",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_f99e3b0c2ab0",
+      "category": "new_grad",
+      "company": "HarmonyTech",
+      "role": "Junior Software Developer - .NET",
+      "location": "Herndon, VA",
+      "applicationUrl": "https://harmonytech.applytojob.com/apply/uhDb8hMR9P/Junior-Software-Developer-NET",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_ebf93cb99ef6",
+      "category": "intern",
+      "company": "Heliux",
+      "role": "Software Engineer Intern 🇺🇸",
+      "location": "San Francisco, CA",
+      "applicationUrl": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_e107c67cbffb",
+      "category": "new_grad",
+      "company": "Independent Software",
+      "role": "Software Engineer 1",
+      "location": "Fort Meade, MD",
+      "applicationUrl": "https://independentsoftware.applytojob.com/apply/1zxyOvNOGu/Software-Engineer-Level-1-FORECASTED",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_f5471b247bc3",
+      "category": "new_grad",
+      "company": "IntelliGenesis",
+      "role": "Software Engineer 0",
+      "location": "Annapolis Junction, MD",
+      "applicationUrl": "http://intelligenesis.applytojob.com/apply/JgkJsYNePv/Software-Engineer-Level-0",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_cd53d1da85be",
+      "category": "intern",
+      "company": "JP Morgan Chase",
+      "role": "Data &amp; AI Intern - Analyst",
+      "location": "8 locations Palo Alto, CA, Newark, DE, Plano, TX, Chicago, IL, Jersey City, NJ, Columbus, OH, NYC, Wilmington, DE",
+      "applicationUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_c4ac8d02d775",
+      "category": "intern",
+      "company": "JP Morgan Chase",
+      "role": "Data Internship - Data &amp; AI Program",
+      "location": "8 locations Palo Alto, CA, Newark, DE, Plano, TX, Chicago, IL, Jersey City, NJ, Columbus, OH, NYC, Wilmington, DE",
+      "applicationUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_ce4be06868d1",
+      "category": "intern",
+      "company": "JP Morgan Chase",
+      "role": "Quantitative Research Intern - Markets - Analyst",
+      "location": "NYC",
+      "applicationUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_04913e019090",
+      "category": "intern",
+      "company": "JP Morgan Chase",
+      "role": "Quantitative Research Intern - Risk and Treasury 🎓",
+      "location": "Plano, TX, Chicago, IL, NYC",
+      "applicationUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_b8d92d0b758c",
+      "category": "intern",
+      "company": "JP Morgan Chase",
+      "role": "Quantitative Research Intern 🎓",
+      "location": "NYC",
+      "applicationUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_f2a8d704fc9a",
+      "category": "intern",
+      "company": "JP Morgan Chase",
+      "role": "Quantitative Research Summer Analyst Intern - Asset Management",
+      "location": "NYC",
+      "applicationUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_1db75342b3d4",
+      "category": "intern",
+      "company": "JP Morgan Chase",
+      "role": "Software Engineer Intern - Software Engineer Program",
+      "location": "9 locations Palo Alto, CA, Houston, TX, Tampa, FL, Plano, TX, Chicago, IL, Jersey City, NJ, Columbus, OH, NYC, Wilmington, DE",
+      "applicationUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_229ddf8c2506",
+      "category": "intern",
+      "company": "Medtronic",
+      "role": "Software Engineering Intern 🛂",
+      "location": "5 locations Fridley, MN, Tempe, AZ, Eatontown, NJ, Santa Rosa, CA, Lafayette, CO",
+      "applicationUrl": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_74575efbc2f7",
+      "category": "new_grad",
+      "company": "Peterson Technologies",
+      "role": "Junior Software Engineer",
+      "location": "Annapolis Junction, MD",
+      "applicationUrl": "https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_34834021824b",
+      "category": "new_grad",
+      "company": "Retell AI",
+      "role": "Software Engineer New Grad - Founders Initiatives",
+      "location": "SF, Redwood City, CA",
+      "applicationUrl": "https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463/application?embed=true",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_242cc1c9429b",
+      "category": "new_grad",
+      "company": "Set of X",
+      "role": "Software Engineer 0",
+      "location": "Annapolis Junction, MD",
+      "applicationUrl": "https://setofx.applytojob.com/apply/slG3BGozXj/Software-Engineer-0",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_b11004c884d9",
+      "category": "new_grad",
+      "company": "WonderBotz",
+      "role": "Junior Software Engineer",
+      "location": "Princeton, NJ",
+      "applicationUrl": "https://wonderbotz.applytojob.com/apply/RrI9QanYDY/Junior-Software-Engineer",
+      "postedDate": "2026-08-03",
+      "isPostedToday": true
     },
     {
       "id": "job_cecbbe626e8e",
@@ -21,6 +831,16 @@
       "role": "Software Engineer, Maritime",
       "location": "Boston, Massachusetts, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a06fe681f7fa33581c98bda",
+      "postedDate": "2026-08-02",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_5618aed7d0db",
+      "category": "new_grad",
+      "company": "Anduril Industries",
+      "role": "Software Engineer, Maritime",
+      "location": "Quincy, Massachusetts, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a06fec8152f493123c4bc64",
       "postedDate": "2026-08-02",
       "isPostedToday": false
     },
@@ -45,12 +865,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_8ba0a05f3444",
+      "id": "job_f04545ca6ada",
       "category": "new_grad",
       "company": "Arlo Technologies, Inc.",
       "role": "Test Engineer Co-op",
       "location": "Richmond, BC, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a5284dc8a74e077472f4e4d",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a29abb61de59e0682a80d95",
       "postedDate": "2026-08-02",
       "isPostedToday": false
     },
@@ -111,6 +931,26 @@
       "role": "Software Engineer Graduate (Traffic Infrastructure) - 2027 Start",
       "location": "San Jose, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a6ffff2160eda5948e8d18a",
+      "postedDate": "2026-08-02",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_9b272177e0e6",
+      "category": "new_grad",
+      "company": "Chase",
+      "role": "2027 Software Engineer Program - Full-Time - United States - February Start",
+      "location": "Chicago, IL, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a702348cd3bac13d3709ab8",
+      "postedDate": "2026-08-02",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_9c001b225404",
+      "category": "new_grad",
+      "company": "Chase",
+      "role": "2027 Software Engineer Program - Full-Time - United States - July Start",
+      "location": "Chicago, IL, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a702336c56c0956e8addcb8",
       "postedDate": "2026-08-02",
       "isPostedToday": false
     },
@@ -182,7 +1022,7 @@
       "location": "Boulder, CO",
       "applicationUrl": "https://careers.garmin.com/jobs/18602?icims=1",
       "postedDate": "2026-08-02",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_6047bf8cec58",
@@ -192,7 +1032,7 @@
       "location": "Olathe, KS",
       "applicationUrl": "https://careers.garmin.com/jobs/18513?icims=1",
       "postedDate": "2026-08-02",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_939d9b543f05",
@@ -221,6 +1061,16 @@
       "role": "2027 Software Engineer Program - Full-Time - United States - July Start",
       "location": "Chicago, IL, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a70171fad0fe2053dba0467",
+      "postedDate": "2026-08-02",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_0f5626001f0e",
+      "category": "new_grad",
+      "company": "L3Harris Technologies",
+      "role": "Senior Associate, Image Science Engineering (Rochester, NY)",
+      "location": "Rochester, NY, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a702667c56c0956e8addd39",
       "postedDate": "2026-08-02",
       "isPostedToday": false
     },
@@ -255,16 +1105,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_7563fa67d462",
-      "category": "new_grad",
-      "company": "Motorola Solutions",
-      "role": "Embedded Software Engineer - Modern C++, Linux",
-      "location": "Allen, TX (TX139), United States of America",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a51adbe8d7d3e6cf1cc0f1b",
-      "postedDate": "2026-08-02",
-      "isPostedToday": false
-    },
-    {
       "id": "job_ddc36ebcd57d",
       "category": "new_grad",
       "company": "Motorola Solutions",
@@ -275,12 +1115,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_43d73fa89d2b",
+      "id": "job_7563fa67d462",
       "category": "new_grad",
-      "company": "Northrop Grumman",
-      "role": "SDS Associate / Embedded Software Engineer - 19013",
-      "location": "Roy, UT, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a511f47ae4052672fe97191",
+      "company": "Motorola Solutions",
+      "role": "Embedded Software Engineer - Modern C++, Linux",
+      "location": "Allen, TX (TX139), United States of America",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a51adbe8d7d3e6cf1cc0f1b",
       "postedDate": "2026-08-02",
       "isPostedToday": false
     },
@@ -291,6 +1131,16 @@
       "role": "SDS Associate / Embedded Software Engineer - 19013",
       "location": "United States-Utah-Roy, United States of America",
       "applicationUrl": "https://jobright.ai/jobs/info/6a51170502522b5b722e74c9",
+      "postedDate": "2026-08-02",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_43d73fa89d2b",
+      "category": "new_grad",
+      "company": "Northrop Grumman",
+      "role": "SDS Associate / Embedded Software Engineer - 19013",
+      "location": "Roy, UT, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a511f47ae4052672fe97191",
       "postedDate": "2026-08-02",
       "isPostedToday": false
     },
@@ -345,12 +1195,32 @@
       "isPostedToday": false
     },
     {
+      "id": "job_01bc9bd1143f",
+      "category": "new_grad",
+      "company": "TikTok",
+      "role": "(General hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start",
+      "location": "Seattle, WA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a702a56c56c0956e8addd9e",
+      "postedDate": "2026-08-02",
+      "isPostedToday": false
+    },
+    {
       "id": "job_8a8539093b31",
       "category": "new_grad",
       "company": "TikTok",
       "role": "(General hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start",
       "location": "Seattle, WA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a700b3ccd3bac13d370968d",
+      "postedDate": "2026-08-02",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_3ce161dfe5b2",
+      "category": "new_grad",
+      "company": "TikTok",
+      "role": "(General Hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start",
+      "location": "San Jose, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a702a5941b41d325296e0d6",
       "postedDate": "2026-08-02",
       "isPostedToday": false
     },
@@ -391,6 +1261,16 @@
       "role": "Backend Software Engineer Graduate (Machine Moderation Platform) - 2027 Start",
       "location": "Seattle, WA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a6ffdc1160eda5948e8d14b",
+      "postedDate": "2026-08-02",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_ca4c1591ee06",
+      "category": "new_grad",
+      "company": "TikTok",
+      "role": "Backend Software Engineer Graduate (Risk & Response) - 2027 Start",
+      "location": "Seattle, WA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a702a5bad0fe2053dba0848",
       "postedDate": "2026-08-02",
       "isPostedToday": false
     },
@@ -441,6 +1321,16 @@
       "role": "Software Engineer Graduate (Ads Measurement Signal Technology) - 2027 Start",
       "location": "San Jose, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a701a40f5953013637f727b",
+      "postedDate": "2026-08-02",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_d0841cc25635",
+      "category": "new_grad",
+      "company": "TikTok",
+      "role": "Software Engineer Graduate (Business Integrity) - 2027 Start",
+      "location": "San Jose, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a702650c56c0956e8addd35",
       "postedDate": "2026-08-02",
       "isPostedToday": false
     },
@@ -865,22 +1755,22 @@
       "isPostedToday": false
     },
     {
+      "id": "job_6f2754143fe8",
+      "category": "intern",
+      "company": "HPR",
+      "role": "Software Engineering Intern 🛂",
+      "location": "Needham, MA",
+      "applicationUrl": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
+      "postedDate": "2026-08-01",
+      "isPostedToday": true
+    },
+    {
       "id": "job_f818bf324478",
       "category": "intern",
       "company": "HPR (Hyannis Port Research)",
       "role": "FPGA Engineer Intern",
       "location": "Needham, MA",
       "applicationUrl": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003",
-      "postedDate": "2026-08-01",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_6f2754143fe8",
-      "category": "intern",
-      "company": "HPR (Hyannis Port Research)",
-      "role": "Software Engineer Intern",
-      "location": "Needham, MA",
-      "applicationUrl": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
       "postedDate": "2026-08-01",
       "isPostedToday": false
     },
@@ -995,6 +1885,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_ae606553a035",
+      "category": "new_grad",
+      "company": "Nuro",
+      "role": "Software Engineer, Autonomy Visualization",
+      "location": "Mountain View, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a3f83b8651404064c02ad77",
+      "postedDate": "2026-08-01",
+      "isPostedToday": false
+    },
+    {
       "id": "job_83536ac619cf",
       "category": "new_grad",
       "company": "Nuro",
@@ -1011,16 +1911,6 @@
       "role": "Software Engineer, Autonomy Visualization",
       "location": "Mountain View, California (HQ)",
       "applicationUrl": "https://jobright.ai/jobs/info/6a22840e597131741415f0a3",
-      "postedDate": "2026-08-01",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_ae606553a035",
-      "category": "new_grad",
-      "company": "Nuro",
-      "role": "Software Engineer, Autonomy Visualization",
-      "location": "Mountain View, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a3f83b8651404064c02ad77",
       "postedDate": "2026-08-01",
       "isPostedToday": false
     },
@@ -1105,22 +1995,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_abc978dd79a1",
-      "category": "new_grad",
-      "company": "SpaceX",
-      "role": "Full Stack Software Engineer (Application Software)",
-      "location": "Hawthorne, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a51fc7fae4052672fe9d088",
-      "postedDate": "2026-08-01",
-      "isPostedToday": false
-    },
-    {
       "id": "job_e3107bb23d72",
       "category": "new_grad",
       "company": "SpaceX",
       "role": "Full Stack Software Engineer (Application Software)",
       "location": "Redmond, WA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a5215eed007ee02d95f5f50",
+      "postedDate": "2026-08-01",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_abc978dd79a1",
+      "category": "new_grad",
+      "company": "SpaceX",
+      "role": "Full Stack Software Engineer (Application Software)",
+      "location": "Hawthorne, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a51fc7fae4052672fe9d088",
       "postedDate": "2026-08-01",
       "isPostedToday": false
     },
@@ -1315,6 +2205,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_9c7f8bff5fab",
+      "category": "new_grad",
+      "company": "York Space Systems",
+      "role": "Software Engineer I - Ground Software",
+      "location": "Laurel, MD, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a6b65b85c54bc4752ce8b53",
+      "postedDate": "2026-08-01",
+      "isPostedToday": false
+    },
+    {
       "id": "job_80021d7675c6",
       "category": "new_grad",
       "company": "York Space Systems",
@@ -1331,16 +2231,6 @@
       "role": "Software Engineer I - Ground Software",
       "location": "Laurel, MD, 7901 Sandy Spring Road, Laurel, Maryland, United States of America",
       "applicationUrl": "https://jobright.ai/jobs/info/6a3bd2218bfad862bc997f48",
-      "postedDate": "2026-08-01",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_9c7f8bff5fab",
-      "category": "new_grad",
-      "company": "York Space Systems",
-      "role": "Software Engineer I - Ground Software",
-      "location": "Laurel, MD, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6b65b85c54bc4752ce8b53",
       "postedDate": "2026-08-01",
       "isPostedToday": false
     },
@@ -1555,22 +2445,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_e688d59f0e43",
-      "category": "new_grad",
-      "company": "Anduril Industries",
-      "role": "Software Engineer, Intelligence Systems",
-      "location": "Reston, Virginia, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a072b484a0a6a7e7d82583c",
-      "postedDate": "2026-07-31",
-      "isPostedToday": false
-    },
-    {
       "id": "job_91243c26ec75",
       "category": "new_grad",
       "company": "Anduril Industries",
       "role": "Software Engineer, Intelligence Systems",
       "location": "Reston, Virginia, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a53a0c18576ec69c01505be",
+      "postedDate": "2026-07-31",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_e688d59f0e43",
+      "category": "new_grad",
+      "company": "Anduril Industries",
+      "role": "Software Engineer, Intelligence Systems",
+      "location": "Reston, Virginia, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a072b484a0a6a7e7d82583c",
       "postedDate": "2026-07-31",
       "isPostedToday": false
     },
@@ -1705,12 +2595,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_40ab3a8e9850",
+      "id": "job_6799a9d95549",
       "category": "new_grad",
       "company": "Boeing",
       "role": "Associate/Experienced Software Engineer–Developer (Development)",
       "location": "Kent, WA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6d022dacb0a61f9dbc861f",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a6d117157120971bf3aed83",
       "postedDate": "2026-07-31",
       "isPostedToday": false
     },
@@ -1955,12 +2845,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_ca89e301120c",
+      "id": "job_52d2653853e5",
       "category": "new_grad",
       "company": "eBay",
       "role": "DoD SkillBridge - Honor Role",
       "location": "San Jose, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a4ce15a99523700cbff3bdb",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a62bd98f805ef6ff42346d1",
       "postedDate": "2026-07-31",
       "isPostedToday": false
     },
@@ -2005,6 +2895,46 @@
       "isPostedToday": false
     },
     {
+      "id": "job_19abb372fcac",
+      "category": "new_grad",
+      "company": "Gemba Advantage",
+      "role": "Software Engineer",
+      "location": "Manchester (Hybrid)",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a29b838d3ec8317fe1400c5",
+      "postedDate": "2026-07-31",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_f56149e67639",
+      "category": "new_grad",
+      "company": "Gemba Advantage",
+      "role": "Software Engineer",
+      "location": "London (Hybrid)",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a2d3ac2c260bb1b8ae187f6",
+      "postedDate": "2026-07-31",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_0e3890f40af9",
+      "category": "new_grad",
+      "company": "Gemba Advantage",
+      "role": "Software Engineer",
+      "location": "Manchester (Hybrid)",
+      "applicationUrl": "https://jobright.ai/jobs/info/69fa4b0bb1fc847fc1aef7e4",
+      "postedDate": "2026-07-31",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_3cd14f8e4475",
+      "category": "new_grad",
+      "company": "Gemba Advantage",
+      "role": "Software Engineer",
+      "location": "Manchester (Hybrid)",
+      "applicationUrl": "https://jobright.ai/jobs/info/69ea73c67820c036924ee039",
+      "postedDate": "2026-07-31",
+      "isPostedToday": false
+    },
+    {
       "id": "job_be001d148de7",
       "category": "new_grad",
       "company": "Gemba Advantage",
@@ -2035,42 +2965,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_0e3890f40af9",
+      "id": "job_b2f70a32c015",
       "category": "new_grad",
-      "company": "Gemba Advantage",
-      "role": "Software Engineer",
-      "location": "Manchester (Hybrid)",
-      "applicationUrl": "https://jobright.ai/jobs/info/69fa4b0bb1fc847fc1aef7e4",
-      "postedDate": "2026-07-31",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_19abb372fcac",
-      "category": "new_grad",
-      "company": "Gemba Advantage",
-      "role": "Software Engineer",
-      "location": "Manchester (Hybrid)",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a29b838d3ec8317fe1400c5",
-      "postedDate": "2026-07-31",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_f56149e67639",
-      "category": "new_grad",
-      "company": "Gemba Advantage",
-      "role": "Software Engineer",
-      "location": "London (Hybrid)",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a2d3ac2c260bb1b8ae187f6",
-      "postedDate": "2026-07-31",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_3cd14f8e4475",
-      "category": "new_grad",
-      "company": "Gemba Advantage",
-      "role": "Software Engineer",
-      "location": "Manchester (Hybrid)",
-      "applicationUrl": "https://jobright.ai/jobs/info/69ea73c67820c036924ee039",
+      "company": "General Dynamics Information Technology",
+      "role": "Software Developer TS/SCI w/Polygraph",
+      "location": "McLean, VA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a51db6a8d7d3e6cf1cc3ed2",
       "postedDate": "2026-07-31",
       "isPostedToday": false
     },
@@ -2081,16 +2981,6 @@
       "role": "Software Developer TS/SCI w/Polygraph",
       "location": "USA VA McLean, US",
       "applicationUrl": "https://jobright.ai/jobs/info/6a047600bc4184089f23ac71",
-      "postedDate": "2026-07-31",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_b2f70a32c015",
-      "category": "new_grad",
-      "company": "General Dynamics Information Technology",
-      "role": "Software Developer TS/SCI w/Polygraph",
-      "location": "McLean, VA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a51db6a8d7d3e6cf1cc3ed2",
       "postedDate": "2026-07-31",
       "isPostedToday": false
     },
@@ -2155,22 +3045,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_ddb671049c55",
-      "category": "new_grad",
-      "company": "Glean",
-      "role": "Software Engineer",
-      "location": "Mountain View, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6da07574dc0046cb529ffb",
-      "postedDate": "2026-07-31",
-      "isPostedToday": false
-    },
-    {
       "id": "job_55feb4cc7f4a",
       "category": "new_grad",
       "company": "Glean",
       "role": "Software Engineer",
       "location": "Mountain View, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a6c6ebd32f9300c3a3e3cc4",
+      "postedDate": "2026-07-31",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_ddb671049c55",
+      "category": "new_grad",
+      "company": "Glean",
+      "role": "Software Engineer",
+      "location": "Mountain View, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a6da07574dc0046cb529ffb",
       "postedDate": "2026-07-31",
       "isPostedToday": false
     },
@@ -2305,16 +3195,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_eec28842a098",
-      "category": "new_grad",
-      "company": "L3Harris Technologies",
-      "role": "Associate, Software Engineering",
-      "location": "Herndon, VA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6cd604acb0a61f9dbc7686",
-      "postedDate": "2026-07-31",
-      "isPostedToday": false
-    },
-    {
       "id": "job_200c8d51ed0f",
       "category": "new_grad",
       "company": "L3Harris Technologies",
@@ -2331,6 +3211,16 @@
       "role": "Associate, Software Engineering",
       "location": "Rochester, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a6cd5e9acb0a61f9dbc766e",
+      "postedDate": "2026-07-31",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_eec28842a098",
+      "category": "new_grad",
+      "company": "L3Harris Technologies",
+      "role": "Associate, Software Engineering",
+      "location": "Herndon, VA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a6cd604acb0a61f9dbc7686",
       "postedDate": "2026-07-31",
       "isPostedToday": false
     },
@@ -2391,16 +3281,6 @@
       "role": "Ground Software Engineer",
       "location": "King of Prussia, PA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a5a5c6263a8f619507c68fd",
-      "postedDate": "2026-07-31",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_74638d756b54",
-      "category": "new_grad",
-      "company": "LS Solutions",
-      "role": ".NET Developer",
-      "location": "Lynchburg, VA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6d2dcd32f9300c3a3e7868",
       "postedDate": "2026-07-31",
       "isPostedToday": false
     },
@@ -3705,22 +4585,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_8c9333af7fd8",
-      "category": "new_grad",
-      "company": "Huntington National Bank",
-      "role": "Junior Backend Java Developer- Enterprise Payments and Credit Card",
-      "location": "Columbus, OH, US",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a31832959588169700150f3",
-      "postedDate": "2026-07-30",
-      "isPostedToday": false
-    },
-    {
       "id": "job_878c3717151b",
       "category": "new_grad",
       "company": "Huntington National Bank",
       "role": "Junior Backend Java Developer- Enterprise Payments and Credit Card",
       "location": "Minnetonka, MN, United States of America",
       "applicationUrl": "https://jobright.ai/jobs/info/6a31833559588169700150fc",
+      "postedDate": "2026-07-30",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_8c9333af7fd8",
+      "category": "new_grad",
+      "company": "Huntington National Bank",
+      "role": "Junior Backend Java Developer- Enterprise Payments and Credit Card",
+      "location": "Columbus, OH, US",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a31832959588169700150f3",
       "postedDate": "2026-07-30",
       "isPostedToday": false
     },
@@ -3955,22 +4835,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_784479b43207",
-      "category": "new_grad",
-      "company": "NexHealth",
-      "role": "Software Engineer",
-      "location": "Seattle, Washington, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a3d5196d261407de97ffbc3",
-      "postedDate": "2026-07-30",
-      "isPostedToday": false
-    },
-    {
       "id": "job_c85ed929254f",
       "category": "new_grad",
       "company": "NexHealth",
       "role": "Software Engineer",
       "location": "Seattle, Washington, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a22130ac00e701fe8372b1f",
+      "postedDate": "2026-07-30",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_784479b43207",
+      "category": "new_grad",
+      "company": "NexHealth",
+      "role": "Software Engineer",
+      "location": "Seattle, Washington, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a3d5196d261407de97ffbc3",
       "postedDate": "2026-07-30",
       "isPostedToday": false
     },
@@ -4015,22 +4895,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_d0e761ae789d",
-      "category": "new_grad",
-      "company": "Oracle",
-      "role": "Software Developer",
-      "location": "Kansas City, MO, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a367d19649fdf16292fbc75",
-      "postedDate": "2026-07-30",
-      "isPostedToday": false
-    },
-    {
       "id": "job_7bad97c39182",
       "category": "new_grad",
       "company": "Oracle",
       "role": "Software Developer",
       "location": "Kansas City, MO, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a6bc4bdc00ae03109f85def",
+      "postedDate": "2026-07-30",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_11c77847ef6d",
+      "category": "new_grad",
+      "company": "Oracle",
+      "role": "Software Developer",
+      "location": "Kansas City, MO, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a365f5a1232144fb15658f0",
       "postedDate": "2026-07-30",
       "isPostedToday": false
     },
@@ -4429,7 +5309,7 @@
       "category": "new_grad",
       "company": "WellHive",
       "role": "Jr. Software Engineer, Customer Solutions Engineering",
-      "location": "United States",
+      "location": "Melbourne, FL, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a6b23ab57120971bf3a4f50",
       "postedDate": "2026-07-30",
       "isPostedToday": false
@@ -4625,12 +5505,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_9cbe14e9a62d",
+      "id": "job_43af0874e71c",
       "category": "new_grad",
       "company": "Boeing",
       "role": "Software Systems Engineer (Associate or Experienced)",
       "location": "Colorado Springs, CO, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6a2ab20b42f866b6197178",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a6a2aa7c63ba56308f519b8",
       "postedDate": "2026-07-29",
       "isPostedToday": false
     },
@@ -5065,22 +5945,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_ce2162bb7fd8",
-      "category": "new_grad",
-      "company": "NVIDIA",
-      "role": "Software Quality Assurance Engineer - 2026 New College Grad",
-      "location": "Santa Clara, CA, US",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a30399fafabbe533fb89dd8",
-      "postedDate": "2026-07-29",
-      "isPostedToday": false
-    },
-    {
       "id": "job_51cd7e0dcac9",
       "category": "new_grad",
       "company": "NVIDIA",
       "role": "Software Quality Assurance Engineer - 2026 New College Grad",
       "location": "US, CA, Santa Clara, United States of America",
       "applicationUrl": "https://jobright.ai/jobs/info/6a56444c53b3962b910aefc8",
+      "postedDate": "2026-07-29",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_ce2162bb7fd8",
+      "category": "new_grad",
+      "company": "NVIDIA",
+      "role": "Software Quality Assurance Engineer - 2026 New College Grad",
+      "location": "Santa Clara, CA, US",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a30399fafabbe533fb89dd8",
       "postedDate": "2026-07-29",
       "isPostedToday": false
     },
@@ -5475,22 +6355,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_bcb1f096c69a",
-      "category": "new_grad",
-      "company": "Analog Devices",
-      "role": "Embedded Software Algorithm Developer",
-      "location": "US, CA, San Diego, Avenue of Science, US",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a17fd73ba12bb0249bb61dd",
-      "postedDate": "2026-07-28",
-      "isPostedToday": false
-    },
-    {
       "id": "job_95291b7596e7",
       "category": "new_grad",
       "company": "Analog Devices",
       "role": "Embedded Software Algorithm Developer",
       "location": "San Diego, CA, United States of America",
       "applicationUrl": "https://jobright.ai/jobs/info/6a5f264e64865a3d944723a9",
+      "postedDate": "2026-07-28",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_bcb1f096c69a",
+      "category": "new_grad",
+      "company": "Analog Devices",
+      "role": "Embedded Software Algorithm Developer",
+      "location": "US, CA, San Diego, Avenue of Science, US",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a17fd73ba12bb0249bb61dd",
       "postedDate": "2026-07-28",
       "isPostedToday": false
     },
@@ -6255,22 +7135,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_9c8dabdd0363",
-      "category": "new_grad",
-      "company": "Supermicro",
-      "role": "Application Validation Engineer",
-      "location": "San Jose, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a5ec0f4f29acc1a1174960a",
-      "postedDate": "2026-07-28",
-      "isPostedToday": false
-    },
-    {
       "id": "job_50514beeec7a",
       "category": "new_grad",
       "company": "Supermicro",
       "role": "Application Validation Engineer",
       "location": "San Jose, California, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a5ec080050c423c792f10a7",
+      "postedDate": "2026-07-28",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_9c8dabdd0363",
+      "category": "new_grad",
+      "company": "Supermicro",
+      "role": "Application Validation Engineer",
+      "location": "San Jose, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a5ec0f4f29acc1a1174960a",
       "postedDate": "2026-07-28",
       "isPostedToday": false
     },
@@ -6445,16 +7325,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_9c138bbbb41d",
-      "category": "new_grad",
-      "company": "Altron, Inc.",
-      "role": "Software Engineer 1",
-      "location": "Manassas, VA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a676df25d2a117fb9ceb57c",
-      "postedDate": "2026-07-27",
-      "isPostedToday": false
-    },
-    {
       "id": "job_e5398e630e52",
       "category": "new_grad",
       "company": "Amazon",
@@ -6521,16 +7391,6 @@
       "role": "Associate Software Engineer-Atlanta",
       "location": "Atlanta, GA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a61e3c0ab14335fc0f1a50d",
-      "postedDate": "2026-07-27",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_12601ccf289f",
-      "category": "new_grad",
-      "company": "Automated Media Inc.",
-      "role": "Jr. Web Developer (Canton, MI)",
-      "location": "Canton, MI, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6798365d2a117fb9cec311",
       "postedDate": "2026-07-27",
       "isPostedToday": false
     },
@@ -6645,46 +7505,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_f5b477dda591",
-      "category": "new_grad",
-      "company": "Curtiss-Wright Corporation",
-      "role": "Quality Assurance Engineer, Assoc",
-      "location": "US-NY-Lansing (ST-800)",
-      "applicationUrl": "https://jobright.ai/jobs/info/6966d0895ad3a93f823235af",
-      "postedDate": "2026-07-27",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_e25ac43ad290",
-      "category": "new_grad",
-      "company": "Curtiss-Wright Corporation",
-      "role": "Quality Assurance Engineer, Assoc.",
-      "location": "US-CT-East Windsor (ST-700), United States of America",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a5128ff02522b5b722e80ee",
-      "postedDate": "2026-07-27",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_7e20c2a28f78",
-      "category": "new_grad",
-      "company": "Curtiss-Wright Corporation",
-      "role": "Quality Assurance Engineer, Assoc.",
-      "location": "US-CT-East Windsor (ST-700)",
-      "applicationUrl": "https://jobright.ai/jobs/info/68de9b8e44d32141e0c01049",
-      "postedDate": "2026-07-27",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_6b027fe65054",
-      "category": "new_grad",
-      "company": "Curtiss-Wright Corporation",
-      "role": "Quality Assurance Engineer, Associate",
-      "location": "US-OH-Middleburg Hts. (Nuclear), United States of America",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a46322f0dd56c76cc2f7535",
-      "postedDate": "2026-07-27",
-      "isPostedToday": false
-    },
-    {
       "id": "job_baa8e4da4040",
       "category": "new_grad",
       "company": "CyberProof",
@@ -6721,16 +7541,6 @@
       "role": "Cloud Support Engineer (SRE Development)",
       "location": "Field-CO, United States of America",
       "applicationUrl": "https://jobright.ai/jobs/info/6a536fda8ef95364ead9221b",
-      "postedDate": "2026-07-27",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_ccbb31992f9c",
-      "category": "new_grad",
-      "company": "General Atomics Aeronautical Systems",
-      "role": "Configuration Management Specialist",
-      "location": "Poway, CA",
-      "applicationUrl": "https://jobright.ai/jobs/info/69d85bd1f4ea471a51fe5362",
       "postedDate": "2026-07-27",
       "isPostedToday": false
     },
@@ -6845,12 +7655,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_6db50c679025",
+      "id": "job_6eb10cbbacfc",
       "category": "new_grad",
       "company": "KLA",
       "role": "Customer Engagement Applications Engineer - SFS",
       "location": "Hillsboro, OR, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6811df5d2a117fb9cee887",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a6812083b5e6b116a551e75",
       "postedDate": "2026-07-27",
       "isPostedToday": false
     },
@@ -6995,22 +7805,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_0808fb14c66d",
-      "category": "new_grad",
-      "company": "Polaris Inc.",
-      "role": "OneStream Developer",
-      "location": "Medina, MN, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a51dee98d7d3e6cf1cc41fe",
-      "postedDate": "2026-07-27",
-      "isPostedToday": false
-    },
-    {
       "id": "job_459187f74226",
       "category": "new_grad",
       "company": "Polaris Inc.",
       "role": "OneStream Developer",
       "location": "Medina, MN, USA, US",
       "applicationUrl": "https://jobright.ai/jobs/info/6a1f52a1b61b2c65b37b14be",
+      "postedDate": "2026-07-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_0808fb14c66d",
+      "category": "new_grad",
+      "company": "Polaris Inc.",
+      "role": "OneStream Developer",
+      "location": "Medina, MN, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a51dee98d7d3e6cf1cc41fe",
       "postedDate": "2026-07-27",
       "isPostedToday": false
     },
@@ -7045,16 +7855,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_c8ac80411c9c",
-      "category": "new_grad",
-      "company": "Ramp",
-      "role": "Mobile Engineer, Android",
-      "location": "New York, NY, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a56436521f64463ad353483",
-      "postedDate": "2026-07-27",
-      "isPostedToday": false
-    },
-    {
       "id": "job_e611bb4f0dac",
       "category": "new_grad",
       "company": "Ramp",
@@ -7065,22 +7865,22 @@
       "isPostedToday": false
     },
     {
+      "id": "job_c8ac80411c9c",
+      "category": "new_grad",
+      "company": "Ramp",
+      "role": "Mobile Engineer, Android",
+      "location": "New York, NY, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a56436521f64463ad353483",
+      "postedDate": "2026-07-27",
+      "isPostedToday": false
+    },
+    {
       "id": "job_a1297dcc55d4",
       "category": "new_grad",
       "company": "Revvity",
       "role": "Associate Software Development Engineer (Remote US)",
       "location": "Boston, MA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a685adcd31a503dccb3b571",
-      "postedDate": "2026-07-27",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_da2f2f8b2adb",
-      "category": "new_grad",
-      "company": "Revvity",
-      "role": "Associate Software Development Engineer (Remote US)",
-      "location": "Massachusetts, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a67caa92bf1fb2b71927116",
       "postedDate": "2026-07-27",
       "isPostedToday": false
     },
@@ -7195,16 +7995,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_9156edfa1e3c",
-      "category": "new_grad",
-      "company": "RunSybil",
-      "role": "Software Engineer I",
-      "location": "New York, NY, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a676880872eb74f9ead8dfd",
-      "postedDate": "2026-07-27",
-      "isPostedToday": false
-    },
-    {
       "id": "job_be7c8adb3f0c",
       "category": "new_grad",
       "company": "SBA Communications Corporation",
@@ -7225,32 +8015,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_ba3993911a0f",
-      "category": "new_grad",
-      "company": "SkillStorm",
-      "role": "Entry Level Software Developer",
-      "location": "Denver, CO, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6756e73b5e6b116a54e53f",
-      "postedDate": "2026-07-27",
-      "isPostedToday": false
-    },
-    {
       "id": "job_d8ac848d991b",
       "category": "new_grad",
       "company": "SoFi Stadium and Hollywood Park",
       "role": "Jr. Application Programmer",
       "location": "Inglewood, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a696eed436a9228dd0053fe",
-      "postedDate": "2026-07-27",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_e9aa0a83a73e",
-      "category": "new_grad",
-      "company": "Solar Turbines",
-      "role": "Test Software Systems Engineer",
-      "location": "DeSoto, TX, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6767a82bda4d2842853a93",
       "postedDate": "2026-07-27",
       "isPostedToday": false
     },
@@ -7815,26 +8585,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_a18dbc92a377",
-      "category": "new_grad",
-      "company": "AMERICAN SYSTEMS",
-      "role": "Java Developer l",
-      "location": "Folsom, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a63b6c95c7e2d715ebad84f",
-      "postedDate": "2026-07-24",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_4200339d1f8c",
-      "category": "new_grad",
-      "company": "AMERICAN SYSTEMS",
-      "role": "Java Developer l",
-      "location": "Lakewood, CO, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a63a1e45c7e2d715ebad1ac",
-      "postedDate": "2026-07-24",
-      "isPostedToday": false
-    },
-    {
       "id": "job_2f848fcfc583",
       "category": "new_grad",
       "company": "AMERICAN SYSTEMS",
@@ -7851,6 +8601,26 @@
       "role": "Java Developer l",
       "location": "Billings, MT, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a63b6cd5c7e2d715ebad853",
+      "postedDate": "2026-07-24",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_a18dbc92a377",
+      "category": "new_grad",
+      "company": "AMERICAN SYSTEMS",
+      "role": "Java Developer l",
+      "location": "Folsom, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a63b6c95c7e2d715ebad84f",
+      "postedDate": "2026-07-24",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_4200339d1f8c",
+      "category": "new_grad",
+      "company": "AMERICAN SYSTEMS",
+      "role": "Java Developer l",
+      "location": "Lakewood, CO, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a63a1e45c7e2d715ebad1ac",
       "postedDate": "2026-07-24",
       "isPostedToday": false
     },
@@ -8795,22 +9565,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_9368a59c6c33",
-      "category": "new_grad",
-      "company": "Palantir Technologies",
-      "role": "Software Engineer, New Grad - Defense",
-      "location": "Palo Alto, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a427c50a5e15b1068379165",
-      "postedDate": "2026-07-22",
-      "isPostedToday": false
-    },
-    {
       "id": "job_ba3ecdcc88c2",
       "category": "new_grad",
       "company": "Palantir Technologies",
       "role": "Software Engineer, New Grad - Defense",
       "location": "Washington, D.C., United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a57938ea791c6211befedb5",
+      "postedDate": "2026-07-22",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_9368a59c6c33",
+      "category": "new_grad",
+      "company": "Palantir Technologies",
+      "role": "Software Engineer, New Grad - Defense",
+      "location": "Palo Alto, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a427c50a5e15b1068379165",
       "postedDate": "2026-07-22",
       "isPostedToday": false
     },
@@ -9045,22 +9815,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_0990b47737a1",
-      "category": "new_grad",
-      "company": "NVIDIA",
-      "role": "Formal Verification Engineer - New College Grad 2026",
-      "location": "US, TX, Austin",
-      "applicationUrl": "https://jobright.ai/jobs/info/6999bfa0ce78e77b4fdeabfc",
-      "postedDate": "2026-07-21",
-      "isPostedToday": false
-    },
-    {
       "id": "job_96ab41dd2e47",
       "category": "new_grad",
       "company": "NVIDIA",
       "role": "Formal Verification Engineer - New College Grad 2026",
       "location": "US, TX, Austin, United States of America",
       "applicationUrl": "https://jobright.ai/jobs/info/6a513c398d7d3e6cf1cc021b",
+      "postedDate": "2026-07-21",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_0990b47737a1",
+      "category": "new_grad",
+      "company": "NVIDIA",
+      "role": "Formal Verification Engineer - New College Grad 2026",
+      "location": "US, TX, Austin",
+      "applicationUrl": "https://jobright.ai/jobs/info/6999bfa0ce78e77b4fdeabfc",
       "postedDate": "2026-07-21",
       "isPostedToday": false
     },
