@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-19T04:25:38-5",
+  "generatedAt": "2026-08-19T04:50:10-5",
   "timezone": "America/Chicago",
   "pageSize": 50,
-  "totalJobs": 2626,
+  "totalJobs": 2623,
   "jobs": [
     {
       "id": "job_0f593cabf51b",
@@ -45,6 +45,16 @@
       "isPostedToday": true
     },
     {
+      "id": "job_543f4671d786",
+      "category": "new_grad",
+      "company": "OKX",
+      "role": "AI-Native Mobile Engineer New Grad",
+      "location": "San Jose, CA",
+      "applicationUrl": "",
+      "postedDate": "2026-08-19",
+      "isPostedToday": true
+    },
+    {
       "id": "job_da2f0a673eeb",
       "category": "new_grad",
       "company": "🔥 Apple",
@@ -62,7 +72,7 @@
       "location": "San Jose, CA",
       "applicationUrl": "https://lifeattiktok.com/search/7675128776856029445",
       "postedDate": "2026-08-18",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_763fb884c05d",
@@ -1073,16 +1083,6 @@
       "applicationUrl": "https://jobright.ai/jobs/info/6a85034ad34f700f87fbbd4e",
       "postedDate": "2026-08-18",
       "isPostedToday": false
-    },
-    {
-      "id": "job_661595e013a5",
-      "category": "new_grad",
-      "company": "OKX",
-      "role": "AI-Native Mobile Engineer New Grad",
-      "location": "San Jose, CA",
-      "applicationUrl": "https://job-boards.greenhouse.io/okx/jobs/7897680003",
-      "postedDate": "2026-08-18",
-      "isPostedToday": true
     },
     {
       "id": "job_62a4f2327d1c",
@@ -4631,36 +4631,6 @@
       "role": "Software Engineer I / II",
       "location": "New York, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a574e9cf7517b519ad59dad",
-      "postedDate": "2026-08-15",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_87f94f1b86fc",
-      "category": "intern",
-      "company": "Goldman Sachs",
-      "role": "Quantitative Strategist Associate Intern - Asset and Wealth Management 🎓",
-      "location": "London, UK",
-      "applicationUrl": "https://higher.gs.com/roles/175423?type=students",
-      "postedDate": "2026-08-15",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_bb28fda1836c",
-      "category": "intern",
-      "company": "Goldman Sachs",
-      "role": "Quantitative Strategist Intern - Multiple Teams",
-      "location": "London, UK",
-      "applicationUrl": "https://higher.gs.com/roles/175424?type=students",
-      "postedDate": "2026-08-15",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_e4c75eb4c4e3",
-      "category": "intern",
-      "company": "Goldman Sachs",
-      "role": "Summer Associate Intern - Multiple Teams 🎓",
-      "location": "NYC",
-      "applicationUrl": "https://higher.gs.com/roles/171566?type=students",
       "postedDate": "2026-08-15",
       "isPostedToday": false
     },
