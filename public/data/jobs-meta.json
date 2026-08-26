@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-26T12:00:07-5",
+  "generatedAt": "2026-08-26T14:18:47-5",
   "timezone": "America/Chicago",
   "sourceCounts": {
-    "simplify_summer_2026": 644,
+    "simplify_summer_2026": 660,
     "vansh_summer_2026": 265,
-    "simplify_new_grad_2026": 2295,
+    "simplify_new_grad_2026": 2296,
     "vansh_new_grad_2026": 1078,
-    "jobright_new_grad_2026": 574
+    "jobright_new_grad_2026": 578
   },
-  "activeJobCount": 2762,
-  "todayJobCount": 110,
+  "activeJobCount": 2784,
+  "todayJobCount": 124,
   "parseWarnings": [
     "Dropped row 1bbe636a377ac6a2047f37b9ac1b67232ce7417927fcbd5298404b2261932b93 from simplify_summer_2026: could not parse posted date \"1mo\".",
     "Dropped row 90f0aa4064072eefcc4f3b262cc244b4824c3f8c241cd52686ff899853978bea from simplify_summer_2026: could not parse posted date \"1mo\".",
@@ -146,6 +146,7 @@
     "Dropped row 9686e45b6bd946f3e8b0ebb9ad8cca733f3975fa82e8c9ac2e190f48fa8d59f8 from simplify_new_grad_2026: could not parse posted date \"2mo\".",
     "Dropped row 506d86900d00362c46aaaa7a4a04a41eea88f63b704b69c6fe670e5ac13e809d from simplify_new_grad_2026: could not parse posted date \"3mo\".",
     "Dropped row df7f3d4967e7e79c5726411647b405af359b25b9aebff961afc523df9d0b1da3 from simplify_new_grad_2026: could not parse posted date \"3mo\".",
+    "Dropped row 16d1d9ab121a2219d27e42f416fb567dc54b685a0b257960376e07408a771a5c from simplify_new_grad_2026: could not parse posted date \"3mo\".",
     "Dropped row 2367d6e9bdefcb1cc54d7730cc4033f5e8cc4c3f29e1cfefff531dee896c2ed9 from simplify_new_grad_2026: could not parse posted date \"3mo\".",
     "Dropped row b181209cf3ae395360c0c57249205feec5ea2ac14338945e61451fce669ddbe9 from simplify_new_grad_2026: could not parse posted date \"3mo\".",
     "Dropped row be3db79ef5e69a275a766ebd589a4a1c7ca9eb3dfcd13a201743dc438c72aa61 from simplify_new_grad_2026: could not parse posted date \"3mo\".",
@@ -535,7 +536,6 @@
     "Dropped row 7d2a4e755b9a00d56dd73b196d025cb3ce3d8ec3f773c09b7b74d24695ba03f3 from simplify_new_grad_2026: could not parse posted date \"3mo\".",
     "Dropped row a4b77176caf2ce7097b87970ad340960deeee6e266086767c46869474656c102 from simplify_new_grad_2026: could not parse posted date \"3mo\".",
     "Dropped row c3a6ccdce80b22b7ba75e5721bc0c7149acd0ba63a113ba1251b7929ae714f88 from simplify_new_grad_2026: could not parse posted date \"3mo\".",
-    "Dropped row 6b88fc13708d5644e2ca546984dea4e1039b62689640d6e5de4c5b4cfbfa5eb0 from simplify_new_grad_2026: could not parse posted date \"3mo\".",
     "Dropped row 65380a1c008d03c421d68fa0b975220b84f3290eda94c2bf98ecf83287c57aa7 from simplify_new_grad_2026: could not parse posted date \"3mo\".",
     "Dropped row 260a82149d657517a6aa323485b709a9b6de61c4482027da699ca9994a7d2a53 from simplify_new_grad_2026: could not parse posted date \"3mo\".",
     "Dropped row 0b22602420e11167826893b243f584204630f20c48ed9767a502822f0efb2d72 from simplify_new_grad_2026: could not parse posted date \"3mo\".",
@@ -1295,7 +1295,6 @@
     "Dropped row 8f167fe176fec0606121034d632200901e6268456c745f811b1b8992dde5014b from simplify_new_grad_2026: could not parse posted date \"7mo\".",
     "Dropped row 26c8ff807288bae1e7393d16c370ca3c946838a05db814e730d3987b88715be0 from simplify_new_grad_2026: could not parse posted date \"7mo\".",
     "Dropped row 48802ff252891330aca182eb18d8cb83f5ce842581ff65dc79411dbada99cd13 from simplify_new_grad_2026: could not parse posted date \"7mo\".",
-    "Dropped row a4bc24343dacc677c2ba6fdf9390c2365f18f332f5f964d5b2283c1126fdee6f from simplify_new_grad_2026: could not parse posted date \"7mo\".",
     "Dropped row 4ac5213355bea83767a7b3633035cb6402a4a98f429a9faa84d9aaa64d4b67b7 from simplify_new_grad_2026: could not parse posted date \"1mo\".",
     "Dropped row 8ca32e02d8ef19017a6a564c548d8cf16985a24ae8255268f069bd3052118e3c from simplify_new_grad_2026: could not parse posted date \"1mo\".",
     "Dropped row 9b7e3a9b743be006480debe89a6363c5cf62a46283099694a073a42c3146d789 from simplify_new_grad_2026: could not parse posted date \"5mo\".",
