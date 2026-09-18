@@ -1,9 +1,19 @@
 {
-  "generatedAt": "2026-09-18T00:56:46-5",
+  "generatedAt": "2026-09-18T02:50:21-5",
   "timezone": "America/Chicago",
   "pageSize": 50,
-  "totalJobs": 3498,
+  "totalJobs": 3502,
   "jobs": [
+    {
+      "id": "job_0b790294361f",
+      "category": "intern",
+      "company": "🔥 Tesla",
+      "role": "Internship - Software Engineering - People Products - Summer 2027",
+      "location": "Palo Alto, CA",
+      "applicationUrl": "https://www.tesla.com/careers/search/job/284004",
+      "postedDate": "2026-09-18",
+      "isPostedToday": true
+    },
     {
       "id": "job_a3a57bc95b0f",
       "category": "intern",
@@ -95,16 +105,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_9eca94e2caf7",
-      "category": "new_grad",
-      "company": "Albertsons Companies",
-      "role": "Front End Entry Level",
-      "location": "New Lenox, IL, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a7dfe2f0cd4a0703257cfe3",
-      "postedDate": "2026-09-17",
-      "isPostedToday": false
-    },
-    {
       "id": "job_2605d817c257",
       "category": "new_grad",
       "company": "All Metals Processing of Orange County",
@@ -115,12 +115,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_575217ac5128",
+      "id": "job_87bb48f8928d",
       "category": "new_grad",
       "company": "Amentum",
       "role": "Software Developer - Junior (Team 01)",
       "location": "Washington, DC, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a737d6932ebbc14ffb4f468",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a737d498cd88e7ccbf58bd4",
       "postedDate": "2026-09-17",
       "isPostedToday": false
     },
@@ -231,6 +231,16 @@
       "role": "Software Engineer",
       "location": "Chicago, IL, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a9f74dca7ba386c5d675258",
+      "postedDate": "2026-09-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_bd03faad8027",
+      "category": "new_grad",
+      "company": "CGI",
+      "role": "Mobile Developer - Entry Level",
+      "location": "Vancouver, BC, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aacc0bb3dbb1f8967ceb6fa",
       "postedDate": "2026-09-17",
       "isPostedToday": false
     },
@@ -385,62 +395,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_19abb372fcac",
-      "category": "new_grad",
-      "company": "Gemba Advantage",
-      "role": "Software Engineer",
-      "location": "Manchester (Hybrid)",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a29b838d3ec8317fe1400c5",
-      "postedDate": "2026-09-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_f56149e67639",
-      "category": "new_grad",
-      "company": "Gemba Advantage",
-      "role": "Software Engineer",
-      "location": "London (Hybrid)",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a2d3ac2c260bb1b8ae187f6",
-      "postedDate": "2026-09-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_0b3e48c26f41",
-      "category": "new_grad",
-      "company": "Gemba Advantage",
-      "role": "Software Engineer",
-      "location": "London, United Kingdom",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a50abf5d5d2a327b664d098",
-      "postedDate": "2026-09-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_0e3890f40af9",
-      "category": "new_grad",
-      "company": "Gemba Advantage",
-      "role": "Software Engineer",
-      "location": "Manchester (Hybrid)",
-      "applicationUrl": "https://jobright.ai/jobs/info/69fa4b0bb1fc847fc1aef7e4",
-      "postedDate": "2026-09-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_46730fd3bb82",
-      "category": "new_grad",
-      "company": "Gemba Advantage",
-      "role": "Software Engineer",
-      "location": "Cheltenham, England, United Kingdom",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a509cba2e2ceb72963b3547",
-      "postedDate": "2026-09-17",
-      "isPostedToday": false
-    },
-    {
       "id": "job_be001d148de7",
       "category": "new_grad",
       "company": "Gemba Advantage",
       "role": "Software Engineer",
       "location": "Manchester, United Kingdom",
       "applicationUrl": "https://jobright.ai/jobs/info/6a55cf9cfdf4fa71202b58a3",
+      "postedDate": "2026-09-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_19abb372fcac",
+      "category": "new_grad",
+      "company": "Gemba Advantage",
+      "role": "Software Engineer",
+      "location": "Manchester (Hybrid)",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a29b838d3ec8317fe1400c5",
       "postedDate": "2026-09-17",
       "isPostedToday": false
     },
@@ -455,12 +425,52 @@
       "isPostedToday": false
     },
     {
+      "id": "job_0b3e48c26f41",
+      "category": "new_grad",
+      "company": "Gemba Advantage",
+      "role": "Software Engineer",
+      "location": "London, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a50abf5d5d2a327b664d098",
+      "postedDate": "2026-09-17",
+      "isPostedToday": false
+    },
+    {
       "id": "job_ab391b78716e",
       "category": "new_grad",
       "company": "Gemba Advantage",
       "role": "Software Engineer",
       "location": "London (Hybrid)",
       "applicationUrl": "https://jobright.ai/jobs/info/6a1da4323e538a28c204abf1",
+      "postedDate": "2026-09-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_46730fd3bb82",
+      "category": "new_grad",
+      "company": "Gemba Advantage",
+      "role": "Software Engineer",
+      "location": "Cheltenham, England, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a509cba2e2ceb72963b3547",
+      "postedDate": "2026-09-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_f56149e67639",
+      "category": "new_grad",
+      "company": "Gemba Advantage",
+      "role": "Software Engineer",
+      "location": "London (Hybrid)",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a2d3ac2c260bb1b8ae187f6",
+      "postedDate": "2026-09-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_0e3890f40af9",
+      "category": "new_grad",
+      "company": "Gemba Advantage",
+      "role": "Software Engineer",
+      "location": "Manchester (Hybrid)",
+      "applicationUrl": "https://jobright.ai/jobs/info/69fa4b0bb1fc847fc1aef7e4",
       "postedDate": "2026-09-17",
       "isPostedToday": false
     },
@@ -543,6 +553,16 @@
       "applicationUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795",
       "postedDate": "2026-09-17",
       "isPostedToday": true
+    },
+    {
+      "id": "job_7be7cbee45b8",
+      "category": "intern",
+      "company": "Gordon Food Service",
+      "role": "Vendor &amp; Customer Master Data Intern - Master Data 🎓",
+      "location": "Wyoming, MI",
+      "applicationUrl": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Vendor---Customer-Master-Data-Internship_R-57341",
+      "postedDate": "2026-09-17",
+      "isPostedToday": false
     },
     {
       "id": "job_0f5b7bb82731",
@@ -645,22 +665,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_892d4d2564d3",
-      "category": "new_grad",
-      "company": "ITA International",
-      "role": "Junior Power Platform Developer",
-      "location": "US",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a3442eb649fdf16292f4eed",
-      "postedDate": "2026-09-17",
-      "isPostedToday": false
-    },
-    {
       "id": "job_caad3894035f",
       "category": "new_grad",
       "company": "ITA International",
       "role": "Junior Power Platform Developer",
       "location": "Newport News, VA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6aaca8d03d96632d741ab9c1",
+      "postedDate": "2026-09-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_892d4d2564d3",
+      "category": "new_grad",
+      "company": "ITA International",
+      "role": "Junior Power Platform Developer",
+      "location": "US",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a3442eb649fdf16292f4eed",
       "postedDate": "2026-09-17",
       "isPostedToday": false
     },
@@ -691,6 +711,16 @@
       "role": "Document Controls Specialist - Kiewit Infrastructure Engineers",
       "location": "Lone Tree, CO, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a87484a4afae74a08347a7e",
+      "postedDate": "2026-09-17",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_6f3c3569f0f7",
+      "category": "new_grad",
+      "company": "L3Harris Technologies",
+      "role": "Associate, Integration / Test Engineer",
+      "location": "Colorado Springs, CO, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aa8a6c4e52865942acfd308",
       "postedDate": "2026-09-17",
       "isPostedToday": false
     },
@@ -815,6 +845,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_d27ed6bf4574",
+      "category": "new_grad",
+      "company": "MJH Life Sciences®",
+      "role": "Associate Product Engineer",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a5527e7377f983ce8a9822f",
+      "postedDate": "2026-09-17",
+      "isPostedToday": false
+    },
+    {
       "id": "job_aa87cb0f70de",
       "category": "new_grad",
       "company": "MJH Life Sciences®",
@@ -825,12 +865,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_d27ed6bf4574",
+      "id": "job_e691d53e3554",
       "category": "new_grad",
-      "company": "MJH Life Sciences®",
-      "role": "Associate Product Engineer",
-      "location": "United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a5527e7377f983ce8a9822f",
+      "company": "Motion Control",
+      "role": "Software Engineer I",
+      "location": "Bellevue, WA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aacc91c95c707f49dff23f1",
       "postedDate": "2026-09-17",
       "isPostedToday": false
     },
@@ -1215,6 +1255,16 @@
       "isPostedToday": true
     },
     {
+      "id": "job_1ec72efce69d",
+      "category": "new_grad",
+      "company": "Safeway",
+      "role": "Front End Entry Level",
+      "location": "Bothell, WA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aa080e8500b01124c779812",
+      "postedDate": "2026-09-17",
+      "isPostedToday": false
+    },
+    {
       "id": "job_34452b37196d",
       "category": "new_grad",
       "company": "SEAKR",
@@ -1335,6 +1385,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_97a6c0f74664",
+      "category": "new_grad",
+      "company": "SpaceX",
+      "role": "Software Engineer (Starlink)",
+      "location": "Redmond, WA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a4323d438fa630841050552",
+      "postedDate": "2026-09-17",
+      "isPostedToday": false
+    },
+    {
       "id": "job_e9c1c34017b4",
       "category": "new_grad",
       "company": "SpaceX",
@@ -1361,16 +1421,6 @@
       "role": "Software Engineer (Starlink)",
       "location": "Redmond, WA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a53be0d8ef95364ead93254",
-      "postedDate": "2026-09-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_97a6c0f74664",
-      "category": "new_grad",
-      "company": "SpaceX",
-      "role": "Software Engineer (Starlink)",
-      "location": "Redmond, WA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a4323d438fa630841050552",
       "postedDate": "2026-09-17",
       "isPostedToday": false
     },
@@ -1535,6 +1585,16 @@
       "isPostedToday": true
     },
     {
+      "id": "job_6e7e30ffba04",
+      "category": "new_grad",
+      "company": "TRM Labs",
+      "role": "University Grad – Product Engineer (2026-2027) - Los Angeles or San Francisco",
+      "location": "Los Angeles, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a5eee1bf29acc1a11749da8",
+      "postedDate": "2026-09-17",
+      "isPostedToday": false
+    },
+    {
       "id": "job_89115ea2c992",
       "category": "new_grad",
       "company": "Twitch",
@@ -1605,12 +1665,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_2cbc85fb881f",
+      "id": "job_43d8effae488",
       "category": "new_grad",
       "company": "Viasat",
       "role": "Embedded Software Engineer",
       "location": "Duluth, GA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a9e4272a7ba386c5d671919",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a9e3b0749f4604c7894decc",
       "postedDate": "2026-09-17",
       "isPostedToday": false
     },
@@ -1945,22 +2005,22 @@
       "isPostedToday": false
     },
     {
+      "id": "job_6338b143b7fa",
+      "category": "new_grad",
+      "company": "Albertsons Companies",
+      "role": "Front End Entry Level",
+      "location": "Bolingbrook, IL, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a7150ac9a0ca4480c7d3d50",
+      "postedDate": "2026-09-16",
+      "isPostedToday": false
+    },
+    {
       "id": "job_2e3937b03057",
       "category": "new_grad",
       "company": "Albertsons Companies",
       "role": "Front End Entry Level",
       "location": "Pullman, WA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a7dd140b56bea5779c01db9",
-      "postedDate": "2026-09-16",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_7f928740404d",
-      "category": "new_grad",
-      "company": "Albertsons Companies",
-      "role": "Front End Entry Level",
-      "location": "Aberdeen, WA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a7f3866927c79391ad07218",
       "postedDate": "2026-09-16",
       "isPostedToday": false
     },
@@ -1975,22 +2035,22 @@
       "isPostedToday": false
     },
     {
+      "id": "job_7f928740404d",
+      "category": "new_grad",
+      "company": "Albertsons Companies",
+      "role": "Front End Entry Level",
+      "location": "Aberdeen, WA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a7f3866927c79391ad07218",
+      "postedDate": "2026-09-16",
+      "isPostedToday": false
+    },
+    {
       "id": "job_15a98654c8bb",
       "category": "new_grad",
       "company": "Albertsons Companies",
       "role": "Front End Entry Level",
       "location": "Kirkland, WA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a83332f2dbaf907b0767077",
-      "postedDate": "2026-09-16",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_6338b143b7fa",
-      "category": "new_grad",
-      "company": "Albertsons Companies",
-      "role": "Front End Entry Level",
-      "location": "Bolingbrook, IL, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a7150ac9a0ca4480c7d3d50",
       "postedDate": "2026-09-16",
       "isPostedToday": false
     },
@@ -2655,12 +2715,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_1ed336a2871a",
+      "id": "job_fa7a4bbf4ba6",
       "category": "new_grad",
       "company": "Freddie Mac",
       "role": "Single Family Software Development Analyst",
       "location": "McLean, VA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a70a7f6cb96192a36844ac4",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a9f4279dacf777321a94602",
       "postedDate": "2026-09-16",
       "isPostedToday": false
     },
@@ -2815,22 +2875,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_6a482109249b",
-      "category": "new_grad",
-      "company": "ICE",
-      "role": "Analyst, Infrastructure Development & Automation",
-      "location": "Atlanta, GA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a83e931e021cc586fb68ec6",
-      "postedDate": "2026-09-16",
-      "isPostedToday": false
-    },
-    {
       "id": "job_720862f5fe91",
       "category": "new_grad",
       "company": "ICE",
       "role": "Analyst, Infrastructure Development & Automation",
       "location": "Chicago, IL, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a83ed5d6cd9495f31074571",
+      "postedDate": "2026-09-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_6a482109249b",
+      "category": "new_grad",
+      "company": "ICE",
+      "role": "Analyst, Infrastructure Development & Automation",
+      "location": "Atlanta, GA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a83e931e021cc586fb68ec6",
       "postedDate": "2026-09-16",
       "isPostedToday": false
     },
@@ -3025,16 +3085,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_47be9ca9521b",
-      "category": "new_grad",
-      "company": "Lockheed Martin",
-      "role": "Software Engineer",
-      "location": "Offutt Air Force Base, NE, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a905ab20bd89e205d249c9f",
-      "postedDate": "2026-09-16",
-      "isPostedToday": false
-    },
-    {
       "id": "job_18455a30ad13",
       "category": "new_grad",
       "company": "Lockheed Martin",
@@ -3045,12 +3095,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_a8a21805fd67",
+      "id": "job_47be9ca9521b",
       "category": "new_grad",
       "company": "Lockheed Martin",
-      "role": "Software Engineer - E2",
-      "location": "King of Prussia, PA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a8ca8d525fc4e7ae3db9af4",
+      "role": "Software Engineer",
+      "location": "Offutt Air Force Base, NE, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a905ab20bd89e205d249c9f",
       "postedDate": "2026-09-16",
       "isPostedToday": false
     },
@@ -3065,22 +3115,32 @@
       "isPostedToday": false
     },
     {
-      "id": "job_7af4e265d021",
-      "category": "new_grad",
-      "company": "Lockheed Martin",
-      "role": "Software Engineer - E2",
-      "location": "Orlando, FL, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a954042c12c90443efce68c",
-      "postedDate": "2026-09-16",
-      "isPostedToday": false
-    },
-    {
       "id": "job_ae9f8346bacf",
       "category": "new_grad",
       "company": "Lockheed Martin",
       "role": "Software Engineer - E2",
       "location": "Liverpool, New York, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a91d94dc12c90443efc8873",
+      "postedDate": "2026-09-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_a8a21805fd67",
+      "category": "new_grad",
+      "company": "Lockheed Martin",
+      "role": "Software Engineer - E2",
+      "location": "King of Prussia, PA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a8ca8d525fc4e7ae3db9af4",
+      "postedDate": "2026-09-16",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_7af4e265d021",
+      "category": "new_grad",
+      "company": "Lockheed Martin",
+      "role": "Software Engineer - E2",
+      "location": "Orlando, FL, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a954042c12c90443efce68c",
       "postedDate": "2026-09-16",
       "isPostedToday": false
     },
@@ -3835,12 +3895,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_aac227b6ec8d",
+      "id": "job_ae108503cb4b",
       "category": "new_grad",
       "company": "Sun Life",
       "role": "Cloud Engineer",
       "location": "Waterloo, ON, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6aaaca7a76707040fb082418",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aaac334f6bd9d2d17c194c6",
       "postedDate": "2026-09-16",
       "isPostedToday": false
     },
@@ -4955,22 +5015,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_92536e0f5606",
-      "category": "new_grad",
-      "company": "PayPal",
-      "role": "Software Engineer",
-      "location": "San Jose, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6aa48855422289703bd66f2a",
-      "postedDate": "2026-09-15",
-      "isPostedToday": false
-    },
-    {
       "id": "job_5b06e76d5143",
       "category": "new_grad",
       "company": "PayPal",
       "role": "Software Engineer",
       "location": "Austin, TX, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6aa9ba2b3387a3d9b67d6636",
+      "postedDate": "2026-09-15",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_92536e0f5606",
+      "category": "new_grad",
+      "company": "PayPal",
+      "role": "Software Engineer",
+      "location": "San Jose, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aa48855422289703bd66f2a",
       "postedDate": "2026-09-15",
       "isPostedToday": false
     },
@@ -21755,16 +21815,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_d360e610493b",
-      "category": "new_grad",
-      "company": "🔥 SpaceX",
-      "role": "Software Engineer New Grad - Software",
-      "location": "Brownsville, TX",
-      "applicationUrl": "https://boards.greenhouse.io/spacex/jobs/8729121002",
-      "postedDate": "2026-08-19",
-      "isPostedToday": false
-    },
-    {
       "id": "job_0059c355f24d",
       "category": "new_grad",
       "company": "🔥 SpaceX",
@@ -21921,16 +21971,6 @@
       "role": "Software Engineering Intern",
       "location": "LA",
       "applicationUrl": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008",
-      "postedDate": "2026-08-19",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_2508ebe8c012",
-      "category": "intern",
-      "company": "Goldman Sachs",
-      "role": "AWM Product Management Analyst Intern",
-      "location": "Dallas, TX",
-      "applicationUrl": "https://higher.gs.com/roles/171513?type=students",
       "postedDate": "2026-08-19",
       "isPostedToday": false
     },
