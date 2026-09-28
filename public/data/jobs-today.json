@@ -1,19 +1,687 @@
 {
-  "generatedAt": "2026-09-28T04:21:22-5",
+  "generatedAt": "2026-09-28T10:30:48-5",
   "timezone": "America/Chicago",
   "jobs": [
     {
-      "id": "job_8fcd5e514349",
+      "id": "job_513b55d7c03b",
       "category": "new_grad",
-      "company": "UST HealthProof",
-      "role": "Junior Full Stack Developer (Data CoE)",
-      "location": "Bellevue, WA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6aba127dcc01395d1d22a516",
+      "company": "CGI",
+      "role": "Java Developer",
+      "location": "Toronto, ON, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aba33565ee32e740e3a4e6f",
       "postedDate": "2026-09-28",
       "isPostedToday": true,
-      "firstSeenAt": "2026-09-28T04:21:22-5",
-      "lastSeenAt": "2026-09-28T04:21:22-5",
+      "firstSeenAt": "2026-09-28T10:30:48-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
       "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_131d2803b44f",
+      "category": "new_grad",
+      "company": "Clark Associates",
+      "role": "Quality Assurance Specialist",
+      "location": "Hagerstown, MD, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aba5dd9ee0b348be72993bb",
+      "postedDate": "2026-09-28",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-28T10:30:48-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_425f70973555",
+      "category": "new_grad",
+      "company": "CLEAR",
+      "role": "Software Engineer, Infrastructure",
+      "location": "New York, New York, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a2c84d2d3ec94183f4bd72a",
+      "postedDate": "2026-09-28",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-28T10:30:48-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_488be348d836",
+      "category": "new_grad",
+      "company": "CLEAR",
+      "role": "Software Engineer, Infrastructure",
+      "location": "New York, NY, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a526d928ef95364ead8e4b6",
+      "postedDate": "2026-09-28",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-28T10:30:48-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_6f931157499a",
+      "category": "new_grad",
+      "company": "Giga",
+      "role": "Software Engineer I / II",
+      "location": "New York",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a574e9cf7517b519ad59dad",
+      "postedDate": "2026-09-28",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-28T10:30:48-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_7864ada12fdc",
+      "category": "new_grad",
+      "company": "Giga",
+      "role": "Software Engineer I / II",
+      "location": "San Francisco",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a5945b663a8f619507c175b",
+      "postedDate": "2026-09-28",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-28T10:30:48-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_54fff4a1419d",
+      "category": "new_grad",
+      "company": "Giga",
+      "role": "Software Engineer I / II - San Francisco",
+      "location": "San Francisco, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a57ed969838a11e5d835aa7",
+      "postedDate": "2026-09-28",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-28T10:30:48-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_c1d045cf68dd",
+      "category": "new_grad",
+      "company": "John Deere",
+      "role": "Embedded Software Engineer",
+      "location": "Urbandale, IA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ab1b92623005eee3545c5bf",
+      "postedDate": "2026-09-28",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-28T10:30:48-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_c6a62797df94",
+      "category": "new_grad",
+      "company": "North Carolina Department of Agriculture and Consumer Services",
+      "role": "Applications Programmer Analyst",
+      "location": "Fort Myers, FL, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aba5e21ee0b348be72993d1",
+      "postedDate": "2026-09-28",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-28T10:30:48-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_1ec72efce69d",
+      "category": "new_grad",
+      "company": "Safeway",
+      "role": "Front End Entry Level",
+      "location": "Bothell, WA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aa080e8500b01124c779812",
+      "postedDate": "2026-09-28",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-28T10:30:48-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_75d3d63a9f22",
+      "category": "new_grad",
+      "company": "TikTok",
+      "role": "(General hire) Backend Software Engineer Graduate (Trust & Safety) - 2027 Start",
+      "location": "Seattle",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aa7e3c6930bff471a2a43b9",
+      "postedDate": "2026-09-28",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-28T10:30:48-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_e226e5b665de",
+      "category": "new_grad",
+      "company": "Torentify",
+      "role": "Software Engineer,C/C++. (Remote)",
+      "location": "Wichita, KS, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aba602e7220f52e62ae60b5",
+      "postedDate": "2026-09-28",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-28T10:30:48-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_c262fd4bbab8",
+      "category": "new_grad",
+      "company": "Wolverine Trading",
+      "role": "Software Engineer – N-Tiered Software Developer",
+      "location": "Chicago, IL, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a535752d007ee02d95fb1da",
+      "postedDate": "2026-09-28",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-28T10:30:48-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_77c18845bc3d",
+      "category": "new_grad",
+      "company": "Boom Supersonic",
+      "role": "Software Engineer (Early Career, Exceptional Talent)",
+      "location": "Centennial, CO, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a81da2f927c79391ad19899",
+      "postedDate": "2026-09-27",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-27T13:26:10-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 27"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_3154573c5ee2",
+      "category": "new_grad",
+      "company": "Serco",
+      "role": "Power Platforms Junior Engineer",
+      "location": "Washington, DC, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ab5eda2d85922de20ce3c40",
+      "postedDate": "2026-09-27",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-27T09:00:56-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 27"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_3f0775209427",
+      "category": "new_grad",
+      "company": "John Deere",
+      "role": "Embedded Software Engineer Job Details / John Deere",
+      "location": "Urbandale, IA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ab39231c5639c061c450b3a",
+      "postedDate": "2026-09-23",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-23T06:40:43-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 23"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_8a361910b3ad",
+      "category": "new_grad",
+      "company": "Safeway",
+      "role": "Front End Entry Level",
+      "location": "SeaTac, WA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ab44708d2f5fbd604be2993",
+      "postedDate": "2026-09-22",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-23T18:23:03-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 22"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 23"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 24"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 25"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 26"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 27"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_70871625b664",
+      "category": "new_grad",
+      "company": "John Deere",
+      "role": "Embedded Software Engineer Job Details / John Deere",
+      "location": "Dubuque, IA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aa62cb542411952ff9abc86",
+      "postedDate": "2026-09-21",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-21T21:44:55-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 21"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_e3a472adf9fd",
+      "category": "new_grad",
+      "company": "John Deere",
+      "role": "Engineer, Software",
+      "location": "Waterloo, IA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a85c1a7e459fa3baa8639cf",
+      "postedDate": "2026-09-21",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-21T21:44:55-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 21"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_abceb230b29c",
+      "category": "new_grad",
+      "company": "SpaceX",
+      "role": "Full Stack Engineer, Launch Software",
+      "location": "Hawthorne, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ab1eb8923005eee3545cf31",
+      "postedDate": "2026-09-21",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-21T23:59:28-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 21"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 22"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_e3b61e31f77a",
+      "category": "new_grad",
+      "company": "Albertsons Companies",
+      "role": "Front End Entry Level",
+      "location": "Joliet, IL, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a7379276a034212ea027be3",
+      "postedDate": "2026-09-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-16T17:57:37-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 16"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 17"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 18"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 20"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 22"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 23"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 24"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 25"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 27"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_7f928740404d",
+      "category": "new_grad",
+      "company": "Albertsons Companies",
+      "role": "Front End Entry Level",
+      "location": "Aberdeen, WA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a7f3866927c79391ad07218",
+      "postedDate": "2026-09-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-16T17:57:37-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 16"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 17"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 18"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 19"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 21"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 22"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 23"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 25"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 26"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 27"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_331437682598",
+      "category": "new_grad",
+      "company": "Albertsons Companies",
+      "role": "Front End Entry Level",
+      "location": "Pullman, WA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a7dd30f0cd4a0703257c03f",
+      "postedDate": "2026-09-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-16T17:57:37-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 16"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 17"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 18"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 20"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 22"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 23"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 25"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 26"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 27"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_2e3937b03057",
+      "category": "new_grad",
+      "company": "Albertsons Companies",
+      "role": "Front End Entry Level",
+      "location": "Pullman, WA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a7dd140b56bea5779c01db9",
+      "postedDate": "2026-09-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-16T17:57:37-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 16"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 17"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 18"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 20"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 21"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 22"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 24"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 25"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 27"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        }
+      ]
+    },
+    {
+      "id": "job_6338b143b7fa",
+      "category": "new_grad",
+      "company": "Albertsons Companies",
+      "role": "Front End Entry Level",
+      "location": "Bolingbrook, IL, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a7150ac9a0ca4480c7d3d50",
+      "postedDate": "2026-09-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-16T17:57:37-5",
+      "lastSeenAt": "2026-09-28T10:30:48-5",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 16"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 17"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 20"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 21"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 22"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 23"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 24"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 25"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 27"
+        },
         {
           "sourceId": "jobright_new_grad_2026",
           "sourcePostedText": "Sep 28"
