@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-27T22:25:54-5",
+  "generatedAt": "2026-10-28T03:36:09-5",
   "timezone": "America/Chicago",
   "pageSize": 50,
-  "totalJobs": 4935,
+  "totalJobs": 4946,
   "jobs": [
     {
       "id": "job_2a423eb81dd8",
@@ -45,6 +45,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_e0a36031645f",
+      "category": "new_grad",
+      "company": "Boeing",
+      "role": "Software Engineer 🇺🇸",
+      "location": "Maryland Heights, MO",
+      "applicationUrl": "https://go.vansh.nyc/X2?s=A",
+      "postedDate": "2026-10-28",
+      "isPostedToday": true
+    },
+    {
       "id": "job_bc52d2f4183a",
       "category": "new_grad",
       "company": "Charles River Associates (CRA)",
@@ -52,7 +62,17 @@
       "location": "5 locations Boston, MA, Chicago, IL, Dallas, TX, New York, NY, Washington, DC",
       "applicationUrl": "https://go.vansh.nyc/WZ?s=A",
       "postedDate": "2026-10-28",
-      "isPostedToday": false
+      "isPostedToday": true
+    },
+    {
+      "id": "job_e18fe003c9f1",
+      "category": "intern",
+      "company": "Daimler Truck",
+      "role": "Software Release Management Intern",
+      "location": "Portland, OR",
+      "applicationUrl": "https://go.vansh.nyc/Xd?s=y",
+      "postedDate": "2026-10-28",
+      "isPostedToday": true
     },
     {
       "id": "job_0315742ea18a",
@@ -62,7 +82,37 @@
       "location": "Philadelphia, PA",
       "applicationUrl": "https://go.vansh.nyc/X0?s=A",
       "postedDate": "2026-10-28",
-      "isPostedToday": false
+      "isPostedToday": true
+    },
+    {
+      "id": "job_16eacb28b74c",
+      "category": "new_grad",
+      "company": "StarTree",
+      "role": "Software Engineer 1",
+      "location": "Remote in USA",
+      "applicationUrl": "https://job-boards.greenhouse.io/startree/jobs/6235909004",
+      "postedDate": "2026-10-28",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_288a156a6489",
+      "category": "intern",
+      "company": "VSP Vision",
+      "role": "Software Engineer Intern",
+      "location": "Remote in USA",
+      "applicationUrl": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068",
+      "postedDate": "2026-10-28",
+      "isPostedToday": true
+    },
+    {
+      "id": "job_260c4ddcaadb",
+      "category": "intern",
+      "company": "VSP Vision",
+      "role": "Software Engineer Intern - Technology Innovation",
+      "location": "Remote in USA",
+      "applicationUrl": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020",
+      "postedDate": "2026-10-28",
+      "isPostedToday": true
     },
     {
       "id": "job_150976538c92",
@@ -125,6 +175,106 @@
       "isPostedToday": true
     },
     {
+      "id": "job_20db5fd65152",
+      "category": "new_grad",
+      "company": "A Full Renovation – Project Services",
+      "role": "Software Engineer",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae195a467c31ab3489a3e36",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_922e676538b8",
+      "category": "new_grad",
+      "company": "A Full Renovation – Project Services",
+      "role": "Software Engineer",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae195a4829a3bada15fdf49",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_f64edb321912",
+      "category": "new_grad",
+      "company": "A Full Renovation – Project Services",
+      "role": "Software Engineer",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae195a305a39c3e2c713606",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_aa493f618ba2",
+      "category": "new_grad",
+      "company": "A Full Renovation – Project Services",
+      "role": "Software Engineer",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae1924e6679108488c44460",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_eebff414365b",
+      "category": "new_grad",
+      "company": "A Full Renovation – Project Services",
+      "role": "Software Engineer",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae1923a829a3bada15fde7d",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_36c025f3e199",
+      "category": "new_grad",
+      "company": "A Full Renovation – Project Services",
+      "role": "Software Engineer",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae192321f9d9308370aaf34",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_fae9a15ba575",
+      "category": "new_grad",
+      "company": "A Full Renovation – Project Services",
+      "role": "Software Engineer",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae1922e05a39c3e2c713543",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_3f3166b6b4d3",
+      "category": "new_grad",
+      "company": "A Full Renovation – Project Services",
+      "role": "Software Engineer",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae1922967c31ab3489a3d7f",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_06ef93755661",
+      "category": "new_grad",
+      "company": "A Full Renovation – Project Services",
+      "role": "Software Engineer",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae1922005a39c3e2c713542",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_dffac1eec3b0",
+      "category": "new_grad",
+      "company": "A Full Renovation – Project Services",
+      "role": "Software Engineer",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae191ff1f9d9308370aaf27",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
       "id": "job_99a94eab5954",
       "category": "new_grad",
       "company": "Accenture Federal Services",
@@ -132,7 +282,7 @@
       "location": "Kingstowne, VA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0d325de23f466ec8b8ec2",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_0b2421953d6f",
@@ -142,7 +292,7 @@
       "location": "Hanover, MD, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ad25d2df04335fc70ed5184",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_feb297073a54",
@@ -152,7 +302,7 @@
       "location": "San Diego, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6abbd980d6acfd3dd29fa247",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_fcdc2c965a31",
@@ -162,7 +312,7 @@
       "location": "San Diego, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6abbd9893217d1d13329b417",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_874fd7d39df0",
@@ -172,7 +322,27 @@
       "location": "San Francisco, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0e1a2de23f466ec8b9da9",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_edd49ba3c7c5",
+      "category": "new_grad",
+      "company": "Agave",
+      "role": "Full-Stack Software Engineer New Grad",
+      "location": "SF",
+      "applicationUrl": "https://jobs.ashbyhq.com/agave/73bd2c98-bf87-4eaa-aea8-35e7b6131d0e/application?embed=true",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_1d9ea95399dc",
+      "category": "new_grad",
+      "company": "Agave",
+      "role": "New Grad: Full-Stack Software Engineer",
+      "location": "San Francisco, CA",
+      "applicationUrl": "https://go.vansh.nyc/Xc?s=A",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_2986d3d8214c",
@@ -192,7 +362,7 @@
       "location": "Huntsville, AL, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0d3dc5a5afc94bd2c78de",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_2365382e82f3",
@@ -202,7 +372,7 @@
       "location": "Reston, VA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae113841f9d9308370a776b",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_0d64b606d980",
@@ -212,7 +382,27 @@
       "location": "Seattle, WA, East Palo Alto, CA",
       "applicationUrl": "https://go.vansh.nyc/WF?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_136d43208f87",
+      "category": "new_grad",
+      "company": "Amazon",
+      "role": "Software Development Engineer - 2026 (US)",
+      "location": "Seattle, Washington, USA",
+      "applicationUrl": "https://jobright.ai/jobs/info/698c183c0f6f7e7a2ce7aad3",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_5c7d7eaf4277",
+      "category": "new_grad",
+      "company": "Amazon",
+      "role": "Software Development Engineer - 2026 (US)",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a5852203330ca6f993c3f98",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_b4eb5aa38bda",
@@ -222,7 +412,7 @@
       "location": "Madison, WI, Boston, MA",
       "applicationUrl": "https://go.vansh.nyc/VN?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_68c2964b22a1",
@@ -232,7 +422,7 @@
       "location": "Lakewood, CO, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae1137867c31ab3489a0587",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_e1d8f3ccb7b0",
@@ -242,7 +432,7 @@
       "location": "San Jose, CA",
       "applicationUrl": "https://go.vansh.nyc/WL?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_d5a9adad5d2e",
@@ -252,7 +442,7 @@
       "location": "New York, NY",
       "applicationUrl": "https://go.vansh.nyc/VV?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_057693acbcaf",
@@ -262,7 +452,7 @@
       "location": "San Francisco, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0d35005a39c3e2c70ccb6",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_47e569ba9641",
@@ -272,7 +462,7 @@
       "location": "San Jose, CA",
       "applicationUrl": "https://go.vansh.nyc/Wr?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_bc250b4f9446",
@@ -282,7 +472,7 @@
       "location": "Bothell, WA, Dallas, TX, Alpharetta, GA",
       "applicationUrl": "https://go.vansh.nyc/WI?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_db2ab84dc1bb",
@@ -292,7 +482,7 @@
       "location": "Mountain View, CA",
       "applicationUrl": "https://go.vansh.nyc/VZ?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_f85154ec6230",
@@ -302,7 +492,7 @@
       "location": "Toronto, ON, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0e1b31f9d9308370a53f4",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_28f92acdf902",
@@ -312,7 +502,7 @@
       "location": "El Segundo, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adfbb390a4cc7090f982847",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_9de8f798fef8",
@@ -322,7 +512,7 @@
       "location": "McLean, VA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ac3f1188ff3fb9b3bc831b0",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_40fd187c7b22",
@@ -332,7 +522,7 @@
       "location": "Eden Prairie, MN",
       "applicationUrl": "https://go.vansh.nyc/VO?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_a2af0dac5d34",
@@ -342,7 +532,7 @@
       "location": "Tysons, VA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ad667ca3dc655658d8e5b09",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_26570a586196",
@@ -352,7 +542,7 @@
       "location": "Redwood City, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6aa824353a9f0a4fe6f177f4",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_c3fc06ec80fc",
@@ -362,7 +552,7 @@
       "location": "Redwood City, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6aa8242b3a9f0a4fe6f177ec",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_a27024a6f848",
@@ -372,7 +562,7 @@
       "location": "Sarasota, FL",
       "applicationUrl": "https://go.vansh.nyc/VM?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_b2ece16b0e6e",
@@ -382,7 +572,7 @@
       "location": "Bethesda, MD, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0bcce1f9d9308370a36e7",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_1c721af523a4",
@@ -392,17 +582,17 @@
       "location": "Chicago, IL, Kansas City, MO, New York, NY",
       "applicationUrl": "https://go.vansh.nyc/W4?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
-      "id": "job_bff46340556a",
+      "id": "job_084dbd2e49a3",
       "category": "intern",
       "company": "Cencora",
       "role": "AI Intern",
       "location": "Conshohocken, PA",
-      "applicationUrl": "https://go.vansh.nyc/Vc?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_bb07e92c6cc7",
@@ -412,7 +602,7 @@
       "location": "Sunnyvale, CA",
       "applicationUrl": "https://go.vansh.nyc/Vo?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_2af70b8d10c3",
@@ -422,7 +612,17 @@
       "location": "Sunnyvale, CA",
       "applicationUrl": "https://go.vansh.nyc/Vp?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_0afefc94fdc9",
+      "category": "intern",
+      "company": "Certa",
+      "role": "Frontend Engineer Intern",
+      "location": "San Francisco, CA",
+      "applicationUrl": "https://go.vansh.nyc/Xa?s=y",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_4dcc087516b2",
@@ -432,7 +632,17 @@
       "location": "Devens, MA",
       "applicationUrl": "https://go.vansh.nyc/VW?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_aca981b7fb63",
+      "category": "new_grad",
+      "company": "CGI",
+      "role": "Angular Developer",
+      "location": "Washington, DC, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae1591fde23f466ec8be150",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_11cbb46334c6",
@@ -442,7 +652,27 @@
       "location": "Austin, TX, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0c0431f9d9308370a384e",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_d7bf2c26df81",
+      "category": "intern",
+      "company": "chathamfinancial",
+      "role": "Software Engineering Intern",
+      "location": "Denver, CO",
+      "applicationUrl": "https://go.vansh.nyc/X5?s=y",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_8266b8d50767",
+      "category": "intern",
+      "company": "chathamfinancial",
+      "role": "Software Engineering Intern",
+      "location": "Kennett Square, PA",
+      "applicationUrl": "https://go.vansh.nyc/X6?s=y",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_ef4799009dcd",
@@ -452,7 +682,7 @@
       "location": "New York City, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0daed829a3bada15f7dbe",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_29b0c4c76488",
@@ -462,7 +692,7 @@
       "location": "San Francisco, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a3c80538bfad862bc99aa16",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_9f504a1b6357",
@@ -492,7 +722,7 @@
       "location": "Waltham, MA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ac3c4a98ff3fb9b3bc82078",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_1128d08c3686",
@@ -502,7 +732,17 @@
       "location": "United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ace77e8ba99f15ef4124e4f",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_72d9c71037a7",
+      "category": "new_grad",
+      "company": "Cortrucent Security",
+      "role": "Junior Full Stack Engineer",
+      "location": "Berlin, NJ, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae17d856679108488c43f83",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_601e9fc3733b",
@@ -512,7 +752,7 @@
       "location": "Irvine, CA",
       "applicationUrl": "https://go.vansh.nyc/Vr?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_70ed6bf4229b",
@@ -522,7 +762,7 @@
       "location": "Remote, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0ef051f9d9308370a5c49",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_497abf42e28a",
@@ -532,7 +772,7 @@
       "location": "Chicago, IL, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0ae891f9d9308370a2e2d",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_3bcef11cd1f9",
@@ -542,7 +782,7 @@
       "location": "Chicago, IL, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0aea6829a3bada15f5d54",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_7356d05ebffa",
@@ -552,7 +792,7 @@
       "location": "New York, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0ae88de23f466ec8b7828",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_b4a0356604be",
@@ -592,7 +832,7 @@
       "location": "Chicago, IL",
       "applicationUrl": "https://go.vansh.nyc/VK?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_2f71a22cebdf",
@@ -602,7 +842,7 @@
       "location": "Chicago, IL",
       "applicationUrl": "https://go.vansh.nyc/VL?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_75e68fadfe97",
@@ -612,7 +852,7 @@
       "location": "Bellevue, WA, Mountain View, CA",
       "applicationUrl": "https://go.vansh.nyc/WB?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_f25ab18b5c3e",
@@ -622,7 +862,7 @@
       "location": "Bellevue, WA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae103906679108488c400e1",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_160de2b3c0af",
@@ -632,7 +872,7 @@
       "location": "Bellevue, WA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae1082567c31ab34899fca3",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_34182d0a4c79",
@@ -642,7 +882,7 @@
       "location": "Okemos, MI",
       "applicationUrl": "https://go.vansh.nyc/VS?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_baaa0057bea0",
@@ -652,7 +892,7 @@
       "location": "United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6aa460281d92e2d05d1148ad",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_1e48ba5276a9",
@@ -662,7 +902,7 @@
       "location": "London, England, United Kingdom",
       "applicationUrl": "https://jobright.ai/jobs/info/6abb80d85716c5ea52d06c94",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_6a171cb74290",
@@ -672,7 +912,7 @@
       "location": "Austin, TX",
       "applicationUrl": "https://go.vansh.nyc/WK?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_68c949813df9",
@@ -682,7 +922,7 @@
       "location": "Austin, TX",
       "applicationUrl": "https://go.vansh.nyc/WG?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_6921ccc527f0",
@@ -692,7 +932,7 @@
       "location": "Remote, United States",
       "applicationUrl": "https://go.vansh.nyc/VF?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_cdcf5fb15a18",
@@ -702,7 +942,7 @@
       "location": "Plano, TX",
       "applicationUrl": "https://go.vansh.nyc/Vu?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_adadcd69f77f",
@@ -712,7 +952,7 @@
       "location": "Wheat Ridge, CO, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae129c767c31ab3489a11d3",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_bedfbf303885",
@@ -722,7 +962,7 @@
       "location": "Dallas, TX, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0f1c1829a3bada15f8de1",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_49c79cd00d58",
@@ -732,7 +972,7 @@
       "location": "Dallas, TX, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0f05367c31ab34899ebed",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_0e281241c75c",
@@ -742,7 +982,17 @@
       "location": "New York, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae09c298b6154d50cdf73f8",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_78907e6c18c5",
+      "category": "new_grad",
+      "company": "Frontgrade Technologies",
+      "role": "Test Engineer I",
+      "location": "Hauppauge, NY, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ad7d4af67bec1d0d9c797f0",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_94cad06fc773",
@@ -762,7 +1012,7 @@
       "location": "Austin, TX",
       "applicationUrl": "https://go.vansh.nyc/WW?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_6828e54f01e1",
@@ -772,7 +1022,7 @@
       "location": "Greenville, SC",
       "applicationUrl": "https://go.vansh.nyc/WJ?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_0854a75e5297",
@@ -782,7 +1032,7 @@
       "location": "Greenville, SC",
       "applicationUrl": "https://go.vansh.nyc/WH?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_e8177c09315c",
@@ -792,7 +1042,7 @@
       "location": "New York, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ac4a157064da25272e133eb",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_1ded218e3fc3",
@@ -802,7 +1052,7 @@
       "location": "Torrance, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae1124d1f9d9308370a767a",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_a11d7928816b",
@@ -822,7 +1072,7 @@
       "location": "SF",
       "applicationUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6116396004",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_aa6e92b5f028",
@@ -832,7 +1082,17 @@
       "location": "SF",
       "applicationUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6114741004",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_63b424d8ae1b",
+      "category": "new_grad",
+      "company": "HPCA (Health Professional Councils Authority)",
+      "role": "Developer – Applications and Integration",
+      "location": "Newcastle, New South Wales, Australia",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae1773a6679108488c43d15",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_59198817c7bb",
@@ -842,7 +1102,7 @@
       "location": "Armonk, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ac774020e573df8adc72c49",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_fb1aa128fb59",
@@ -852,7 +1112,7 @@
       "location": "Armonk, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0bad0de23f466ec8b7f5e",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_eaf5ce4c07ca",
@@ -862,7 +1122,7 @@
       "location": "Mountain View, CA",
       "applicationUrl": "https://go.vansh.nyc/W3?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_3fd734e5a028",
@@ -872,7 +1132,7 @@
       "location": "Mountain View, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ace74b14391691a335ac995",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_d6a70226c173",
@@ -882,7 +1142,7 @@
       "location": "Mountain View, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ad6e6c63dc655658d8e99bc",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_c38a0e443fd6",
@@ -892,7 +1152,17 @@
       "location": "London, England, United Kingdom",
       "applicationUrl": "https://jobright.ai/jobs/info/6aa9b90b09ae03adcacdeae9",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_47347d9f634b",
+      "category": "new_grad",
+      "company": "Intel",
+      "role": "Compiler Engineer - Triton and DSLs",
+      "location": "Toronto, Ontario, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae15d491f9d9308370a9f28",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_cea0345c7506",
@@ -902,17 +1172,7 @@
       "location": "United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a6d23fbca1f933846602bff",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
-    },
-    {
-      "id": "job_892d4d2564d3",
-      "category": "new_grad",
-      "company": "ITA International",
-      "role": "Junior Power Platform Developer",
-      "location": "US",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a3442eb649fdf16292f4eed",
-      "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_caad3894035f",
@@ -922,7 +1182,17 @@
       "location": "Newport News, VA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6aaca8d03d96632d741ab9c1",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_892d4d2564d3",
+      "category": "new_grad",
+      "company": "ITA International",
+      "role": "Junior Power Platform Developer",
+      "location": "US",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a3442eb649fdf16292f4eed",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_b991c66231c9",
@@ -932,7 +1202,7 @@
       "location": "Liberty Lake, WA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adc73c446a8cabdc1ff7304",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_eaff961c0d73",
@@ -942,7 +1212,7 @@
       "location": "Deerfield Beach, FL",
       "applicationUrl": "https://go.vansh.nyc/VR?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_5710354eec27",
@@ -952,7 +1222,7 @@
       "location": "Plano, TX",
       "applicationUrl": "",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_bf0aa3fb0017",
@@ -962,7 +1232,7 @@
       "location": "Grovetown, GA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a6a2dcc48355b3f12bef836",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_ade390773565",
@@ -972,7 +1242,7 @@
       "location": "Laurel, MD",
       "applicationUrl": "https://go.vansh.nyc/Wt?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_918735c3e2fa",
@@ -992,7 +1262,7 @@
       "location": "Washington, DC, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a9677f769b865490a632393",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_2c71b8df15ed",
@@ -1002,7 +1272,7 @@
       "location": "Santa Rosa, CA",
       "applicationUrl": "https://go.vansh.nyc/WE?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_d8b26f8b8991",
@@ -1012,7 +1282,7 @@
       "location": "Arlington, VA, Washington, DC, Camp Springs, MD",
       "applicationUrl": "https://go.vansh.nyc/W5?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_6de7f91d4fde",
@@ -1022,7 +1292,7 @@
       "location": "New Orleans, LA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0d3c6829a3bada15f7514",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_59fa2a5721af",
@@ -1032,7 +1302,7 @@
       "location": "Bellevue, WA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae12c2567c31ab3489a132e",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_5d6e3e1e6c19",
@@ -1042,7 +1312,7 @@
       "location": "Long Island City, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a8ce36d1d96e6541c8c362e",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_d7573cabc7ce",
@@ -1052,17 +1322,7 @@
       "location": "Marietta, GA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adf90d95dc7953215a404f8",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
-    },
-    {
-      "id": "job_a0ebc22eb80c",
-      "category": "new_grad",
-      "company": "Lockheed Martin",
-      "role": "Software Engineer - Early Career",
-      "location": "King of Prussia, PA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6adfd50d5dc7953215a43635",
-      "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_73200af36e0e",
@@ -1072,7 +1332,17 @@
       "location": "Huntsville, AL, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ad5c286cfd70948fba47206",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_4279306e8309",
+      "category": "new_grad",
+      "company": "Lockheed Martin",
+      "role": "Software Engineer - Early Career",
+      "location": "King of Prussia, PA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6adfd4f7c5c64fa3d9cc00c4",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_e98677162243",
@@ -1082,7 +1352,7 @@
       "location": "Owego, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adfd5299a8c91d5c3589be2",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_f68e20735b3d",
@@ -1102,7 +1372,17 @@
       "location": "Ottawa, Ontario, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/6ac3fb45372c01f6cd73337a",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_75ba37336b4c",
+      "category": "new_grad",
+      "company": "Mapjects",
+      "role": "C# or C developers US citizen and GC 80 to 110K Interview Start in 1 Week",
+      "location": "Atlanta, GA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a5ddf7467b2850e77dedc23",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_921b1c799c28",
@@ -1132,7 +1412,7 @@
       "location": "San Francisco, CA",
       "applicationUrl": "https://go.vansh.nyc/WT?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_ea0606834913",
@@ -1142,7 +1422,7 @@
       "location": "San Francisco, CA",
       "applicationUrl": "https://go.vansh.nyc/WU?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_5b83fc369304",
@@ -1152,7 +1432,7 @@
       "location": "New York, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0e89c1f9d9308370a588d",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_719694677f4d",
@@ -1162,7 +1442,7 @@
       "location": "New York, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0e89f67c31ab34899e6e3",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_d50d749cde97",
@@ -1172,7 +1452,7 @@
       "location": "Boise, ID",
       "applicationUrl": "https://go.vansh.nyc/VX?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_18a884c10566",
@@ -1182,7 +1462,7 @@
       "location": "Richardson, TX",
       "applicationUrl": "https://go.vansh.nyc/VY?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_f037e8128d39",
@@ -1192,7 +1472,7 @@
       "location": "Boise, ID",
       "applicationUrl": "https://go.vansh.nyc/VP?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_d499db9c227e",
@@ -1202,7 +1482,7 @@
       "location": "Reston, VA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adf989d065c4e77efaf94e6",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_029d56099af8",
@@ -1212,17 +1492,17 @@
       "location": "Manchester, NH, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0ef6f1f9d9308370a5cb5",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
-      "id": "job_4de0f32dc68d",
+      "id": "job_8fbf159f83eb",
       "category": "new_grad",
       "company": "National Basketball Association (NBA)",
       "role": "Project Employee, Workflow Development Analyst",
       "location": "Secaucus, NJ, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ae0b9291f9d9308370a34a6",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae0b92a05a39c3e2c70bc02",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_6ef30960343b",
@@ -1232,7 +1512,7 @@
       "location": "Cincinnati, OH",
       "applicationUrl": "https://go.vansh.nyc/Wm?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_2ba3efb3c938",
@@ -1242,7 +1522,7 @@
       "location": "Cincinnati, OH",
       "applicationUrl": "https://go.vansh.nyc/Wj?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_a6f4d3129c0b",
@@ -1252,7 +1532,7 @@
       "location": "Cincinnati, OH",
       "applicationUrl": "https://go.vansh.nyc/Wg?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_be48a0478f1d",
@@ -1262,7 +1542,7 @@
       "location": "Cincinnati, OH",
       "applicationUrl": "https://go.vansh.nyc/Wd?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_f5ba4d11c755",
@@ -1272,7 +1552,7 @@
       "location": "Cincinnati, OH",
       "applicationUrl": "https://go.vansh.nyc/Wh?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_d94723ac25db",
@@ -1282,7 +1562,7 @@
       "location": "Cincinnati, OH",
       "applicationUrl": "https://go.vansh.nyc/Wi?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_8e7a7abdd1f1",
@@ -1292,7 +1572,7 @@
       "location": "Columbia Falls, MT",
       "applicationUrl": "https://go.vansh.nyc/WO?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_9198122bdf99",
@@ -1302,7 +1582,7 @@
       "location": "Boston, MA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae1056d6679108488c40291",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_a7b3a1120410",
@@ -1312,7 +1592,7 @@
       "location": "Raleigh, NC, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae12ffe05a39c3e2c710db4",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_9414d4cef425",
@@ -1322,7 +1602,7 @@
       "location": "Azusa, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae10f3067c31ab3489a026a",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_5ca3525b1100",
@@ -1332,7 +1612,7 @@
       "location": "Boulder, CO, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae10eb0de23f466ec8bbd76",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_78532ea92a59",
@@ -1342,7 +1622,7 @@
       "location": "Colorado Springs, CO, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae097400a4cc7090f987d15",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_f6088477f86d",
@@ -1352,7 +1632,7 @@
       "location": "Colorado Springs, CO, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae10ebc1f9d9308370a73d5",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_7a60e5a7b736",
@@ -1362,7 +1642,7 @@
       "location": "Huntsville, AL, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae10f0805a39c3e2c70fa9c",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_c0b422a9af66",
@@ -1372,7 +1652,7 @@
       "location": "Colorado Springs, CO",
       "applicationUrl": "https://go.vansh.nyc/Vw?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_b588b11524fb",
@@ -1382,7 +1662,7 @@
       "location": "Azusa, CA",
       "applicationUrl": "https://go.vansh.nyc/Wn?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_469caef3d5bb",
@@ -1392,7 +1672,7 @@
       "location": "Boulder, CO",
       "applicationUrl": "https://go.vansh.nyc/Wo?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_32ac43cc4c8b",
@@ -1402,7 +1682,7 @@
       "location": "Azusa, CA",
       "applicationUrl": "https://go.vansh.nyc/Wl?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_0d3cc52b8b28",
@@ -1412,7 +1692,17 @@
       "location": "Torrance, CA",
       "applicationUrl": "https://go.vansh.nyc/Vq?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_b9da98296eb6",
+      "category": "new_grad",
+      "company": "NSW Health Pathology",
+      "role": "Developer – Applications and Integration",
+      "location": "Newcastle, New South Wales, Australia",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae18f3e6679108488c44390",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_ae606553a035",
@@ -1422,7 +1712,7 @@
       "location": "Mountain View, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a3f83b8651404064c02ad77",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_6346ac846a37",
@@ -1432,7 +1722,7 @@
       "location": "Vancouver, British Columbia, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae120bf829a3bada15fad02",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_9c3ab7e0b20b",
@@ -1442,7 +1732,7 @@
       "location": "Austin, TX, / Santa Clara, TX, /, CA",
       "applicationUrl": "https://go.vansh.nyc/Vs?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_3f9528ac171d",
@@ -1452,7 +1742,7 @@
       "location": "Santa Clara, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae1218a6679108488c4149e",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_29724f8abe6d",
@@ -1462,7 +1752,7 @@
       "location": "Santa Clara, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ac53049064da25272e155ad",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_d858ee5c646c",
@@ -1472,7 +1762,7 @@
       "location": "Santa Clara, CA",
       "applicationUrl": "https://go.vansh.nyc/Wk?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_aef595508cc6",
@@ -1482,7 +1772,7 @@
       "location": "Santa Clara, CA",
       "applicationUrl": "https://go.vansh.nyc/Wq?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_f45bb1fe04cf",
@@ -1492,7 +1782,7 @@
       "location": "Berlin, DE",
       "applicationUrl": "",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_8a3dedb69e7b",
@@ -1502,7 +1792,7 @@
       "location": "New York, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ac48831d9621c5b283a1862",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_e5d10498d90d",
@@ -1512,7 +1802,7 @@
       "location": "Greater Bristol Area, United Kingdom",
       "applicationUrl": "https://jobright.ai/jobs/info/6a5683a8efb06a45240d659d",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_042c48027ade",
@@ -1522,7 +1812,7 @@
       "location": "Miami, FL, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ace95a2bb78de94580d711d",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_5be4ab050193",
@@ -1542,7 +1832,7 @@
       "location": "Mountain View, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0eab15a5afc94bd2c8bc9",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_9e422e3d0e1d",
@@ -1552,7 +1842,7 @@
       "location": "United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ad7a02052aa6152bb69d888",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_4dcfdb8ee1a1",
@@ -1572,7 +1862,7 @@
       "location": "Chillicothe, OH",
       "applicationUrl": "https://go.vansh.nyc/WV?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_6e012af4ad24",
@@ -1592,7 +1882,7 @@
       "location": "Chillicothe, OH",
       "applicationUrl": "https://go.vansh.nyc/WP?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_006ba217dfe6",
@@ -1612,7 +1902,7 @@
       "location": "Honolulu, HI, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a95ac05f28891320e85d131",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_00ace682355d",
@@ -1622,7 +1912,7 @@
       "location": "New York, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a5f65eab0f20036bc630b44",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_a7e142e06c6c",
@@ -1632,7 +1922,7 @@
       "location": "Atlanta, GA",
       "applicationUrl": "https://go.vansh.nyc/W8?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_509488ffb7b7",
@@ -1642,7 +1932,7 @@
       "location": "United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae1027e6679108488c40032",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_6e654936f506",
@@ -1652,7 +1942,7 @@
       "location": "Seattle, WA",
       "applicationUrl": "https://go.vansh.nyc/WX?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_470cf065ed06",
@@ -1662,7 +1952,7 @@
       "location": "Palo Alto, CA",
       "applicationUrl": "",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_3ebaa3775896",
@@ -1672,7 +1962,7 @@
       "location": "Washington, DC",
       "applicationUrl": "https://go.vansh.nyc/WS?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_16a704c5a1fe",
@@ -1682,7 +1972,7 @@
       "location": "Boston, MA",
       "applicationUrl": "https://go.vansh.nyc/Vf?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_c18c30647759",
@@ -1692,7 +1982,67 @@
       "location": "Boston, MA",
       "applicationUrl": "https://go.vansh.nyc/Vg?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_4e9e9b9d1062",
+      "category": "new_grad",
+      "company": "Raydar",
+      "role": "Software Engineer",
+      "location": "San Francisco, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6acd0c0ed113c967e3c7bd3e",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_959066648011",
+      "category": "new_grad",
+      "company": "Raydar",
+      "role": "Software Engineer",
+      "location": "San Francisco, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6abe535e064da25272e003df",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_d4c8971fce88",
+      "category": "new_grad",
+      "company": "Raydar",
+      "role": "Software Engineer",
+      "location": "New York, NY, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aaed6562e757fcb5c8bc0d7",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_232cc2618fd8",
+      "category": "new_grad",
+      "company": "Raydar",
+      "role": "Software Engineer",
+      "location": "New York, NY, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6abe1afd064da25272dffc09",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_9ad81fe49781",
+      "category": "new_grad",
+      "company": "Raydar",
+      "role": "Software Engineer",
+      "location": "Salt Lake City, UT, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ac425e3064da25272e116f7",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_89a59e2f9687",
+      "category": "new_grad",
+      "company": "Raydar",
+      "role": "Software Engineer",
+      "location": "New York, NY, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ad073e052a37835d5e3fe89",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_f988b1bd8260",
@@ -1702,7 +2052,7 @@
       "location": "New York, NY",
       "applicationUrl": "https://go.vansh.nyc/Vn?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_0be61c6fa68a",
@@ -1712,7 +2062,7 @@
       "location": "Milwaukee, WI, Chelmsford, MA",
       "applicationUrl": "https://go.vansh.nyc/Vd?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_0326c58b8130",
@@ -1722,7 +2072,7 @@
       "location": "Mckinney, TX",
       "applicationUrl": "https://go.vansh.nyc/VA?s=A",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_a8c20a570b02",
@@ -1732,7 +2082,7 @@
       "location": "Woburn, MA",
       "applicationUrl": "https://go.vansh.nyc/VG?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_162a2af95ffb",
@@ -1742,7 +2092,7 @@
       "location": "Marlborough, MA",
       "applicationUrl": "https://go.vansh.nyc/WQ?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_ebda482b6a8e",
@@ -1752,7 +2102,7 @@
       "location": "San Jose, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae12037de23f466ec8bc817",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_c1002c654bdb",
@@ -1762,7 +2112,7 @@
       "location": "Austin, TX, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0fa75829a3bada15f9400",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_91102f2d7b3e",
@@ -1802,7 +2152,7 @@
       "location": "United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0f15367c31ab34899ed00",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_036fbf447d6f",
@@ -1812,7 +2162,7 @@
       "location": "Richmond, BC, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/6ac3e4b98ff3fb9b3bc82d18",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_6b3c3d7ebe8b",
@@ -1822,7 +2172,37 @@
       "location": "Cleveland, OH",
       "applicationUrl": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627417",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_e2d350d33089",
+      "category": "new_grad",
+      "company": "Shield AI",
+      "role": "Autonomous Software Engineer New Grad",
+      "location": "San Diego, CA",
+      "applicationUrl": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_626000470950",
+      "category": "new_grad",
+      "company": "Shield AI",
+      "role": "New Grad 2027: Autonomous Software Engineer",
+      "location": "San Diego, CA",
+      "applicationUrl": "https://go.vansh.nyc/Xb?s=A",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_c8a65822dd57",
+      "category": "new_grad",
+      "company": "Shield AI",
+      "role": "Software Engineer 2 New Grad 🎓",
+      "location": "Washington, DC",
+      "applicationUrl": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_97061e7dddf5",
@@ -1832,7 +2212,7 @@
       "location": "Charlotte, NC, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0668e5dc7953215a46e03",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_76937d0b57c0",
@@ -1842,7 +2222,7 @@
       "location": "Sparks, NV",
       "applicationUrl": "https://go.vansh.nyc/VQ?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_f8d4bd73be51",
@@ -1852,7 +2232,7 @@
       "location": "Boston, MA",
       "applicationUrl": "https://go.vansh.nyc/Wa?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_0d2a6973bde1",
@@ -1862,7 +2242,7 @@
       "location": "Seattle, WA",
       "applicationUrl": "https://go.vansh.nyc/W9?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_975f993011ba",
@@ -1872,7 +2252,7 @@
       "location": "Hawthorne, CA",
       "applicationUrl": "https://jobright.ai/jobs/info/6a47f9b65d7b097d2df39059",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_79addf3fb73a",
@@ -1882,7 +2262,7 @@
       "location": "Hawthorne, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a70cd86e2b7476e7b20b02b",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_b69ad146bdb1",
@@ -1892,7 +2272,7 @@
       "location": "Columbus, OH, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0aef405a39c3e2c70b5ee",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_5ebb81d85ec4",
@@ -1902,7 +2282,7 @@
       "location": "Reston, VA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0f748829a3bada15f921f",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_bf1b977a77c8",
@@ -1912,7 +2292,7 @@
       "location": "Tysons Corner, VA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae133191f9d9308370a895c",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_3b5a01807720",
@@ -1922,7 +2302,7 @@
       "location": "San Jose, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6acdbbc52bd01b08973f10ad",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_c76f14fc694d",
@@ -1932,7 +2312,7 @@
       "location": "San Jose, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adae21fcb58d64fcd37163b",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_9b1823408d07",
@@ -1942,7 +2322,7 @@
       "location": "San Antonio, TX",
       "applicationUrl": "https://go.vansh.nyc/Wp?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_3294d284a387",
@@ -1952,7 +2332,17 @@
       "location": "Fremont, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae145ed67c31ab3489a1f84",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_24dcae0520e9",
+      "category": "new_grad",
+      "company": "TETRAHED INC",
+      "role": "Jr. Software Engineer - Full Time - (Strictly OPT Candidates Only)",
+      "location": "Georgia, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae1587a6679108488c42ca8",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_4e88c0a52e84",
@@ -1962,7 +2352,47 @@
       "location": "Washington, DC, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0aebe5a5afc94bd2c614c",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_623fceacd36e",
+      "category": "new_grad",
+      "company": "TETRAHED INC",
+      "role": "Jr. Software Engineer - Full Time - (Strictly OPT Candidates Only)",
+      "location": "Washington, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae163b01f9d9308370aa25a",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_c30d1d77a99e",
+      "category": "new_grad",
+      "company": "TETRAHED INC",
+      "role": "Jr. Software Engineer - Full Time - (Strictly OPT Candidates Only)",
+      "location": "Washington, District of Columbia, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae1634ade23f466ec8bebaa",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_33558fee8005",
+      "category": "new_grad",
+      "company": "TETRAHED INC",
+      "role": "Jr. Software Engineer - Full Time - (Strictly OPT Candidates Only)",
+      "location": "Virginia, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae16daf829a3bada15fd505",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_3481d4eae91a",
+      "category": "new_grad",
+      "company": "TETRAHED INC",
+      "role": "Jr. Software Engineer - Full Time - (Strictly OPT Candidates Only)",
+      "location": "California, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae16ba66679108488c43a24",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_0243feb0922b",
@@ -1972,7 +2402,7 @@
       "location": "Seattle, WA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a968cf5e4e60e4b8da595bb",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_d2ee73c09185",
@@ -1982,7 +2412,7 @@
       "location": "San Jose, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a83c46c9b859b2277670aa6",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_d9cc830cee8b",
@@ -1992,7 +2422,7 @@
       "location": "United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae139a967c31ab3489a19f0",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_846cf5b3cb27",
@@ -2002,7 +2432,7 @@
       "location": "United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0afadde23f466ec8b78d6",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_06a9a3b7f8f2",
@@ -2012,7 +2442,7 @@
       "location": "Clarksville, TN, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ace92b84391691a335ad7e2",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_6e7e30ffba04",
@@ -2022,7 +2452,7 @@
       "location": "Los Angeles, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a5eee1bf29acc1a11749da8",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_7126e7ec8a20",
@@ -2032,7 +2462,7 @@
       "location": "New York, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ad67500950ef68d51839ff7",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_c1351eda741f",
@@ -2042,17 +2472,27 @@
       "location": "New York, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a34a336649fdf16292f6b17",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
-      "id": "job_155706c6908d",
+      "id": "job_70c410f0e5de",
       "category": "new_grad",
       "company": "UST HealthProof",
-      "role": "Junior Full Stack Developer",
-      "location": "Frisco, TX, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ae149291f9d9308370a9340",
+      "role": "Junior Full Stack Developer (Data CoE)",
+      "location": "Bellevue, WA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae1818a1f9d9308370aab77",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_281ea7a553aa",
+      "category": "new_grad",
+      "company": "Viasat",
+      "role": "Embedded Software Engineer, Early Career",
+      "location": "Carlsbad, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a96b8ee246d697dcee010ec",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_1f873ba0f746",
@@ -2062,7 +2502,7 @@
       "location": "Marlborough, MA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae11cc667c31ab3489a0a96",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_b66e82a6bd7e",
@@ -2072,7 +2512,7 @@
       "location": "Foster City, CA",
       "applicationUrl": "https://go.vansh.nyc/UG?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_30da825f605a",
@@ -2082,7 +2522,7 @@
       "location": "Denver, CO",
       "applicationUrl": "https://go.vansh.nyc/VB?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_587f23a04ded",
@@ -2092,7 +2532,7 @@
       "location": "Austin, TX",
       "applicationUrl": "https://go.vansh.nyc/VC?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_9905214055d3",
@@ -2102,7 +2542,7 @@
       "location": "Bellevue, WA",
       "applicationUrl": "https://go.vansh.nyc/Vx?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_4d5304fbe63d",
@@ -2112,7 +2552,7 @@
       "location": "Foster City, CA",
       "applicationUrl": "https://go.vansh.nyc/Vy?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_ccb9a358980d",
@@ -2122,7 +2562,37 @@
       "location": "Ashburn, VA",
       "applicationUrl": "https://go.vansh.nyc/Vz?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
+    },
+    {
+      "id": "job_4cc7cae0f48c",
+      "category": "intern",
+      "company": "VSP Vision",
+      "role": "Software Engineer Intern",
+      "location": "Remote, United States",
+      "applicationUrl": "https://go.vansh.nyc/X3?s=y",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_ab86f7bb414e",
+      "category": "intern",
+      "company": "VSP Vision",
+      "role": "Software Engineer Intern, Technology Innovation",
+      "location": "Remote, United States",
+      "applicationUrl": "https://go.vansh.nyc/X8?s=y",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_620bd109f796",
+      "category": "new_grad",
+      "company": "Wabtec Corporation",
+      "role": "Wabtec Spring 2027 Software Engineering Co-Op (10-Week)",
+      "location": "Schenectady, NY, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae16ec21f9d9308370aa607",
+      "postedDate": "2026-10-27",
+      "isPostedToday": false
     },
     {
       "id": "job_766ac34069c9",
@@ -2132,7 +2602,7 @@
       "location": "Denver, CO, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae1248905a39c3e2c710646",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_adbc4f242ba0",
@@ -2142,7 +2612,7 @@
       "location": "Remote, United States",
       "applicationUrl": "https://go.vansh.nyc/W7?s=y",
       "postedDate": "2026-10-27",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_cb1f8202456a",
@@ -2492,7 +2962,7 @@
       "location": "Dahlgren, VA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0f44b829a3bada15f905a",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_4325df3ab5ff",
@@ -2502,7 +2972,7 @@
       "location": "Dahlgren, VA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0f44005a39c3e2c70e811",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_a1b1044c4c27",
@@ -2512,7 +2982,7 @@
       "location": "Colorado Springs, CO, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0f448de23f466ec8bab86",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_41a961d1edbe",
@@ -2532,7 +3002,7 @@
       "location": "Vandenberg Space Force Base, California, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0f87d829a3bada15f92d6",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_30eaf574486f",
@@ -2565,12 +3035,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_e92540947f92",
+      "id": "job_dd841192433f",
       "category": "intern",
       "company": "Apple",
       "role": "Software Engineer Intern, Core OS",
       "location": "United States",
-      "applicationUrl": "https://go.vansh.nyc/W1?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-10-26",
       "isPostedToday": false
     },
@@ -2632,7 +3102,7 @@
       "location": "Seattle, WA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adfe9bb5dc7953215a44316",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_c8f4ecf3850e",
@@ -2645,12 +3115,32 @@
       "isPostedToday": false
     },
     {
-      "id": "job_1d56be1d44b9",
+      "id": "job_498d6c9a1483",
       "category": "new_grad",
       "company": "Boeing",
       "role": "Associate Enterprise Resource Planning Information Technology Engineer",
       "location": "Hazelwood, MO, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ada8dc3950ef68d51858c96",
+      "applicationUrl": "https://jobright.ai/jobs/info/6adf9266065c4e77efaf9088",
+      "postedDate": "2026-10-26",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_4b34a7bd7ec7",
+      "category": "new_grad",
+      "company": "Boeing",
+      "role": "Associate Software Engineer",
+      "location": "Berkeley, MO, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ac684360e027c0f3b3b2cf3",
+      "postedDate": "2026-10-26",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_ec6b134d4160",
+      "category": "new_grad",
+      "company": "Boeing",
+      "role": "Associate Software Engineer",
+      "location": "Hazelwood, MO, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6adf8e8a065c4e77efaf8d4c",
       "postedDate": "2026-10-26",
       "isPostedToday": false
     },
@@ -2675,26 +3165,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_4393c9c69d4b",
-      "category": "new_grad",
-      "company": "Boeing",
-      "role": "Associate Software Engineer",
-      "location": "Berkeley, MO, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ac69737064da25272e1b55a",
-      "postedDate": "2026-10-26",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_ec6b134d4160",
-      "category": "new_grad",
-      "company": "Boeing",
-      "role": "Associate Software Engineer",
-      "location": "Hazelwood, MO, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6adf8e8a065c4e77efaf8d4c",
-      "postedDate": "2026-10-26",
-      "isPostedToday": false
-    },
-    {
       "id": "job_7512c3f3d34b",
       "category": "new_grad",
       "company": "Boeing",
@@ -2715,22 +3185,22 @@
       "isPostedToday": false
     },
     {
+      "id": "job_4af6a1472779",
+      "category": "new_grad",
+      "company": "Boeing",
+      "role": "Entry-Level Software Engineer",
+      "location": "Maryland Heights, MO, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae180a2829a3bada15fda89",
+      "postedDate": "2026-10-26",
+      "isPostedToday": false
+    },
+    {
       "id": "job_51faf4552b9f",
       "category": "new_grad",
       "company": "Boeing",
       "role": "Entry-Level Software Engineer",
       "location": "Maryland Heights, MO, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adbf2ea46a8cabdc1ff5c8f",
-      "postedDate": "2026-10-26",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_2bfa64ad7ebe",
-      "category": "new_grad",
-      "company": "Boeing",
-      "role": "Entry-Level Software Engineer–Developer",
-      "location": "Richardson, TX, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ace62a0680c80c8753bc632",
       "postedDate": "2026-10-26",
       "isPostedToday": false
     },
@@ -2785,12 +3255,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_99400a7eae90",
+      "id": "job_d320faa65c51",
       "category": "new_grad",
       "company": "Boeing",
       "role": "Software Quality Engineer (Associate, Experienced or Senior)",
       "location": "El Segundo, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ad7b23b54bbabbab070138b",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ad79e5167bec1d0d9c770ea",
       "postedDate": "2026-10-26",
       "isPostedToday": false
     },
@@ -2825,16 +3295,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_b12f4c7f5685",
-      "category": "new_grad",
-      "company": "Boeing",
-      "role": "Systems Software Engineer (Associate or Experienced)",
-      "location": "Chantilly, VA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ace8bb8680c80c8753bd7ff",
-      "postedDate": "2026-10-26",
-      "isPostedToday": false
-    },
-    {
       "id": "job_5f299b64b715",
       "category": "intern",
       "company": "Booz Allen Hamilton",
@@ -2862,7 +3322,7 @@
       "location": "Norfolk, VA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0de2205a39c3e2c70d826",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_70cdb0aa6e35",
@@ -2985,12 +3445,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_069ace5418f1",
+      "id": "job_2fb642de97f2",
       "category": "new_grad",
       "company": "Cadence",
       "role": "Lead Software Engineer – Mesh Generation",
       "location": "San Jose, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ae0eddd1f9d9308370a5b9d",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae0dff2de23f466ec8b9c1b",
       "postedDate": "2026-10-26",
       "isPostedToday": false
     },
@@ -3032,7 +3492,7 @@
       "location": "Newnan, GA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adfd6f49a8c91d5c3589d61",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_94aaace7609d",
@@ -3151,16 +3611,6 @@
       "role": "Data Science Intern",
       "location": "Phoenix, AZ",
       "applicationUrl": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002",
-      "postedDate": "2026-10-26",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_71835eceef02",
-      "category": "new_grad",
-      "company": "CVS Health",
-      "role": "Software Development Engineer (Conversion)",
-      "location": "Richardson, TX, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ae0f62d829a3bada15f9194",
       "postedDate": "2026-10-26",
       "isPostedToday": false
     },
@@ -3562,7 +4012,7 @@
       "location": "Mountain View, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6acd27e13c831dc4086c0e6a",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_8722b84e391c",
@@ -3622,7 +4072,7 @@
       "location": "West Union, SC, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae126bf67c31ab3489a0f1c",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_91ab8294c645",
@@ -3792,7 +4242,7 @@
       "location": "Rochester, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adff96f0a4cc7090f985076",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_da5778f6a297",
@@ -3865,22 +4315,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_60b6e2fd724b",
-      "category": "new_grad",
-      "company": "Lockheed Martin",
-      "role": "College Student - Technical - N3",
-      "location": "Mount Laurel, NJ, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6aceffa0ba99f15ef41277af",
-      "postedDate": "2026-10-26",
-      "isPostedToday": false
-    },
-    {
       "id": "job_ec3ac67f5d61",
       "category": "new_grad",
       "company": "Lockheed Martin",
       "role": "Software Engineer - E2",
       "location": "King of Prussia, PA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6abaf470ee0b348be729c617",
+      "postedDate": "2026-10-26",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_a23ba192ec92",
+      "category": "new_grad",
+      "company": "Lockheed Martin",
+      "role": "Software Engineer Asc - Early Career",
+      "location": "King of Prussia, PA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6adab0c303d2da7528917938",
       "postedDate": "2026-10-26",
       "isPostedToday": false
     },
@@ -3892,17 +4342,7 @@
       "location": "Manassas, VA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ada6a4254bbabbab0715bb1",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
-    },
-    {
-      "id": "job_a23ba192ec92",
-      "category": "new_grad",
-      "company": "Lockheed Martin",
-      "role": "Software Engineer Asc - Early Career",
-      "location": "King of Prussia, PA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6adab0c303d2da7528917938",
-      "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_e23bdf2aee4f",
@@ -3972,7 +4412,7 @@
       "location": "United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0145ec5c64fa3d9cc1f54",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_a1968039b806",
@@ -4082,7 +4522,7 @@
       "location": "Chalfont, PA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0e0f3829a3bada15f81ab",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_459cb3ad960a",
@@ -4092,7 +4532,7 @@
       "location": "Galway, County Galway, Ireland",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0bdd405a39c3e2c70be9e",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_2be077cc118b",
@@ -4122,7 +4562,7 @@
       "location": "Annapolis Junction, MD, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae1116d1f9d9308370a75e0",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_c9dbb159facf",
@@ -4262,7 +4702,7 @@
       "location": "Melville, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adf902d065c4e77efaf8e85",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_96b4aac86929",
@@ -4362,7 +4802,7 @@
       "location": "Oxnard, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae109eb1f9d9308370a6f98",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_9d713fb335fc",
@@ -4452,7 +4892,7 @@
       "location": "San Mateo, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adf7d1ac5c64fa3d9cbc07a",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_59d2e7ac9f2e",
@@ -4562,7 +5002,7 @@
       "location": "Tucson, AZ, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae10e1e05a39c3e2c70f9ba",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_015b66621ffb",
@@ -4675,6 +5115,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_f934832f6a32",
+      "category": "intern",
+      "company": "Shield AI",
+      "role": "Software Engineer Intern",
+      "location": "San Diego, CA",
+      "applicationUrl": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true",
+      "postedDate": "2026-10-26",
+      "isPostedToday": false
+    },
+    {
       "id": "job_46f23d8c507a",
       "category": "new_grad",
       "company": "Sierra",
@@ -4685,22 +5135,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_e98e5463d302",
-      "category": "new_grad",
-      "company": "Silicon Labs",
-      "role": "Software Engineer I",
-      "location": "Austin, Texas, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ac03a1d0e027c0f3b3a08d7",
-      "postedDate": "2026-10-26",
-      "isPostedToday": false
-    },
-    {
       "id": "job_0126b0a95e93",
       "category": "new_grad",
       "company": "Silicon Labs",
       "role": "Software Engineer I",
       "location": "Austin, Texas, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6aa80ee52ed333b4ea5ccfe9",
+      "postedDate": "2026-10-26",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_e98e5463d302",
+      "category": "new_grad",
+      "company": "Silicon Labs",
+      "role": "Software Engineer I",
+      "location": "Austin, Texas, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ac03a1d0e027c0f3b3a08d7",
       "postedDate": "2026-10-26",
       "isPostedToday": false
     },
@@ -4732,7 +5182,7 @@
       "location": "Menlo Park, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae0f1f267c31ab34899edb4",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_7648297240e3",
@@ -4795,6 +5245,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_181dfbbbb5f7",
+      "category": "intern",
+      "company": "stealth-startup-community",
+      "role": "Embedded Firmware and Controls Engineer Intern",
+      "location": "Austin, TX",
+      "applicationUrl": "https://go.vansh.nyc/X4?s=y",
+      "postedDate": "2026-10-26",
+      "isPostedToday": false
+    },
+    {
       "id": "job_c8a1ad1494c3",
       "category": "new_grad",
       "company": "Supermicro",
@@ -4802,7 +5262,7 @@
       "location": "San Jose, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ae10f4667c31ab3489a0275",
       "postedDate": "2026-10-26",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_4e3b3aa7aea6",
@@ -5095,12 +5555,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_87845e83303a",
+      "id": "job_dea0dbc0455a",
       "category": "new_grad",
       "company": "Wipro",
       "role": "TEST ENGINEER L1",
       "location": "Austin, TX, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ae145f96679108488c42725",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae14617829a3bada15fc05d",
       "postedDate": "2026-10-26",
       "isPostedToday": false
     },
@@ -5345,22 +5805,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_e81484bf5f4d",
-      "category": "new_grad",
-      "company": "BlackBerry",
-      "role": "QNX- Software Testing Development Student (Winter 2027)",
-      "location": "Kanata, Ottawa, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6adfcd960a4cc7090f983570",
-      "postedDate": "2026-10-25",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_c806d4f82715",
+      "id": "job_4150c9205b20",
       "category": "new_grad",
       "company": "Boeing",
       "role": "Software Engineer (Associate, Experienced or Senior) / Bixby",
       "location": "Seal Beach, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6adf94519a8c91d5c3586d95",
+      "applicationUrl": "https://jobright.ai/jobs/info/6adf82b8065c4e77efaf83e2",
       "postedDate": "2026-10-25",
       "isPostedToday": false
     },
@@ -5582,7 +6032,7 @@
       "location": "Toronto, Ontario, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/6adfefa69e3e874dbfbb1c82",
       "postedDate": "2026-10-25",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_153d717809e2",
@@ -5892,7 +6342,7 @@
       "location": "Arlington, VA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adfbb4f065c4e77efafae70",
       "postedDate": "2026-10-25",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_4b55e2bc6295",
@@ -5942,7 +6392,7 @@
       "location": "New York, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adf6c9d5dc7953215a3eb89",
       "postedDate": "2026-10-25",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_27136a9df379",
@@ -5982,7 +6432,7 @@
       "location": "Huntsville, AL, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adf7a859e3e874dbfbac8fb",
       "postedDate": "2026-10-25",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_485b0d950a48",
@@ -6321,6 +6771,16 @@
       "role": "Software Engineer I (Onsite)",
       "location": "Indianapolis, IN, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adf4c9e065c4e77efaf65e2",
+      "postedDate": "2026-10-25",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_f6c236a394a2",
+      "category": "intern",
+      "company": "Shield AI",
+      "role": "Software Engineer Intern",
+      "location": "San Diego, CA",
+      "applicationUrl": "https://go.vansh.nyc/X7?s=y",
       "postedDate": "2026-10-25",
       "isPostedToday": false
     },
@@ -6925,22 +7385,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_898cbaa3d3f3",
-      "category": "new_grad",
-      "company": "L3Harris Technologies",
-      "role": "Associate, Software Engineer",
-      "location": "Colorado Springs, CO, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ad7901567bec1d0d9c7659b",
-      "postedDate": "2026-10-24",
-      "isPostedToday": false
-    },
-    {
       "id": "job_18b14fe805ce",
       "category": "new_grad",
       "company": "L3Harris Technologies",
       "role": "Associate, Software Engineer",
       "location": "San Diego, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adbd927c5c64fa3d9cb1d45",
+      "postedDate": "2026-10-24",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_40ae7b9a1eea",
+      "category": "new_grad",
+      "company": "L3Harris Technologies",
+      "role": "Associate, Software Engineer",
+      "location": "Colorado Springs, CO, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ada80b24c3adc437cecdd38",
       "postedDate": "2026-10-24",
       "isPostedToday": false
     },
@@ -6972,7 +7432,7 @@
       "location": "Cambridge, MA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ada51e703d2da7528913eab",
       "postedDate": "2026-10-24",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_3aae6c608555",
@@ -7022,7 +7482,7 @@
       "location": "Washington, DC, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ab5eda2d85922de20ce3c40",
       "postedDate": "2026-10-24",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_618bd6348ba7",
@@ -7522,16 +7982,6 @@
       "location": "Broomfield, CO, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a84e65ae12474455273d176",
       "postedDate": "2026-10-23",
-      "isPostedToday": true
-    },
-    {
-      "id": "job_02bcba0f9257",
-      "category": "new_grad",
-      "company": "Apogee Research, LLC",
-      "role": "Embedded Software Engineer",
-      "location": "Arlington, VA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6adfeac0c5c64fa3d9cc0f0f",
-      "postedDate": "2026-10-23",
       "isPostedToday": false
     },
     {
@@ -7762,7 +8212,7 @@
       "location": "San Jose, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adb73e4c5c64fa3d9caf6a7",
       "postedDate": "2026-10-23",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_494b88fcd189",
@@ -7915,22 +8365,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_205b1d1d1494",
-      "category": "new_grad",
-      "company": "Fortinet",
-      "role": "Software Developer",
-      "location": "Burnaby, BC, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a51b6c5bf63b66c7997b53a",
-      "postedDate": "2026-10-23",
-      "isPostedToday": false
-    },
-    {
       "id": "job_9d9635e9de23",
       "category": "new_grad",
       "company": "Fortinet",
       "role": "Software Developer",
       "location": "Burnaby, BC, Canada",
       "applicationUrl": "https://jobright.ai/jobs/info/6a66fa5ce8d8d22e32930f62",
+      "postedDate": "2026-10-23",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_205b1d1d1494",
+      "category": "new_grad",
+      "company": "Fortinet",
+      "role": "Software Developer",
+      "location": "Burnaby, BC, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a51b6c5bf63b66c7997b53a",
       "postedDate": "2026-10-23",
       "isPostedToday": false
     },
@@ -8415,12 +8865,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_8f9b80bfba8e",
+      "id": "job_8590713bc78d",
       "category": "new_grad",
       "company": "Palantir Technologies",
       "role": "Forward Deployed Software Engineer",
       "location": "New York, NY",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a0b55fe538d03366dc8426e",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a1de8459111f771d1a1be25",
       "postedDate": "2026-10-23",
       "isPostedToday": false
     },
@@ -8435,12 +8885,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_8590713bc78d",
+      "id": "job_8f9b80bfba8e",
       "category": "new_grad",
       "company": "Palantir Technologies",
       "role": "Forward Deployed Software Engineer",
       "location": "New York, NY",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a1de8459111f771d1a1be25",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a0b55fe538d03366dc8426e",
       "postedDate": "2026-10-23",
       "isPostedToday": false
     },
@@ -8462,7 +8912,7 @@
       "location": "Washington, D.C., United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a5528b4268af95237be9ae7",
       "postedDate": "2026-10-23",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_363f1b4e8495",
@@ -8532,7 +8982,7 @@
       "location": "Rochester, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adb732d46a8cabdc1ff2e34",
       "postedDate": "2026-10-23",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_c579e721a564",
@@ -8552,7 +9002,7 @@
       "location": "Tucson, AZ, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ad6bcce950ef68d5183c8aa",
       "postedDate": "2026-10-23",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_759798ca603d",
@@ -8562,7 +9012,7 @@
       "location": "Tucson, AZ, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ac95503d4a5a03707411f75",
       "postedDate": "2026-10-23",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_e772b6f3d4c0",
@@ -8622,7 +9072,7 @@
       "location": "San Mateo, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6adbafb19e3e874dbfba13f6",
       "postedDate": "2026-10-23",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_00ff72da9687",
@@ -8691,6 +9141,16 @@
       "role": "Software Engineer 1 New Grad",
       "location": "Seattle, WA",
       "applicationUrl": "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply",
+      "postedDate": "2026-10-23",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_7d1a3cfca646",
+      "category": "new_grad",
+      "company": "Shield AI",
+      "role": "Software Engineer New Grad",
+      "location": "Seattle, WA",
+      "applicationUrl": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true",
       "postedDate": "2026-10-23",
       "isPostedToday": false
     },
@@ -9335,22 +9795,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_a3e2706fbc4d",
-      "category": "new_grad",
-      "company": "Amazon",
-      "role": "Software Development Engineer - Military Veterans",
-      "location": "Sunnyvale, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a564389e9b77f668bd621f3",
-      "postedDate": "2026-10-22",
-      "isPostedToday": false
-    },
-    {
       "id": "job_65f68e5f1b10",
       "category": "new_grad",
       "company": "Amazon",
       "role": "Software Development Engineer - Military Veterans",
       "location": "Sunnyvale, California, USA",
       "applicationUrl": "https://jobright.ai/jobs/info/698d1b1b78b4502f12a3a119",
+      "postedDate": "2026-10-22",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_a3e2706fbc4d",
+      "category": "new_grad",
+      "company": "Amazon",
+      "role": "Software Development Engineer - Military Veterans",
+      "location": "Sunnyvale, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a564389e9b77f668bd621f3",
       "postedDate": "2026-10-22",
       "isPostedToday": false
     },
@@ -9475,22 +9935,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_1bc14b6118a2",
+      "id": "job_13e0d774596f",
       "category": "intern",
       "company": "Apple",
       "role": "Cellular Baseband Design Verification Intern",
       "location": "United States",
-      "applicationUrl": "https://go.vansh.nyc/Dd?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-10-22",
       "isPostedToday": false
     },
     {
-      "id": "job_f09366682866",
+      "id": "job_67919b353b5c",
       "category": "intern",
       "company": "Apple",
       "role": "Software Engineering Intern, On-Demand Agent Provisioning in Cellular Test",
       "location": "United States",
-      "applicationUrl": "https://go.vansh.nyc/Dc?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-10-22",
       "isPostedToday": false
     },
@@ -9505,12 +9965,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_a9dbd268298e",
+      "id": "job_e612d28be05c",
       "category": "new_grad",
       "company": "Applied Materials",
       "role": "Business Intelligence Analyst I",
       "location": "Santa Clara, CA",
-      "applicationUrl": "https://go.vansh.nyc/B5?s=A",
+      "applicationUrl": "",
       "postedDate": "2026-10-22",
       "isPostedToday": false
     },
@@ -9522,7 +9982,7 @@
       "location": "Santa Clara, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6abd70580e027c0f3b395a88",
       "postedDate": "2026-10-22",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_1e6778492b46",
@@ -10055,22 +10515,22 @@
       "isPostedToday": false
     },
     {
-      "id": "job_9ef149c9a939",
-      "category": "new_grad",
-      "company": "DataBank",
-      "role": "Jr. Critical Infrastructure Engineer",
-      "location": "Red Oak, TX, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a7bf6a77c52154b59f58d09",
-      "postedDate": "2026-10-22",
-      "isPostedToday": false
-    },
-    {
       "id": "job_b47ee369fdf9",
       "category": "new_grad",
       "company": "DataBank",
       "role": "Jr. Critical Infrastructure Engineer",
       "location": "Ashburn, VA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6aa90257eff87f571fc98285",
+      "postedDate": "2026-10-22",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_9ef149c9a939",
+      "category": "new_grad",
+      "company": "DataBank",
+      "role": "Jr. Critical Infrastructure Engineer",
+      "location": "Red Oak, TX, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a7bf6a77c52154b59f58d09",
       "postedDate": "2026-10-22",
       "isPostedToday": false
     },
@@ -10355,12 +10815,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_fd609ab685fe",
+      "id": "job_da88bc941ba1",
       "category": "new_grad",
       "company": "Hewlett Packard Enterprise",
       "role": "Software Engineer",
       "location": "Westford, MA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a8fe7e88ffa38557e6ca964",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a8fd5727c32860d14cf6d92",
       "postedDate": "2026-10-22",
       "isPostedToday": false
     },
@@ -10375,12 +10835,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_da88bc941ba1",
+      "id": "job_176e966a3fd4",
       "category": "new_grad",
       "company": "Hewlett Packard Enterprise",
       "role": "Software Engineer",
       "location": "Westford, MA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a8fd5727c32860d14cf6d92",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a8feb44a19886486675ee09",
       "postedDate": "2026-10-22",
       "isPostedToday": false
     },
@@ -10445,12 +10905,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_15bc8eb10318",
+      "id": "job_fcf18d7ff19d",
       "category": "new_grad",
       "company": "ICE",
       "role": "Analyst, Infrastructure Development & Automation",
       "location": "Atlanta, GA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ad90b2cb0725dc268dd9351",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ad9095d54bbabbab070be54",
       "postedDate": "2026-10-22",
       "isPostedToday": false
     },
@@ -11062,7 +11522,7 @@
       "location": "Nashville, TN, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6abd788b372c01f6cd720a97",
       "postedDate": "2026-10-22",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_26eb8f9443dc",
@@ -11642,7 +12102,7 @@
       "location": "San Mateo, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ac7f97e0e573df8adc755e6",
       "postedDate": "2026-10-22",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_11bb096c2d64",
@@ -12065,12 +12525,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_dd3379d0306a",
+      "id": "job_66259b87eb7a",
       "category": "new_grad",
       "company": "TikTok",
       "role": "Backend Software Engineer Graduate (Creation Platform) - 2027 Start",
       "location": "San Jose, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a7ed2b919ce4e6e9d9346e3",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a7cf4c0d77e8156a8e35419",
       "postedDate": "2026-10-22",
       "isPostedToday": false
     },
@@ -12252,7 +12712,7 @@
       "location": "New York, NY, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6aa06a51a2266b538d2302df",
       "postedDate": "2026-10-22",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_4dcd2676f90f",
@@ -12682,7 +13142,7 @@
       "location": "California, MD, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ace7ff1a0453f9ba624900e",
       "postedDate": "2026-10-21",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_48531ef5db49",
@@ -12815,16 +13275,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_bb04c401e014",
-      "category": "new_grad",
-      "company": "Auria Space",
-      "role": "Software Engineer - Sentinel",
-      "location": "Huntsville, AL, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a3abc8e649fdf162930574e",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
       "id": "job_172deffa149e",
       "category": "new_grad",
       "company": "auticon",
@@ -12835,12 +13285,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_99af6be01543",
+      "id": "job_21d71bfcec75",
       "category": "new_grad",
       "company": "Boeing",
       "role": "Software Engineer (Associate or Experienced)",
       "location": "Chantilly, VA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ada9b8503d2da7528917068",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ada8dc9e4b94611ab85dd44",
       "postedDate": "2026-10-21",
       "isPostedToday": false
     },
@@ -12885,52 +13335,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_ee3b7c5ecd61",
-      "category": "new_grad",
-      "company": "ByteDance",
-      "role": "3D Graphics Innovation Engineer Graduate (PICO Foundation-Developer Technology) - 2027 Start",
-      "location": "San Jose, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ad8924e1780f5549d585dc2",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_6058ee525bbc",
-      "category": "new_grad",
-      "company": "Cadence",
-      "role": "CST Application Engineer",
-      "location": "San Jose, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ac7e8a0fcdafb60c6a46926",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
       "id": "job_487882efa1a6",
       "category": "new_grad",
       "company": "California State University San Marcos",
       "role": "Software Developer I, Instructional and Information Technology Services",
       "location": "San Marcos, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a843052d34f700f87fb77ad",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_910be982cd4f",
-      "category": "new_grad",
-      "company": "Capgemini",
-      "role": "Junior Salesforce Developer Job Details / Capgemini",
-      "location": "New York City, NY, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ad8b829e4b94611ab84e92c",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_4c4161b08aa2",
-      "category": "new_grad",
-      "company": "Capgemini",
-      "role": "Lead Java Full Stack with React Job Details / Capgemini",
-      "location": "New York, NY, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ad8b82139284cd52427fbeb",
       "postedDate": "2026-10-21",
       "isPostedToday": false
     },
@@ -12942,7 +13352,7 @@
       "location": "Atlanta, GA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ad8b80439284cd52427fbb5",
       "postedDate": "2026-10-21",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_6444094f3cc8",
@@ -13375,26 +13785,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_1bce409af795",
-      "category": "new_grad",
-      "company": "FNS, Inc.",
-      "role": "Engineer",
-      "location": "Torrance, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6abc10b4b23c6fb2b81a4e29",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_3b6d8933dcb8",
-      "category": "new_grad",
-      "company": "Foresters Financial",
-      "role": "Quality Assurance Engineer Co-op Student (4-month contract)",
-      "location": "Toronto, ON, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6abbe719b23c6fb2b81a39f4",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
       "id": "job_4172030509e4",
       "category": "new_grad",
       "company": "Fortinet",
@@ -13505,16 +13895,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_406aad3f4953",
-      "category": "new_grad",
-      "company": "Innovative Defense Technologies (IDT)",
-      "role": "Associate Software Engineer - JobID-0186",
-      "location": "Mount Laurel, NJ, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ad9a7db54bbabbab0710551",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
       "id": "job_e72eaa667c14",
       "category": "new_grad",
       "company": "InnoVision Marketing Group",
@@ -13545,12 +13925,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_14e3c8b2504c",
+      "id": "job_9ad469cd66d8",
       "category": "new_grad",
       "company": "Itron, Inc.",
       "role": "Software Quality Assurance Engineer",
       "location": "Liberty Lake, WA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6adc73c15dc7953215a36da7",
+      "applicationUrl": "https://jobright.ai/jobs/info/6adc7737389e06bb41ad649f",
       "postedDate": "2026-10-21",
       "isPostedToday": false
     },
@@ -13725,16 +14105,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_b77d85562b25",
-      "category": "new_grad",
-      "company": "Lockheed Martin",
-      "role": "Project Engineer - Early Career",
-      "location": "Littleton, CO, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ace814b680c80c8753bd2e3",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
       "id": "job_00b6707d17b0",
       "category": "new_grad",
       "company": "Lockheed Martin",
@@ -13742,7 +14112,7 @@
       "location": "Marietta, GA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ad7f8ea52aa6152bb6a177f",
       "postedDate": "2026-10-21",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_b8ba4ca7be17",
@@ -13755,42 +14125,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_a3b03c85242e",
-      "category": "new_grad",
-      "company": "Mach9",
-      "role": "Software Engineer - 3D Graphics",
-      "location": "San Francisco",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ad8670c950ef68d5184831c",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
       "id": "job_7901a77a6f1e",
       "category": "intern",
       "company": "ManTech",
       "role": "AI Workflow Intern",
       "location": "Remote in USA, Stafford, VA",
       "applicationUrl": "",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_8c4f579f6dea",
-      "category": "new_grad",
-      "company": "MatX",
-      "role": "Formal Verification Engineer",
-      "location": "Mountain View",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a8dbb62cc0cf27068524b7a",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_9b92d4fadcce",
-      "category": "new_grad",
-      "company": "MatX",
-      "role": "Rust SW-Silicon Co-verification Engineer",
-      "location": "Mountain View, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a8bd95de8b6601d1290ccd9",
       "postedDate": "2026-10-21",
       "isPostedToday": false
     },
@@ -13845,16 +14185,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_adfa55526559",
-      "category": "new_grad",
-      "company": "Minnesota IT Services",
-      "role": "IT Quality Analyst/Tester - ITS1",
-      "location": "Saint Paul, MN, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ad8988b54bbabbab070775f",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
       "id": "job_2341b9bcc520",
       "category": "new_grad",
       "company": "Motorola Solutions",
@@ -13871,16 +14201,6 @@
       "role": "Operating Framework Associate",
       "location": "United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ad95ecb67bec1d0d9c85bcc",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_1ca0c7b05f81",
-      "category": "new_grad",
-      "company": "Neuralink",
-      "role": "Embedded Software Engineer, Implant Embedded Systems",
-      "location": "San Francisco, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a0f500d83d714428981e885",
       "postedDate": "2026-10-21",
       "isPostedToday": false
     },
@@ -13932,7 +14252,7 @@
       "location": "Irvine, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6abc3a9fb23c6fb2b81a5ebf",
       "postedDate": "2026-10-21",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_9554ae15f069",
@@ -14055,16 +14375,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_8c5a712a2a10",
-      "category": "new_grad",
-      "company": "Rocket",
-      "role": "Software Engineer I",
-      "location": "Detroit, MI, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a9eb151dacf777321a93040",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
       "id": "job_49b052aca704",
       "category": "intern",
       "company": "Rockwell Automation",
@@ -14175,12 +14485,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_288eb166eede",
+      "id": "job_c9c6a32893bf",
       "category": "intern",
       "company": "Smith+Nephew",
       "role": "Agentic AI Software Engineering Intern",
       "location": "Andover, MA",
-      "applicationUrl": "https://go.vansh.nyc/dl?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-10-21",
       "isPostedToday": false
     },
@@ -14235,16 +14545,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_d107268fed28",
-      "category": "new_grad",
-      "company": "State of Ohio",
-      "role": "Programmer - IT",
-      "location": "Columbus, OH, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ad9366867bec1d0d9c847b3",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
       "id": "job_2f43d60ecb88",
       "category": "intern",
       "company": "Taylor",
@@ -14275,16 +14575,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_77c0ebf3e9d6",
-      "category": "new_grad",
-      "company": "Tesla",
-      "role": "Tier 1 Network Support Engineer, IT Network Infrastructure Engineering",
-      "location": "Palo Alto, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ad9900067bec1d0d9c86ae9",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
       "id": "job_eba7e8720e1f",
       "category": "new_grad",
       "company": "The Aerospace Corporation",
@@ -14302,16 +14592,6 @@
       "location": "San Jose, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a7c2ec7d77e8156a8e31545",
       "postedDate": "2026-10-21",
-      "isPostedToday": true
-    },
-    {
-      "id": "job_0de7c0b28ea5",
-      "category": "new_grad",
-      "company": "TikTok",
-      "role": "Backend Engineer Graduate (User Growth) - 2027 Start",
-      "location": "San Jose, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a71a429e2b7476e7b20ed8d",
-      "postedDate": "2026-10-21",
       "isPostedToday": false
     },
     {
@@ -14321,36 +14601,6 @@
       "role": "Backend Software Engineer Graduate (Feed Safety) - 2027 Start",
       "location": "Seattle, WA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a6ffdc6160eda5948e8d14c",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_1e4ae7f06e3e",
-      "category": "new_grad",
-      "company": "TikTok",
-      "role": "Backend Software Engineer Graduate (Machine Moderation Platform) - 2027 Start",
-      "location": "Seattle, WA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a6ffdc1160eda5948e8d14b",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_03c2c33bb46e",
-      "category": "new_grad",
-      "company": "TikTok",
-      "role": "Backend Software Engineer Graduate (Risk & Response) - 2027 Start",
-      "location": "Seattle, WA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a700b3b160eda5948e8d2a6",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_700e5d7e4b27",
-      "category": "new_grad",
-      "company": "TikTok",
-      "role": "Backend Software Engineer Graduate (TikTok - Data Lifecycle Management) - 2027 Start",
-      "location": "San Jose, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a750bc237da8525e8cdc14d",
       "postedDate": "2026-10-21",
       "isPostedToday": false
     },
@@ -14365,42 +14615,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_46f8b641cb64",
-      "category": "new_grad",
-      "company": "TikTok",
-      "role": "Software Development Engineer Graduate (TikTok - Testing - Growth) - 2027 Start",
-      "location": "San Jose, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a754ce537da8525e8cdcefe",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_65f935048a87",
-      "category": "new_grad",
-      "company": "TikTok",
-      "role": "Software Engineer Graduate (Ads Delivery) - 2027 Start",
-      "location": "San Jose, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a701a3dcd3bac13d3709853",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
       "id": "job_e708e78d8e9d",
       "category": "new_grad",
       "company": "TikTok",
       "role": "Software Engineer Graduate (Ads Infra) - 2027 Start",
       "location": "San Jose, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a7f5feeb56bea5779c0a9a8",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_97e8a5c2bc54",
-      "category": "new_grad",
-      "company": "TikTok",
-      "role": "Software Engineer Graduate (Ads Measurement Signal Technology) - 2027 Start",
-      "location": "San Jose",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a701a40f5953013637f727b",
       "postedDate": "2026-10-21",
       "isPostedToday": false
     },
@@ -14431,46 +14651,6 @@
       "role": "Software Engineer Graduate (Media Engine) - 2027 Start",
       "location": "San Jose, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a7ed2e0179e4f7b7e8d8afd",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_9734fbc8ed8d",
-      "category": "new_grad",
-      "company": "TikTok",
-      "role": "Software Engineer Graduate (Media Engine) - 2027 Start",
-      "location": "San Jose, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a7cf5eadc3dff2d1c0ca254",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_19fc3a5e3af6",
-      "category": "new_grad",
-      "company": "TikTok",
-      "role": "Software Engineer Graduate (Recommendation Infrastructure) - 2027 Start",
-      "location": "San Jose, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a7d66bf83621355407ae09e",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_6f45f51da63d",
-      "category": "new_grad",
-      "company": "TikTok",
-      "role": "Testing Engineer Graduate (TikTok - Intelligent Creation) - 2027 Start",
-      "location": "San Jose, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a750bb0972ac843c6998b1d",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_5a1a4bb745af",
-      "category": "new_grad",
-      "company": "Toronto Metropolitan University",
-      "role": "Exam Invigilator - CPS530 - Web Systems Development",
-      "location": "Toronto, ON, Canada",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ad8aa83e4b94611ab84e2bb",
       "postedDate": "2026-10-21",
       "isPostedToday": false
     },
@@ -14561,16 +14741,6 @@
       "role": "Software Engineer Intern",
       "location": "Manchester, UK",
       "applicationUrl": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4997",
-      "postedDate": "2026-10-21",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_9a62425a25b6",
-      "category": "new_grad",
-      "company": "Verkada",
-      "role": "Associate Solutions Engineer, San Mateo",
-      "location": "San Mateo, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a835bf23eeac101cfa9f408",
       "postedDate": "2026-10-21",
       "isPostedToday": false
     },
@@ -14705,12 +14875,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_fd047333bde1",
+      "id": "job_3b44377f40ca",
       "category": "intern",
       "company": "Aerospace Corporation",
       "role": "Cloud Solutions Engineer Intern, Site Reliability 🇺🇸",
       "location": "El Segundo, CA, Chantilly, VA, Colorado Springs, CO",
-      "applicationUrl": "https://go.vansh.nyc/gq?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-10-20",
       "isPostedToday": false
     },
@@ -14795,12 +14965,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_91ba73f9ab3d",
+      "id": "job_0608830039dc",
       "category": "intern",
       "company": "Apple",
       "role": "Information Security Intern",
       "location": "United States",
-      "applicationUrl": "https://go.vansh.nyc/D9?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-10-20",
       "isPostedToday": false
     },
@@ -14825,12 +14995,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_fac19b006186",
+      "id": "job_1bb66917c4b6",
       "category": "intern",
       "company": "Apple",
       "role": "Software Engineering Intern, AI-Assisted Baseband Debugging Evaluation",
       "location": "United States",
-      "applicationUrl": "https://go.vansh.nyc/D3?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-10-20",
       "isPostedToday": false
     },
@@ -15435,16 +15605,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_dbf2eaf27215",
-      "category": "new_grad",
-      "company": "Lockheed Martin",
-      "role": "Digital Embedded Software Engineer - Early Career",
-      "location": "Moorestown, NJ, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ad7f8d052aa6152bb6a1776",
-      "postedDate": "2026-10-20",
-      "isPostedToday": false
-    },
-    {
       "id": "job_137d08eac144",
       "category": "new_grad",
       "company": "Lockheed Martin",
@@ -15471,16 +15631,6 @@
       "role": "Embedded Software Engineer- Level 2",
       "location": "Grand Prairie, TX, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6add9e975dc7953215a39b73",
-      "postedDate": "2026-10-20",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_9d856ee38a0d",
-      "category": "new_grad",
-      "company": "Lockheed Martin",
-      "role": "Software Engineer / Configuration Management",
-      "location": "Liverpool, New York, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ad77b0567bec1d0d9c7587f",
       "postedDate": "2026-10-20",
       "isPostedToday": false
     },
@@ -15562,7 +15712,7 @@
       "location": "Minneapolis, MN, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6aa81cb8930bff471a2a5247",
       "postedDate": "2026-10-20",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_69b8c0c51cd2",
@@ -15695,16 +15845,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_a4cdf9fc72e4",
-      "category": "new_grad",
-      "company": "Premier Global Links LLC",
-      "role": "Backend Software Engineer",
-      "location": "San Francisco, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ad820853dc655658d8f31c8",
-      "postedDate": "2026-10-20",
-      "isPostedToday": false
-    },
-    {
       "id": "job_15ebf9eb0e22",
       "category": "new_grad",
       "company": "Quora",
@@ -15731,16 +15871,6 @@
       "role": "Software Engineer Intern",
       "location": "Cambridge, UK",
       "applicationUrl": "https://jobs.ashbyhq.com/red-gate/2449a05b-81da-40de-b64d-3436c8ddb1df/application?embed=true",
-      "postedDate": "2026-10-20",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_e07e909dc277",
-      "category": "new_grad",
-      "company": "Reflex",
-      "role": "Forward Deployed Engineer",
-      "location": "San Francisco, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6ad8239de4b94611ab84bdf6",
       "postedDate": "2026-10-20",
       "isPostedToday": false
     },
@@ -16442,7 +16572,7 @@
       "location": "Newark, NJ, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6abe84f8064da25272e01440",
       "postedDate": "2026-10-19",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_b1d8c637d957",
@@ -16615,12 +16745,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_0fb6dbc82875",
+      "id": "job_952afc9301ea",
       "category": "intern",
       "company": "Apple",
       "role": "Aeon Modeling Software Intern",
       "location": "United States",
-      "applicationUrl": "https://go.vansh.nyc/D1?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-10-19",
       "isPostedToday": false
     },
@@ -16762,7 +16892,7 @@
       "location": "Harpenden, Hertfordshire, United Kingdom",
       "applicationUrl": "https://jobright.ai/jobs/info/6aadc0d23d96632d741afbaf",
       "postedDate": "2026-10-19",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_23141b9576eb",
@@ -17422,7 +17552,7 @@
       "location": "King of Prussia, PA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ad15cb3ae21edea94fd5c59",
       "postedDate": "2026-10-19",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_d3754bb6f0a6",
@@ -19655,16 +19785,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_f3416d595602",
-      "category": "new_grad",
-      "company": "SpaceX",
-      "role": "Software Engineer (Starlink)",
-      "location": "Redmond, WA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a53be0d8ef95364ead93254",
-      "postedDate": "2026-10-17",
-      "isPostedToday": false
-    },
-    {
       "id": "job_e9c1c34017b4",
       "category": "new_grad",
       "company": "SpaceX",
@@ -19675,22 +19795,22 @@
       "isPostedToday": false
     },
     {
+      "id": "job_f3416d595602",
+      "category": "new_grad",
+      "company": "SpaceX",
+      "role": "Software Engineer (Starlink)",
+      "location": "Redmond, WA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a53be0d8ef95364ead93254",
+      "postedDate": "2026-10-17",
+      "isPostedToday": false
+    },
+    {
       "id": "job_31e1aaa818d3",
       "category": "new_grad",
       "company": "TikTok",
       "role": "Software Engineer Graduate(Ads Infrastructure) - 2027 Start",
       "location": "San Jose, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a714fdee2b7476e7b20da64",
-      "postedDate": "2026-10-17",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_22ec89ef55f2",
-      "category": "new_grad",
-      "company": "TikTok",
-      "role": "Testing Engineer Graduate (TikTok-Testing-Social-User and Relation) - 2027 Start",
-      "location": "San Jose, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a750bbe972ac843c6998b2f",
       "postedDate": "2026-10-17",
       "isPostedToday": false
     },
@@ -19925,16 +20045,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_c8d4c8a7c0d1",
-      "category": "new_grad",
-      "company": "DRW",
-      "role": "Research Engineer (Options)",
-      "location": "Chicago, IL, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a52e7dc9fbdab22fe13d88e",
-      "postedDate": "2026-10-16",
-      "isPostedToday": false
-    },
-    {
       "id": "job_1f9d577e7e6e",
       "category": "intern",
       "company": "Eaton",
@@ -20142,7 +20252,7 @@
       "location": "Richardson, TX, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ad286c983ada13a9da0653c",
       "postedDate": "2026-10-16",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_a1f93b9fbcbd",
@@ -20602,7 +20712,7 @@
       "location": "Newark, NJ, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6aa854b4930bff471a2a68a4",
       "postedDate": "2026-10-15",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_4193707d794f",
@@ -20712,7 +20822,7 @@
       "location": "Tampa, FL, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ad261cb5290d4375c452b14",
       "postedDate": "2026-10-15",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_cc3e3ba32704",
@@ -20995,16 +21105,6 @@
       "isPostedToday": false
     },
     {
-      "id": "job_47be9ca9521b",
-      "category": "new_grad",
-      "company": "Lockheed Martin",
-      "role": "Software Engineer",
-      "location": "Offutt Air Force Base, NE, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a905ab20bd89e205d249c9f",
-      "postedDate": "2026-10-15",
-      "isPostedToday": false
-    },
-    {
       "id": "job_2d87a2c52470",
       "category": "new_grad",
       "company": "Lockheed Martin",
@@ -21025,12 +21125,12 @@
       "isPostedToday": false
     },
     {
-      "id": "job_f25e2f60a985",
+      "id": "job_47be9ca9521b",
       "category": "new_grad",
       "company": "Lockheed Martin",
-      "role": "Software Engineer - E2",
-      "location": "Boulder, CO, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6aa39bdfc5a856ac7e33a6b4",
+      "role": "Software Engineer",
+      "location": "Offutt Air Force Base, NE, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a905ab20bd89e205d249c9f",
       "postedDate": "2026-10-15",
       "isPostedToday": false
     },
@@ -21041,6 +21141,16 @@
       "role": "Software Engineer - E2",
       "location": "Liverpool, New York, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a91d94dc12c90443efc8873",
+      "postedDate": "2026-10-15",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_f25e2f60a985",
+      "category": "new_grad",
+      "company": "Lockheed Martin",
+      "role": "Software Engineer - E2",
+      "location": "Boulder, CO, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aa39bdfc5a856ac7e33a6b4",
       "postedDate": "2026-10-15",
       "isPostedToday": false
     },
@@ -21401,16 +21511,6 @@
       "role": "New Grad 2027: Backend Engineer, Social Foundation",
       "location": "San Jose, CA",
       "applicationUrl": "https://go.vansh.nyc/Dw?s=A",
-      "postedDate": "2026-10-15",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_5538ea9c2849",
-      "category": "new_grad",
-      "company": "TikTok",
-      "role": "Software Engineer Graduate (Business Integrity) - 2027 Start",
-      "location": "San Jose, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a704c27d4735b7dbbccdc76",
       "postedDate": "2026-10-15",
       "isPostedToday": false
     },
@@ -22172,7 +22272,7 @@
       "location": "King of Prussia, PA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6acec0f370e50ec1b37f1a43",
       "postedDate": "2026-10-14",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_044dd5d83220",
@@ -22412,7 +22512,7 @@
       "location": "San Diego, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ab1a0eb191d8c340dbdbf57",
       "postedDate": "2026-10-14",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_395f76651b57",
@@ -22452,7 +22552,7 @@
       "location": "San Francisco, CA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6acfe22d78d51ae69ce088e7",
       "postedDate": "2026-10-14",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_c836e5fb9287",
@@ -22601,16 +22701,6 @@
       "role": "Machine Learning Engineer Intern, E-Commerce Supply Chain & Logistics LLM/Agent",
       "location": "Seattle, WA",
       "applicationUrl": "https://go.vansh.nyc/Cu?s=y",
-      "postedDate": "2026-10-14",
-      "isPostedToday": false
-    },
-    {
-      "id": "job_9b2400e9130e",
-      "category": "new_grad",
-      "company": "TikTok",
-      "role": "Software Engineer Graduate (Transaction Platform) - 2027 Start",
-      "location": "San Jose, CA, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a714fe9e2b7476e7b20da6a",
       "postedDate": "2026-10-14",
       "isPostedToday": false
     },
@@ -23322,7 +23412,7 @@
       "location": "San Francisco",
       "applicationUrl": "https://jobright.ai/jobs/info/6a0ada69a203b1052e44f414",
       "postedDate": "2026-10-13",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_c29edacf4888",
@@ -25142,7 +25232,7 @@
       "location": "Washington, DC, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6ac8fc17d4a5a037074100b4",
       "postedDate": "2026-10-11",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_8e4e810080d7",
@@ -30255,6 +30345,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_2acb713c8db7",
+      "category": "new_grad",
+      "company": "Fellow",
+      "role": "Software Engineer New Grad",
+      "location": "Ottawa, ON, Canada",
+      "applicationUrl": "https://jobs.ashbyhq.com/fellowai/f932dda0-8ad0-45d6-a327-d2143b7d82aa/application?embed=true",
+      "postedDate": "2026-10-02",
+      "isPostedToday": false
+    },
+    {
       "id": "job_a87a650526aa",
       "category": "new_grad",
       "company": "Harvey",
@@ -30601,6 +30701,16 @@
       "role": "Quantitative Research Intern",
       "location": "Washington, DC",
       "applicationUrl": "https://go.vansh.nyc/PV?s=y",
+      "postedDate": "2026-10-01",
+      "isPostedToday": false
+    },
+    {
+      "id": "job_14a305ebcdf2",
+      "category": "intern",
+      "company": "Aurora Innovation",
+      "role": "LiDAR Systems Intern 🎓",
+      "location": "Mountain View, CA",
+      "applicationUrl": "https://jobs.ashbyhq.com/aurora-operations-inc/ce5ad079-0588-402a-aa0e-b5efe0ba28f1/application?embed=true",
       "postedDate": "2026-10-01",
       "isPostedToday": false
     },
@@ -31582,7 +31692,7 @@
       "location": "Fort Worth, TX, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6abbf7653217d1d13329c30c",
       "postedDate": "2026-09-30",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_174cbf484512",
@@ -33232,7 +33342,7 @@
       "location": "Chantilly, VA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a8da619581f2d7bfdfe80ee",
       "postedDate": "2026-09-24",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_73d45fbb41c0",
@@ -34435,6 +34545,16 @@
       "isPostedToday": false
     },
     {
+      "id": "job_e3b61e31f77a",
+      "category": "new_grad",
+      "company": "Albertsons Companies",
+      "role": "Front End Entry Level",
+      "location": "Joliet, IL, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a7379276a034212ea027be3",
+      "postedDate": "2026-09-16",
+      "isPostedToday": false
+    },
+    {
       "id": "job_331437682598",
       "category": "new_grad",
       "company": "Albertsons Companies",
@@ -34442,7 +34562,7 @@
       "location": "Pullman, WA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a7dd30f0cd4a0703257c03f",
       "postedDate": "2026-09-16",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_2e3937b03057",
@@ -34452,17 +34572,7 @@
       "location": "Pullman, WA, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a7dd140b56bea5779c01db9",
       "postedDate": "2026-09-16",
-      "isPostedToday": true
-    },
-    {
-      "id": "job_e3b61e31f77a",
-      "category": "new_grad",
-      "company": "Albertsons Companies",
-      "role": "Front End Entry Level",
-      "location": "Joliet, IL, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a7379276a034212ea027be3",
-      "postedDate": "2026-09-16",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_6338b143b7fa",
@@ -34472,7 +34582,7 @@
       "location": "Bolingbrook, IL, United States",
       "applicationUrl": "https://jobright.ai/jobs/info/6a7150ac9a0ca4480c7d3d50",
       "postedDate": "2026-09-16",
-      "isPostedToday": true
+      "isPostedToday": false
     },
     {
       "id": "job_3c800d02950d",
