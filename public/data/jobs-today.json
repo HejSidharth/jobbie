@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T11:52:21-6",
+  "generatedAt": "2026-11-10T15:07:47-6",
   "timezone": "America/Chicago",
   "jobs": [
     {
@@ -12,11 +12,47 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
           "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_ded1ea872abd",
+      "category": "new_grad",
+      "company": "Abacus Insights",
+      "role": "Associate Data Engineer",
+      "location": "Remote",
+      "applicationUrl": "https://go.vansh.nyc/1s0?s=A",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "vansh_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_3f8ff729e630",
+      "category": "new_grad",
+      "company": "Abnormal AI",
+      "role": "Software Engineer 1 - Cloud Infrastructure",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af34f07f6053e296fc7b4b2",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
         }
       ]
     },
@@ -30,7 +66,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -39,16 +75,16 @@
       ]
     },
     {
-      "id": "job_66c2d3e06757",
+      "id": "job_5261e6870bc4",
       "category": "intern",
-      "company": "Akeshya Private Limited",
-      "role": "Flutter Developer Intern",
-      "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1qE?s=y",
+      "company": "Addepar",
+      "role": "AI Engineering Intern",
+      "location": "New York, NY",
+      "applicationUrl": "https://go.vansh.nyc/1rX?s=y",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -57,19 +93,109 @@
       ]
     },
     {
-      "id": "job_99d2a6800167",
+      "id": "job_5d771a7d7047",
+      "category": "intern",
+      "company": "Addepar",
+      "role": "Data Engineering Intern",
+      "location": "New York, NY",
+      "applicationUrl": "https://go.vansh.nyc/1rY?s=y",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_e0e853f21c75",
+      "category": "intern",
+      "company": "Addepar",
+      "role": "Software Engineering Intern",
+      "location": "New York, NY",
+      "applicationUrl": "https://go.vansh.nyc/1rW?s=y",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_beceb5278de9",
+      "category": "new_grad",
+      "company": "Aerospace",
+      "role": "Software Engineer I, Web Applications 🇺🇸",
+      "location": "Phoenix, AZ",
+      "applicationUrl": "https://go.vansh.nyc/1rV?s=A",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "vansh_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_27583e2f345b",
+      "category": "intern",
+      "company": "Akeshya Private Limited",
+      "role": "Flutter Developer Intern",
+      "location": "Remote, United States, Canada",
+      "applicationUrl": "",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_d6dfa76b7e8d",
       "category": "intern",
       "company": "Akeshya Private Limited",
       "role": "Full Stack Developer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1qD?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_b9dc3c57e0f1",
+      "category": "new_grad",
+      "company": "Amazon",
+      "role": "Software Development Engineer, Early Career - 2027 (CAN)",
+      "location": "Vancouver, BC, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ad67935e4b94611ab83f08b",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
           "sourcePostedText": "Nov 10"
         }
       ]
@@ -84,7 +210,43 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_5ef8305f1fed",
+      "category": "new_grad",
+      "company": "Amazon",
+      "role": "Software Development Engineer, iOS",
+      "location": "Newark, NJ, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ad65cf854bbabbab06f7591",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_228cef9e7ee4",
+      "category": "new_grad",
+      "company": "Amentum",
+      "role": "RTOS / VXWorks developer",
+      "location": "Dahlgren, VA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af34b877c81de7a524be1b5",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -102,11 +264,29 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_new_grad_2026",
           "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_3069d71801f3",
+      "category": "new_grad",
+      "company": "Applied Medical",
+      "role": "Software Test Engineer I",
+      "location": "Rancho Santa Margarita, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af3526d80020ca3a897480b",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
         }
       ]
     },
@@ -120,7 +300,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -129,16 +309,16 @@
       ]
     },
     {
-      "id": "job_3d1248db5e4c",
+      "id": "job_58e953f3baf4",
       "category": "intern",
       "company": "Avary.ai",
       "role": "Data Scientist Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1qF?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -156,7 +336,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -174,7 +354,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -192,7 +372,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -210,7 +390,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T03:53:37-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -228,7 +408,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -246,7 +426,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -264,7 +444,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -273,16 +453,16 @@
       ]
     },
     {
-      "id": "job_193d78a811af",
+      "id": "job_1515c89c3a5a",
       "category": "intern",
       "company": "Business Web Solutions",
       "role": "Web Developer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1qH?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -300,7 +480,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -318,7 +498,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -336,10 +516,28 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_4a165c533290",
+      "category": "new_grad",
+      "company": "Cognizant",
+      "role": "Full Stack Software Developer",
+      "location": "Plano, TX, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af3698880020ca3a8975743",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
           "sourcePostedText": "Nov 10"
         }
       ]
@@ -354,7 +552,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -372,7 +570,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -390,7 +588,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -408,10 +606,28 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_7025242134ac",
+      "category": "new_grad",
+      "company": "Cummins",
+      "role": "Electronic Systems Engineer - Software",
+      "location": "Columbus, IN",
+      "applicationUrl": "https://go.vansh.nyc/1rL?s=A",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "vansh_new_grad_2026",
           "sourcePostedText": "Nov 10"
         }
       ]
@@ -426,7 +642,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T03:53:37-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -444,7 +660,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -462,7 +678,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -480,7 +696,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -498,7 +714,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T03:53:37-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -516,7 +732,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -534,7 +750,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T03:53:37-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -552,7 +768,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -570,7 +786,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -588,7 +804,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -606,7 +822,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -624,7 +840,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -642,7 +858,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -660,7 +876,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_new_grad_2026",
@@ -669,16 +885,16 @@
       ]
     },
     {
-      "id": "job_2c953c56711a",
+      "id": "job_51a6b991e3b7",
       "category": "intern",
       "company": "Flowai",
       "role": "Senior Back-End Engineer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1qL?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -696,7 +912,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -705,16 +921,88 @@
       ]
     },
     {
-      "id": "job_70aec136dfd2",
+      "id": "job_05e535c9a56c",
+      "category": "new_grad",
+      "company": "Garmin",
+      "role": "Software Engineer 1 (Android)",
+      "location": "Yarmouth, ME, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aa08252dbc0e60e37e0e299",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_eda2de7de042",
+      "category": "intern",
+      "company": "General Dynamics Mission Systems, Inc.",
+      "role": "ASIC/FPGA Engineer Intern 🇺🇸",
+      "location": "Scottsdale, AZ",
+      "applicationUrl": "https://go.vansh.nyc/1rJ?s=y",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_d750114b7150",
+      "category": "intern",
+      "company": "General Dynamics Mission Systems, Inc.",
+      "role": "Systems Intern, Cybersecurity and Linux Administration 🇺🇸",
+      "location": "San Antonio, TX",
+      "applicationUrl": "https://go.vansh.nyc/1rI?s=y",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_401f4ee8c61d",
+      "category": "intern",
+      "company": "General Motors",
+      "role": "Machine Learning Engineer Intern, Embodied AI",
+      "location": "Sunnyvale, CA",
+      "applicationUrl": "https://go.vansh.nyc/1rQ?s=y",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_620c3ccd0d46",
       "category": "intern",
       "company": "getIntro",
       "role": "Software Engineering Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1qM?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -732,7 +1020,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -750,7 +1038,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T03:53:37-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -768,7 +1056,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T03:53:37-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -786,7 +1074,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T03:53:37-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -804,7 +1092,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -822,7 +1110,25 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_897ce3781a4c",
+      "category": "intern",
+      "company": "Hewlett Packard (HP)",
+      "role": "Performance Engineering Co-op",
+      "location": "Fort Collins, CO",
+      "applicationUrl": "https://go.vansh.nyc/1rR?s=y",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -840,7 +1146,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -849,16 +1155,16 @@
       ]
     },
     {
-      "id": "job_7d7117fa94c9",
+      "id": "job_e95a46b49ca8",
       "category": "intern",
       "company": "Holiday World",
       "role": "AI Engineer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1rb?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -867,16 +1173,16 @@
       ]
     },
     {
-      "id": "job_e62f37731bd8",
+      "id": "job_5d2b7298cfae",
       "category": "intern",
       "company": "Holiday World",
       "role": "Software Engineer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1ra?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -894,7 +1200,25 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_bbb5be845a60",
+      "category": "new_grad",
+      "company": "Infosys",
+      "role": "Java Developer",
+      "location": "Bellevue, WA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aed00eb465e3d2371383a38",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -912,7 +1236,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -921,16 +1245,16 @@
       ]
     },
     {
-      "id": "job_5462d44af865",
+      "id": "job_c9164100eb34",
       "category": "intern",
       "company": "Intelura",
       "role": "Backend Engineering & Security Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1qP?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -939,16 +1263,34 @@
       ]
     },
     {
-      "id": "job_c1152d04d265",
+      "id": "job_7e5f4f2c292b",
       "category": "intern",
       "company": "Intelura",
       "role": "Mobile Application Developer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1qQ?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_dc9072260117",
+      "category": "intern",
+      "company": "Invitation-charter",
+      "role": "Software Engineer Intern",
+      "location": "Greenwood Village, CO",
+      "applicationUrl": "https://go.vansh.nyc/1rK?s=y",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -966,7 +1308,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -984,7 +1326,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1002,7 +1344,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1020,7 +1362,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1029,16 +1371,16 @@
       ]
     },
     {
-      "id": "job_c16e6d4811e8",
+      "id": "job_3df57012e57c",
       "category": "new_grad",
       "company": "Jane Street",
       "role": "Formal Methods Research and Development",
       "location": "New York, NY, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6af34147f6053e296fc7a863",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af36dddf6053e296fc7c7e1",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -1047,34 +1389,16 @@
       ]
     },
     {
-      "id": "job_551fab7fe6f4",
-      "category": "new_grad",
-      "company": "Jane Street",
-      "role": "Software Engineer",
-      "location": "New York, NY, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6af341447c81de7a524bd8d5",
-      "postedDate": "2026-11-10",
-      "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
-      "sources": [
-        {
-          "sourceId": "jobright_new_grad_2026",
-          "sourcePostedText": "Nov 10"
-        }
-      ]
-    },
-    {
-      "id": "job_b22aafa2aca1",
+      "id": "job_3cf74d4fb3ab",
       "category": "new_grad",
       "company": "Jane Street",
       "role": "Tools and Compilers Research and Development",
       "location": "New York, NY, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6af341447c81de7a524bd8ce",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af36e0b7c81de7a524bf889",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -1092,7 +1416,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_new_grad_2026",
@@ -1101,16 +1425,16 @@
       ]
     },
     {
-      "id": "job_e12f4a27c03a",
+      "id": "job_b63f047af590",
       "category": "intern",
       "company": "Klatch AI",
       "role": "Full Stack Engineer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1qT?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1128,7 +1452,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -1146,7 +1470,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -1164,7 +1488,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T03:53:37-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -1173,16 +1497,16 @@
       ]
     },
     {
-      "id": "job_2d349c88257b",
+      "id": "job_51fd96d57c42",
       "category": "intern",
       "company": "Maincode",
       "role": "AI Research Residency Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1qU?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1191,16 +1515,16 @@
       ]
     },
     {
-      "id": "job_e6246aef43a6",
+      "id": "job_5796fe9c22d1",
       "category": "intern",
       "company": "Mason",
       "role": "AI Engineer Intern",
       "location": "New York, NY",
-      "applicationUrl": "https://go.vansh.nyc/1rz?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1218,7 +1542,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -1236,7 +1560,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -1245,16 +1569,16 @@
       ]
     },
     {
-      "id": "job_fa4df5183865",
+      "id": "job_49cd6e950df9",
       "category": "intern",
       "company": "Metasys",
       "role": "AI/ML Engineer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1r2?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1263,16 +1587,16 @@
       ]
     },
     {
-      "id": "job_e2c652880ff1",
+      "id": "job_56e30aa568eb",
       "category": "intern",
       "company": "Metasys",
       "role": "Automation QA Engineer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1qZ?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1281,16 +1605,16 @@
       ]
     },
     {
-      "id": "job_16800c6bdac9",
+      "id": "job_d7f5d40a3eee",
       "category": "intern",
       "company": "Metasys",
       "role": "Backend Engineer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1r1?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1299,16 +1623,16 @@
       ]
     },
     {
-      "id": "job_fb405ff948a5",
+      "id": "job_19bccdc2f515",
       "category": "intern",
       "company": "Metasys",
       "role": "Data Architect Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1qW?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1317,16 +1641,16 @@
       ]
     },
     {
-      "id": "job_3e5a52b994c5",
+      "id": "job_4174e7323682",
       "category": "intern",
       "company": "Metasys",
       "role": "Data Engineer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1r7?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1335,16 +1659,16 @@
       ]
     },
     {
-      "id": "job_117459b2ffe9",
+      "id": "job_897c115b373d",
       "category": "intern",
       "company": "Metasys",
       "role": "Data Scientist Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1qX?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1353,16 +1677,16 @@
       ]
     },
     {
-      "id": "job_475e2f45b0d5",
+      "id": "job_87ec734652c7",
       "category": "intern",
       "company": "Metasys",
       "role": "DevOps Engineer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1r4?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1371,16 +1695,16 @@
       ]
     },
     {
-      "id": "job_277eb1d3848d",
+      "id": "job_c679d3332f5c",
       "category": "intern",
       "company": "Metasys",
       "role": "DevSecOps Engineer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1r8?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1389,16 +1713,16 @@
       ]
     },
     {
-      "id": "job_d21ea4731ff7",
+      "id": "job_05cd51ead7f1",
       "category": "intern",
       "company": "Metasys",
       "role": "Frontend Engineer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1r0?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1407,16 +1731,16 @@
       ]
     },
     {
-      "id": "job_6e518c4f58ac",
+      "id": "job_ae5839d79d64",
       "category": "intern",
       "company": "Metasys",
       "role": "MLOps Engineer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1r6?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1425,16 +1749,16 @@
       ]
     },
     {
-      "id": "job_634ae91c9220",
+      "id": "job_47f7b749cc4f",
       "category": "intern",
       "company": "Metasys",
       "role": "Security Engineer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1r5?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1443,16 +1767,16 @@
       ]
     },
     {
-      "id": "job_8f6d738297bd",
+      "id": "job_dbc25b2a0899",
       "category": "intern",
       "company": "Metasys",
       "role": "Site Reliability Engineer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1qY?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1461,19 +1785,55 @@
       ]
     },
     {
-      "id": "job_6103dc07b5ff",
+      "id": "job_fa29519c4d3b",
       "category": "intern",
       "company": "Metasys",
       "role": "Technical Architect Intern, Frontend/Backend",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1r3?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_d46b931e41dc",
+      "category": "new_grad",
+      "company": "Mfinite Consulting LLC",
+      "role": "QA Tester / Quality Assurance Analyst – Contract (Raleigh & Statewide, NC)",
+      "location": "Raleigh, NC, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af3635d7c81de7a524bef5d",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_14b5af7bb3db",
+      "category": "new_grad",
+      "company": "Mfinite Consulting LLC",
+      "role": "Technical / Solution Architect – Contract (Raleigh & Statewide, NC)",
+      "location": "Raleigh, NC, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af3626880020ca3a8974fa1",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
           "sourcePostedText": "Nov 10"
         }
       ]
@@ -1488,7 +1848,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1506,7 +1866,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -1524,10 +1884,28 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_2b7832c5b5ab",
+      "category": "new_grad",
+      "company": "Netrolynx AI",
+      "role": "PHP Developer",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af36894f6053e296fc7c228",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
           "sourcePostedText": "Nov 10"
         }
       ]
@@ -1542,7 +1920,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -1560,7 +1938,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -1578,7 +1956,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -1596,7 +1974,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1614,7 +1992,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1623,16 +2001,16 @@
       ]
     },
     {
-      "id": "job_2a6328e7842d",
+      "id": "job_bdece13894a2",
       "category": "intern",
       "company": "Nura",
       "role": "Software Engineer Intern",
       "location": "Remote, United States, Canada",
-      "applicationUrl": "https://go.vansh.nyc/1re?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1650,7 +2028,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -1668,7 +2046,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1686,7 +2064,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -1704,7 +2082,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1722,7 +2100,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1740,10 +2118,28 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_92423611a5c1",
+      "category": "new_grad",
+      "company": "Otter.ai",
+      "role": "Software Engineer, Front-End (New Grad)",
+      "location": "Mountain View, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae0eab15a5afc94bd2c8bc9",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
           "sourcePostedText": "Nov 10"
         }
       ]
@@ -1758,11 +2154,47 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
           "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_8da08ef8a955",
+      "category": "new_grad",
+      "company": "Palantir Technologies",
+      "role": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+      "location": "Honolulu, HI, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a95ac05f28891320e85d131",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_00ace682355d",
+      "category": "new_grad",
+      "company": "Palantir Technologies",
+      "role": "Software Engineer - Apollo Platform",
+      "location": "New York, NY, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a5f65eab0f20036bc630b44",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
         }
       ]
     },
@@ -1776,7 +2208,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1785,16 +2217,16 @@
       ]
     },
     {
-      "id": "job_ef74e2ff939a",
+      "id": "job_9980b7aad404",
       "category": "new_grad",
-      "company": "Peraton",
-      "role": "Cloud Software Engineer 1",
-      "location": "Fort Meade, MD, United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6a5b579ac8e3a473cb8afcc4",
+      "company": "Palantir Technologies",
+      "role": "Software Engineer, New Grad - Production Infrastructure",
+      "location": "Washington, D.C., United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a5528b4268af95237be9ae7",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -1812,7 +2244,25 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_ef74e2ff939a",
+      "category": "new_grad",
+      "company": "Peraton",
+      "role": "Cloud Software Engineer 1",
+      "location": "Fort Meade, MD, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a5b579ac8e3a473cb8afcc4",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -1830,7 +2280,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1848,7 +2298,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -1866,7 +2316,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -1884,7 +2334,25 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_8475ef7f72dc",
+      "category": "new_grad",
+      "company": "Raytheon",
+      "role": "Research Software Engineer I - Onsite",
+      "location": "Cambridge, MA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6acdba132bd01b08973f1048",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -1902,7 +2370,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -1920,7 +2388,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -1938,7 +2406,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -1956,7 +2424,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1974,7 +2442,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -1992,11 +2460,47 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
           "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_ab372aa2f18c",
+      "category": "new_grad",
+      "company": "S&amp;C Electric Company",
+      "role": "Software Engineer 1",
+      "location": "Chicago, IL",
+      "applicationUrl": "",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "simplify_new_grad_2026",
+          "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_9037ecbd4d1b",
+      "category": "new_grad",
+      "company": "SAIC",
+      "role": "Software Engineer 🇺🇸",
+      "location": "Huntsville, AL",
+      "applicationUrl": "https://go.vansh.nyc/1rM?s=A",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "vansh_new_grad_2026",
+          "sourcePostedText": "Nov 10"
         }
       ]
     },
@@ -2010,7 +2514,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -2028,7 +2532,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -2046,7 +2550,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -2064,7 +2568,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -2082,7 +2586,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -2100,7 +2604,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -2118,10 +2622,28 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_18143cb45282",
+      "category": "new_grad",
+      "company": "Saralux",
+      "role": "Associate Solution Designer",
+      "location": "New York, NY, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af36d46769e9374033c6475",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
           "sourcePostedText": "Nov 10"
         }
       ]
@@ -2136,7 +2658,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -2154,7 +2676,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -2172,11 +2694,29 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
           "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_85b7fa547a63",
+      "category": "intern",
+      "company": "SRC, Inc",
+      "role": "Machine Learning Engineer Intern",
+      "location": "United States",
+      "applicationUrl": "https://go.vansh.nyc/1rU?s=y",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 10"
         }
       ]
     },
@@ -2190,7 +2730,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -2208,7 +2748,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T03:53:37-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -2226,7 +2766,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -2244,7 +2784,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -2262,7 +2802,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -2280,7 +2820,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -2289,16 +2829,16 @@
       ]
     },
     {
-      "id": "job_61296531e52c",
+      "id": "job_36bfda303c9e",
       "category": "intern",
       "company": "TerraByte Green",
       "role": "AI Engineering Intern",
       "location": "United States",
-      "applicationUrl": "https://go.vansh.nyc/1ry?s=y",
+      "applicationUrl": "",
       "postedDate": "2026-11-10",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -2316,7 +2856,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -2334,7 +2874,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -2352,25 +2892,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
-      "sources": [
-        {
-          "sourceId": "jobright_new_grad_2026",
-          "sourcePostedText": "Nov 10"
-        }
-      ]
-    },
-    {
-      "id": "job_1c5c7f60b500",
-      "category": "new_grad",
-      "company": "Torentify",
-      "role": "Software Developer - WFH",
-      "location": "United States",
-      "applicationUrl": "https://jobright.ai/jobs/info/6af319474ac248020e8cdc9d",
-      "postedDate": "2026-11-10",
-      "isPostedToday": true,
-      "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -2388,7 +2910,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -2406,10 +2928,28 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_e422276996aa",
+      "category": "intern",
+      "company": "Trimble",
+      "role": "Software Engineering Intern",
+      "location": "Knoxville, TN",
+      "applicationUrl": "https://go.vansh.nyc/1rP?s=y",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
           "sourcePostedText": "Nov 10"
         }
       ]
@@ -2424,7 +2964,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -2442,10 +2982,28 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_c4dec53f79f8",
+      "category": "new_grad",
+      "company": "Vizient",
+      "role": "Associate Software Engineer (Hybrid)",
+      "location": "Irving, TX, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af34bb8f6053e296fc7b14f",
+      "postedDate": "2026-11-10",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T15:07:47-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
           "sourcePostedText": "Nov 10"
         }
       ]
@@ -2460,7 +3018,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -2478,7 +3036,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -2496,7 +3054,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T08:03:39-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -2514,7 +3072,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -2532,7 +3090,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -2550,7 +3108,7 @@
       "postedDate": "2026-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-10T11:52:21-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -2568,7 +3126,7 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T19:33:40-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -2577,20 +3135,24 @@
       ]
     },
     {
-      "id": "job_fa02fad2ef64",
-      "category": "intern",
-      "company": "Art of Problem Solving",
-      "role": "Software Engineer Intern",
-      "location": "San Diego, CA",
-      "applicationUrl": "https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003",
+      "id": "job_b57400db1a15",
+      "category": "new_grad",
+      "company": "BAE Systems",
+      "role": "Engineer I – Embedded Software",
+      "location": "Broomfield, CO, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af33d394ac248020e8cef7c",
       "postedDate": "2026-11-09",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-09T19:33:40-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "firstSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
-          "sourceId": "simplify_summer_2026",
-          "sourcePostedText": "0d"
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 09"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
         }
       ]
     },
@@ -2604,7 +3166,7 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T23:31:07-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -2613,42 +3175,6 @@
         {
           "sourceId": "jobright_new_grad_2026",
           "sourcePostedText": "Nov 10"
-        }
-      ]
-    },
-    {
-      "id": "job_c1bc0d7dc474",
-      "category": "intern",
-      "company": "DreamWorks Animation",
-      "role": "Advertising &amp; Partnerships: Ad Products Intern",
-      "location": "NYC",
-      "applicationUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160686479",
-      "postedDate": "2026-11-09",
-      "isPostedToday": true,
-      "firstSeenAt": "2026-11-09T19:33:40-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
-      "sources": [
-        {
-          "sourceId": "simplify_summer_2026",
-          "sourcePostedText": "0d"
-        }
-      ]
-    },
-    {
-      "id": "job_6a04db0ce847",
-      "category": "intern",
-      "company": "DreamWorks Animation",
-      "role": "Advertising &amp; Partnerships: Data Science Intern",
-      "location": "NYC",
-      "applicationUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930",
-      "postedDate": "2026-11-09",
-      "isPostedToday": true,
-      "firstSeenAt": "2026-11-09T19:33:40-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
-      "sources": [
-        {
-          "sourceId": "simplify_summer_2026",
-          "sourcePostedText": "0d"
         }
       ]
     },
@@ -2662,7 +3188,7 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T23:31:07-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -2680,7 +3206,7 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T23:31:07-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -2698,7 +3224,7 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T19:33:40-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -2716,7 +3242,7 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T23:31:07-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -2734,11 +3260,33 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T19:33:40-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_new_grad_2026",
           "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_307f1f60754a",
+      "category": "new_grad",
+      "company": "L3Harris Technologies",
+      "role": "Associate, Software Engineering",
+      "location": "Anaheim, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af234650cb834dad9324f8f",
+      "postedDate": "2026-11-09",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-09T19:33:40-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 09"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
         }
       ]
     },
@@ -2752,7 +3300,7 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T19:33:40-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -2774,7 +3322,7 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T23:31:07-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_new_grad_2026",
@@ -2792,7 +3340,7 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T23:31:07-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -2810,11 +3358,55 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T19:33:40-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
           "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_2ad7d60c1a4b",
+      "category": "new_grad",
+      "company": "PayPal",
+      "role": "Software Engineer",
+      "location": "San Jose, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae83e99bad9293a40a44c1c",
+      "postedDate": "2026-11-09",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-09T15:48:57-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 09"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_436990931512",
+      "category": "new_grad",
+      "company": "PayPal",
+      "role": "Software Engineer",
+      "location": "San Jose, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae83e94fb2cd420ace65494",
+      "postedDate": "2026-11-09",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-09T15:48:57-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 09"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
         }
       ]
     },
@@ -2828,7 +3420,7 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T19:33:40-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -2846,7 +3438,7 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T19:33:40-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -2864,7 +3456,7 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T19:33:40-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -2882,7 +3474,7 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T23:31:07-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -2900,25 +3492,7 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T19:33:40-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
-      "sources": [
-        {
-          "sourceId": "simplify_new_grad_2026",
-          "sourcePostedText": "0d"
-        }
-      ]
-    },
-    {
-      "id": "job_7d588ca9705b",
-      "category": "new_grad",
-      "company": "S&amp;C Electric Company",
-      "role": "Software Engineer 1",
-      "location": "Chicago, IL",
-      "applicationUrl": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107444",
-      "postedDate": "2026-11-09",
-      "isPostedToday": true,
-      "firstSeenAt": "2026-11-09T19:33:40-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_new_grad_2026",
@@ -2936,7 +3510,7 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T19:33:40-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_new_grad_2026",
@@ -2954,7 +3528,7 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T19:33:40-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -2972,11 +3546,121 @@
       "postedDate": "2026-11-09",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T19:33:40-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
           "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_2767f3c96b0c",
+      "category": "new_grad",
+      "company": "Boeing",
+      "role": "Associate Software Test Engineer (P-8 Mission Systems)",
+      "location": "Kent, WA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af257ef62fb9f5fcd89719e",
+      "postedDate": "2026-11-08",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-10T08:03:39-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 08"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_46c7b9ef5b6a",
+      "category": "new_grad",
+      "company": "L3Harris Technologies",
+      "role": "Associate, Integration/Test Engineer",
+      "location": "Orange, VA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af2366562fb9f5fcd895cf4",
+      "postedDate": "2026-11-08",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-09T19:33:40-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 08"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_7f9a440bd8e0",
+      "category": "new_grad",
+      "company": "Leonardo",
+      "role": "Graduate Software Engineer",
+      "location": "Newcastle upon Tyne, England, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ad41c4c810010ec72f5d9e7",
+      "postedDate": "2026-11-08",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-08T13:15:39-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 08"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_fa9cb0d4815c",
+      "category": "new_grad",
+      "company": "Leonardo",
+      "role": "Graduate Software Engineer",
+      "location": "Edinburgh, Midlothian, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ad41c48c4290cef14130997",
+      "postedDate": "2026-11-08",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-08T13:15:39-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 08"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_b86405ef4b95",
+      "category": "new_grad",
+      "company": "LONG Building Technologies",
+      "role": "Business Applications Developer",
+      "location": "Littleton, CO, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af26a661aaffa49f7384784",
+      "postedDate": "2026-11-08",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-09T23:31:07-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 08"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
         }
       ]
     },
@@ -2990,7 +3674,51 @@
       "postedDate": "2026-11-08",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T15:48:57-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 08"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_1ad57dd8cf8a",
+      "category": "new_grad",
+      "company": "Target",
+      "role": "Android Engineer - Flagship Mobile App",
+      "location": "Brooklyn Park, MN, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af1f6770cb834dad9321716",
+      "postedDate": "2026-11-08",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-09T15:48:57-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 08"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_ad3504694fd3",
+      "category": "new_grad",
+      "company": "Target",
+      "role": "iOS Engineer – Flagship Mobile App",
+      "location": "Brooklyn Park, MN, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af225c062fb9f5fcd895171",
+      "postedDate": "2026-11-08",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-09T15:48:57-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -3012,7 +3740,7 @@
       "postedDate": "2026-11-08",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-09T23:31:07-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -3034,11 +3762,37 @@
       "postedDate": "2026-11-06",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-06T20:49:51-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
           "sourcePostedText": "Nov 06"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_8e897456b5af",
+      "category": "new_grad",
+      "company": "L3Harris Technologies",
+      "role": "Specialist, Software Engineering 1 1",
+      "location": "Salt Lake City, UT, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aee31f1e0c9de7b05f8c00a",
+      "postedDate": "2026-11-06",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-06T17:11:06-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 06"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 07"
         },
         {
           "sourceId": "jobright_new_grad_2026",
@@ -3056,7 +3810,7 @@
       "postedDate": "2026-11-06",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-06T11:59:17-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -3078,8 +3832,116 @@
       "postedDate": "2026-11-05",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-05T13:18:48-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 05"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_cc0e32227508",
+      "category": "new_grad",
+      "company": "L3Harris Technologies",
+      "role": "Associate, Software Engineering",
+      "location": "Clifton, NJ, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae8c918777c336eb6d662e6",
+      "postedDate": "2026-11-03",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-03T09:10:40-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 03"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 04"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_cf7993f7b664",
+      "category": "new_grad",
+      "company": "L3Harris Technologies",
+      "role": "Associate, Software Engineering Job Details / L3HHCM20",
+      "location": "Rochester, NY, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6adff96f0a4cc7090f985076",
+      "postedDate": "2026-11-03",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-03T09:10:40-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 03"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 04"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_56b9b05bf7e2",
+      "category": "new_grad",
+      "company": "Vizient",
+      "role": "Associate Software Engineer (Hybrid)",
+      "location": "Irving, TX, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aeba7f1a0b134121d99ce77",
+      "postedDate": "2026-11-03",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-04T17:41:32-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 03"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 04"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 05"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        }
+      ]
+    },
+    {
+      "id": "job_4514e3fb27f4",
+      "category": "new_grad",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "location": "Harpenden, Hertfordshire, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aadc0d23d96632d741afbaf",
+      "postedDate": "2026-11-02",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-02T15:14:15-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 02"
+        },
         {
           "sourceId": "jobright_new_grad_2026",
           "sourcePostedText": "Nov 05"
@@ -3100,7 +3962,7 @@
       "postedDate": "2026-10-19",
       "isPostedToday": true,
       "firstSeenAt": "2026-10-19T21:54:24-5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -3154,7 +4016,7 @@
       "postedDate": "2026-10-15",
       "isPostedToday": true,
       "firstSeenAt": "2026-10-15T13:48:48-5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -3208,7 +4070,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-10-25T06:34:30-5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3226,7 +4088,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-10-27T11:42:06-5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3244,7 +4106,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-10-27T11:42:06-5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3262,7 +4124,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-10-27T11:42:06-5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3280,7 +4142,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-10-27T11:42:06-5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3298,7 +4160,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-10-27T11:42:06-5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3316,7 +4178,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-10-27T11:42:06-5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3334,7 +4196,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-03-10T02:36:55−5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3352,7 +4214,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-07-30T17:00:30-5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3370,7 +4232,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-03-10T02:36:55−5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3388,7 +4250,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-10-25T06:34:30-5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3406,7 +4268,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-03-10T02:36:55−5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3424,7 +4286,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-10-22T05:13:35-5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3442,7 +4304,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-10-22T05:13:35-5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3460,7 +4322,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-10-22T05:13:35-5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3478,7 +4340,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-02T17:33:13-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3496,7 +4358,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-10-25T06:34:30-5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3514,7 +4376,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-02T17:33:13-6",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -3532,7 +4394,7 @@
       "postedDate": "2025-11-10",
       "isPostedToday": true,
       "firstSeenAt": "2026-03-10T02:36:55−5",
-      "lastSeenAt": "2026-11-10T11:52:21-6",
+      "lastSeenAt": "2026-11-10T15:07:47-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
