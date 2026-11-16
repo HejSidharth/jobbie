@@ -1,7 +1,943 @@
 {
-  "generatedAt": "2026-11-16T05:24:59-6",
+  "generatedAt": "2026-11-16T15:29:21-6",
   "timezone": "America/Chicago",
   "jobs": [
+    {
+      "id": "job_0960f29261c8",
+      "category": "intern",
+      "company": "🔥 Shopify",
+      "role": "Applied Machine Learning Engineer Intern",
+      "location": "Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada",
+      "applicationUrl": "https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "simplify_summer_2026",
+          "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_e3fc1826c098",
+      "category": "intern",
+      "company": "🔥 Shopify",
+      "role": "Data Intern",
+      "location": "4 locations Montreal, QC, Canada, Toronto, ON, Canada, NYC, Ottawa, ON, Canada",
+      "applicationUrl": "https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "simplify_summer_2026",
+          "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_4f4c9759a31c",
+      "category": "intern",
+      "company": "🔥 Shopify",
+      "role": "Software Engineer Intern",
+      "location": "Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada",
+      "applicationUrl": "https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "simplify_summer_2026",
+          "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_c16c03bd5aaf",
+      "category": "new_grad",
+      "company": "Accenture",
+      "role": "Birmingham Software Engineering Graduate Programme 2027 - 2028",
+      "location": "Birmingham, England, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ad5f80967bec1d0d9c6a0db",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_90d5e87dc0f2",
+      "category": "new_grad",
+      "company": "Accenture",
+      "role": "Bristol Software Engineering Graduate Programme 2027 - 2028",
+      "location": "Bristol, England, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ac366e8d9621c5b2839c950",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_070a7da3d886",
+      "category": "new_grad",
+      "company": "Accenture",
+      "role": "Glasgow Software Engineering Graduate Programme 2027 - 2028",
+      "location": "Glasgow, Scotland, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ac366e24ac55253f5d6de2d",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_ce4427c70556",
+      "category": "new_grad",
+      "company": "Accenture",
+      "role": "Leeds Software Engineering Graduate Programme 2027 - 2028",
+      "location": "Leeds, England, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ac366e3d9621c5b2839c94e",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_4167776fdffa",
+      "category": "new_grad",
+      "company": "Accenture",
+      "role": "Newcastle Software Engineering Graduate Programme 2027 - 2028",
+      "location": "Newcastle upon Tyne, England, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ac366e2d9621c5b2839c94d",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_34c3f38b6189",
+      "category": "new_grad",
+      "company": "Accenture",
+      "role": "Newcastle Technology Analyst Graduate Programme 2027 - 2028",
+      "location": "Newcastle upon Tyne, England, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ac366d08ff3fb9b3bc80f7e",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_d361ce0b7ec7",
+      "category": "new_grad",
+      "company": "Addepar",
+      "role": "Addegrad - Client Solutions Analyst (NYC) - 2027",
+      "location": "New York, NY, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb2800317abe715a26113d",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_52478d3cf8a6",
+      "category": "intern",
+      "company": "Addepar",
+      "role": "Technical Product Management Intern - ADX",
+      "location": "NYC",
+      "applicationUrl": "https://job-boards.greenhouse.io/addepar1/jobs/8910324002",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "simplify_summer_2026",
+          "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_010db41a604f",
+      "category": "new_grad",
+      "company": "Adobe",
+      "role": "2027 University Graduate - Enterprise Architecture Analyst",
+      "location": "New York, NY, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb45fe5305ed998d91bcc3",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_9d6275323547",
+      "category": "new_grad",
+      "company": "Ahold Delhaize USA",
+      "role": "Fall Software Engineer Co-op",
+      "location": "Quincy, MA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb2ca57f9ead6668e9f05d",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_f0d059204c39",
+      "category": "new_grad",
+      "company": "Amazon",
+      "role": "Software Privacy Engineer, Trust Platform & Automation, Devices & Services Trust, Privacy, and Accessibility (TPA)",
+      "location": "Bellevue, WA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aa53440930bff471a29dadd",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_924325fd49ca",
+      "category": "new_grad",
+      "company": "Amentum",
+      "role": "Entry Level Software Engineer - SECRET",
+      "location": "Dahlgren, VA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb39ba484fef921e0490f3",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_502753741319",
+      "category": "new_grad",
+      "company": "American Express",
+      "role": "Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- Toronto, Ontario, Canada",
+      "location": "Toronto, ON, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb16c85305ed998d919b4c",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_4ad27e56b5f9",
+      "category": "new_grad",
+      "company": "American Express",
+      "role": "Campus Undergraduate Full-Time Engineer - Software Engineer 1",
+      "location": "Toronto, ON, Canada",
+      "applicationUrl": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "simplify_new_grad_2026",
+          "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_d3efda2152c5",
+      "category": "new_grad",
+      "company": "Arup",
+      "role": "ITS Engineer",
+      "location": "Seattle, Washington, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afaf43f484fef921e0469ac",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_21de505cff2d",
+      "category": "new_grad",
+      "company": "Axon",
+      "role": "Embedded Software Engineer I",
+      "location": "Seattle, Washington, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb4bed7d1820d918c288d8",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_c2665904102c",
+      "category": "intern",
+      "company": "Boston Scientific",
+      "role": "AI Acceleration Intern",
+      "location": "Marlborough, MA",
+      "applicationUrl": "https://bostonscientific.eightfold.ai/careers/job/563602813862390",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "simplify_summer_2026",
+          "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_65956da03407",
+      "category": "intern",
+      "company": "Boston Scientific",
+      "role": "AI Acceleration Intern 🛂",
+      "location": "Marlborough, MA",
+      "applicationUrl": "https://go.vansh.nyc/1Aa?s=y",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_3971964fb722",
+      "category": "intern",
+      "company": "Boston Scientific",
+      "role": "AI Engineer Intern - Generative &amp; Agentic AI",
+      "location": "Marlborough, MA, Maple Grove, MN, Arden Hills, MN",
+      "applicationUrl": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "simplify_summer_2026",
+          "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_c855d4f092ab",
+      "category": "intern",
+      "company": "Boston Scientific",
+      "role": "AI Engineering Intern, Generative and Agentic AI 🛂",
+      "location": "Marlborough, MA",
+      "applicationUrl": "https://go.vansh.nyc/1A8?s=y",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_86c5434755af",
+      "category": "new_grad",
+      "company": "Bracebridge Capital",
+      "role": "Northeastern University Software Engineer - Business Intelligence Co-op",
+      "location": "Boston, MA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ad634fd950ef68d51837139",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_b0caa0185127",
+      "category": "new_grad",
+      "company": "Brivo",
+      "role": "Engineer - Embedded",
+      "location": "Lehi, UT, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb1f7b317abe715a260c85",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_452e050ce414",
+      "category": "new_grad",
+      "company": "DoorDash",
+      "role": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
+      "location": "Los Angeles, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ab1263d32552369083e07a4",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_00c54ee48954",
+      "category": "new_grad",
+      "company": "EllisDon",
+      "role": "Software Solutions Specialist",
+      "location": "Mississauga, ON, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb1860484fef921e047814",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_361fc9ad8ea2",
+      "category": "new_grad",
+      "company": "Esri",
+      "role": "Software Development Engineer in Test I (SDET) – ArcGIS Enterprise",
+      "location": "Redlands, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb50be5305ed998d91c5e4",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_1eca97604dd5",
+      "category": "new_grad",
+      "company": "Fidelity Canada",
+      "role": "Software Developer",
+      "location": "Toronto, Ontario, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae292941f9d9308370b30b0",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_22d4d87b1e10",
+      "category": "new_grad",
+      "company": "Fortinet",
+      "role": "Early Careers: Embedded Software Engineer",
+      "location": "Sunnyvale, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb3e355305ed998d91b832",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_a5916df8e9b1",
+      "category": "new_grad",
+      "company": "Fortinet",
+      "role": "Early Careers: Software Engineer",
+      "location": "Sunnyvale, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb59f37d1820d918c293d3",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_19abb372fcac",
+      "category": "new_grad",
+      "company": "Gemba Advantage",
+      "role": "Software Engineer",
+      "location": "Manchester (Hybrid)",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a29b838d3ec8317fe1400c5",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_3cd14f8e4475",
+      "category": "new_grad",
+      "company": "Gemba Advantage",
+      "role": "Software Engineer",
+      "location": "Manchester (Hybrid)",
+      "applicationUrl": "https://jobright.ai/jobs/info/69ea73c67820c036924ee039",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_0e3890f40af9",
+      "category": "new_grad",
+      "company": "Gemba Advantage",
+      "role": "Software Engineer",
+      "location": "Manchester (Hybrid)",
+      "applicationUrl": "https://jobright.ai/jobs/info/69fa4b0bb1fc847fc1aef7e4",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_f39f8175b8c9",
+      "category": "new_grad",
+      "company": "Good Energy",
+      "role": "Junior Full Stack Developer",
+      "location": "Chippenham, Wiltshire, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb1a3d317abe715a2609c7",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_8ee5369d043d",
+      "category": "new_grad",
+      "company": "Grubhub",
+      "role": "NetSuite Engineer, Finance Systems",
+      "location": "Chicago, IL, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ad8c83139284cd524280336",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_0afa178d43de",
+      "category": "new_grad",
+      "company": "Hewlett Packard Enterprise",
+      "role": "Cloud Engineer Graduate",
+      "location": "Spring, Texas, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ab715ae62bb1fbd451dd0c4",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_7d9eaab0d901",
+      "category": "new_grad",
+      "company": "Hewlett Packard Enterprise",
+      "role": "Cloud Engineer Graduate",
+      "location": "Spring, Texas, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ac992d3c3a8af9c54a0b23b",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_c6c97bd983d3",
+      "category": "new_grad",
+      "company": "Hewlett Packard Enterprise",
+      "role": "Cloud Engineer Graduate",
+      "location": "Spring, TX, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a91e324c12c90443efc8a6f",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_07a25e55ff57",
+      "category": "new_grad",
+      "company": "Hewlett Packard Enterprise",
+      "role": "Embedded Software Test Engineer Graduate",
+      "location": "Spring, TX, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aa47432422289703bd66a99",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_eb55ae077e7f",
+      "category": "new_grad",
+      "company": "Hewlett Packard Enterprise",
+      "role": "Firmware Engineer Graduate",
+      "location": "Spring, TX, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a91dc4dd18f75674827a869",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_e6b6c3f9573d",
+      "category": "new_grad",
+      "company": "Hewlett Packard Enterprise",
+      "role": "Firmware Engineer Graduate",
+      "location": "Spring, Texas, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ac9931ad4a5a03707412bd0",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_a72d2231f9f1",
+      "category": "new_grad",
+      "company": "Hewlett Packard Enterprise",
+      "role": "Firmware Engineer Graduate",
+      "location": "Spring, Texas, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ab715e539fd8792cb73d41e",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_b162ad5de86f",
+      "category": "new_grad",
+      "company": "Hewlett Packard Enterprise",
+      "role": "Software Engineer 2 – Wireless Access Point Development",
+      "location": "Cupertino, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aebf99f55daad9c1f5469ee",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_31dbbded3ffb",
+      "category": "new_grad",
+      "company": "Hewlett Packard Enterprise",
+      "role": "Software Engineer Graduate",
+      "location": "Spring, Texas, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ab715e5ba1c25652c6112d1",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_da3d34dc0135",
+      "category": "new_grad",
+      "company": "Hewlett Packard Enterprise",
+      "role": "Software Engineer Graduate",
+      "location": "Spring, TX, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a91dc73c12c90443efc8936",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_3480fafdb1e1",
+      "category": "new_grad",
+      "company": "Hewlett Packard Enterprise",
+      "role": "Software Engineer Graduate",
+      "location": "Spring, Texas, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ac993146355f8776ff196ac",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_a0911a900ac5",
+      "category": "intern",
+      "company": "i3",
+      "role": "Embedded Systems Reverse Engineer Intern 🇺🇸",
+      "location": "Washington, DC",
+      "applicationUrl": "https://go.vansh.nyc/1Af?s=y",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_1eee08043589",
+      "category": "new_grad",
+      "company": "IBM",
+      "role": "Application Developer-Cloud FullStack",
+      "location": "Paramus, NJ, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb17437f9ead6668e9e212",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_b296858335c1",
+      "category": "new_grad",
+      "company": "iCapital",
+      "role": "Python Engineer and Developer - Associate",
+      "location": "Stamford, CT, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a88c600d34f700f87fca7d2",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_a458d142f24b",
+      "category": "new_grad",
+      "company": "Infosys",
+      "role": "Genesys Cloud CX Engineer",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb49327f9ead6668ea06f4",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_6df6cb876774",
+      "category": "new_grad",
+      "company": "Infosys",
+      "role": "Specialist Programmer (Dec 2025-Aug 2027)",
+      "location": "Raleigh, NC, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ae8d815fb2cd420ace6954b",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
     {
       "id": "job_25c21003238b",
       "category": "intern",
@@ -12,11 +948,47 @@
       "postedDate": "2026-11-16",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-16T05:24:59-6",
-      "lastSeenAt": "2026-11-16T05:24:59-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
           "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_28871a4d9463",
+      "category": "intern",
+      "company": "JP Morgan Chase",
+      "role": "Consumer &amp; Community Banking Intern 🎓",
+      "location": "Palo Alto, CA, Columbus, OH, NYC",
+      "applicationUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807923",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "simplify_summer_2026",
+          "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_a20e0cf5128c",
+      "category": "intern",
+      "company": "M3 USA",
+      "role": "Quality Engineering Intern, SDET",
+      "location": "Lawrenceville, GA",
+      "applicationUrl": "https://go.vansh.nyc/1An?s=y",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 16"
         }
       ]
     },
@@ -30,10 +1002,136 @@
       "postedDate": "2026-11-16",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-16T04:27:43-6",
-      "lastSeenAt": "2026-11-16T05:24:59-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_b6313dc5483a",
+      "category": "new_grad",
+      "company": "Momentum",
+      "role": "New Grad 2027: Associate Cybersecurity Analyst",
+      "location": "Dallas, TX",
+      "applicationUrl": "https://go.vansh.nyc/1Ak?s=A",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "vansh_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_959176b2f330",
+      "category": "intern",
+      "company": "NBCUniversal",
+      "role": "Digital Transformation AR/VR Intern",
+      "location": "Universal City, CA",
+      "applicationUrl": "https://go.vansh.nyc/1Ai?s=y",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_ed839e55099d",
+      "category": "new_grad",
+      "company": "NCR Atleos",
+      "role": "Junior Software Engineer",
+      "location": "Dundee, Scotland, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afadc977f9ead6668e9cd13",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_d71ae5a84ddb",
+      "category": "new_grad",
+      "company": "Netrolynx AI",
+      "role": "Software Engineer",
+      "location": "Maryland Heights, MO, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb59e4484fef921e04a83e",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_b78accc9193e",
+      "category": "new_grad",
+      "company": "Netrolynx AI",
+      "role": "Software Engineer",
+      "location": "Maryland Heights, MO, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb0edb7d1820d918c25f65",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_50bdbae66490",
+      "category": "new_grad",
+      "company": "NeuroTechX",
+      "role": "Embedded Software Engineer, Implant Embedded Systems",
+      "location": "South San Francisco, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb27585305ed998d91a43a",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_787a301ab55f",
+      "category": "new_grad",
+      "company": "Nokia",
+      "role": "Firmware Engineer",
+      "location": "Ottawa, ON, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb55ab484fef921e04a5ac",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
           "sourcePostedText": "Nov 16"
         }
       ]
@@ -48,7 +1146,7 @@
       "postedDate": "2026-11-16",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-16T05:24:59-6",
-      "lastSeenAt": "2026-11-16T05:24:59-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
@@ -66,7 +1164,241 @@
       "postedDate": "2026-11-16",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-16T05:24:59-6",
-      "lastSeenAt": "2026-11-16T05:24:59-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_1e3030827f99",
+      "category": "new_grad",
+      "company": "Onyx Point, LLC.",
+      "role": "Software Engineer 0/1 -BY-ABY-07",
+      "location": "Hanover, MD, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb2b01317abe715a26144b",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_2d7f285d16ef",
+      "category": "intern",
+      "company": "Pacific Fusion",
+      "role": "HPC/DevOps Engineering Intern",
+      "location": "San Leandro, CA",
+      "applicationUrl": "https://go.vansh.nyc/1Ao?s=y",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_dd5ca243c3d0",
+      "category": "new_grad",
+      "company": "Passport Technology",
+      "role": "Software Tester",
+      "location": "Las Vegas, NV, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb2669317abe715a261050",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_e19233887e6d",
+      "category": "new_grad",
+      "company": "Paychex",
+      "role": "Software Engineer I",
+      "location": "Webster, NY, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb5118317abe715a2632a5",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_b40dd08b4fe3",
+      "category": "new_grad",
+      "company": "Peraton",
+      "role": "Jr Software Engineer TS/SCI with Poly",
+      "location": "Annapolis Junction, MD, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a4fa53dfc327f422fef5e6e",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_1700ca19f8af",
+      "category": "new_grad",
+      "company": "Pylon",
+      "role": "Software Engineer, New Grad",
+      "location": "San Francisco, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a4fe2de9469c0662034f404",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_927f86055253",
+      "category": "intern",
+      "company": "Robert Bosch Venture Capital",
+      "role": "Data Analyst &amp; Marketing/Sales Intern",
+      "location": "Denham, UK",
+      "applicationUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000161793229",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "simplify_summer_2026",
+          "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_3dfc2c304e3b",
+      "category": "new_grad",
+      "company": "RTX",
+      "role": "Embedded Software Engineer I, Onsite",
+      "location": "Cedar Rapids, IA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb1e377d1820d918c26796",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_627ad9860ce4",
+      "category": "intern",
+      "company": "Schonfeld",
+      "role": "Cybersecurity Operations Intern",
+      "location": "New York, NY",
+      "applicationUrl": "https://go.vansh.nyc/1Aj?s=y",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_d8ce533d6c0b",
+      "category": "intern",
+      "company": "SharkNinja",
+      "role": "Electrical Engineer Intern",
+      "location": "London, UK",
+      "applicationUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726669006",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "simplify_summer_2026",
+          "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_588b63efd56d",
+      "category": "intern",
+      "company": "Shopify",
+      "role": "Applied Machine Learning Engineer Intern",
+      "location": "Montreal, Canada, Toronto, Canada, Ottawa, Canada",
+      "applicationUrl": "https://go.vansh.nyc/1Ae?s=y",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_0eac59a7d445",
+      "category": "intern",
+      "company": "Shopify",
+      "role": "Data Intern",
+      "location": "4 locations Montreal, Canada, Toronto, Canada, New York, NY, Ottawa, Canada",
+      "applicationUrl": "https://go.vansh.nyc/1Ad?s=y",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "vansh_summer_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_48f6c8ef0bad",
+      "category": "intern",
+      "company": "Shopify",
+      "role": "Software Engineer Intern",
+      "location": "Montreal, Canada, Toronto, Canada, Ottawa, Canada",
+      "applicationUrl": "https://go.vansh.nyc/1Ac?s=y",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
       "sources": [
         {
           "sourceId": "vansh_summer_2026",
@@ -84,7 +1416,7 @@
       "postedDate": "2026-11-16",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-16T05:24:59-6",
-      "lastSeenAt": "2026-11-16T05:24:59-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
       "sources": [
         {
           "sourceId": "jobright_new_grad_2026",
@@ -93,74 +1425,168 @@
       ]
     },
     {
-      "id": "job_11dec3b7b362",
-      "category": "intern",
-      "company": "Fanatics",
-      "role": "People Intelligence Intern",
-      "location": "NYC",
-      "applicationUrl": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4505998009",
-      "postedDate": "2026-11-15",
+      "id": "job_05d67a4e13b3",
+      "category": "new_grad",
+      "company": "SoFi Tech Solutions",
+      "role": "Software Technical Analyst",
+      "location": "United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb4a7d484fef921e049cac",
+      "postedDate": "2026-11-16",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-15T11:44:01-6",
-      "lastSeenAt": "2026-11-16T05:24:59-6",
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
       "sources": [
         {
-          "sourceId": "simplify_summer_2026",
-          "sourcePostedText": "0d"
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
         }
       ]
     },
     {
-      "id": "job_39c3502ce108",
-      "category": "intern",
-      "company": "Fanatics",
-      "role": "Product Intern",
-      "location": "NYC",
-      "applicationUrl": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009",
-      "postedDate": "2026-11-15",
+      "id": "job_40687a739b03",
+      "category": "new_grad",
+      "company": "Stripe",
+      "role": "Software Engineer, New Grad",
+      "location": "London, England, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ace5c34680c80c8753bc333",
+      "postedDate": "2026-11-16",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-15T11:44:01-6",
-      "lastSeenAt": "2026-11-16T05:24:59-6",
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
       "sources": [
         {
-          "sourceId": "simplify_summer_2026",
-          "sourcePostedText": "0d"
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
         }
       ]
     },
     {
-      "id": "job_ca83dfe02f1e",
-      "category": "intern",
-      "company": "Fanatics",
-      "role": "Product Intern - Physical Trading Cards",
-      "location": "Coppell, TX",
-      "applicationUrl": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009",
-      "postedDate": "2026-11-15",
+      "id": "job_696595ba3d55",
+      "category": "new_grad",
+      "company": "Symbotic",
+      "role": "Software Engineer, Core Systems & Platform Services",
+      "location": "Wilmington, MA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb3931484fef921e04908b",
+      "postedDate": "2026-11-16",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-15T11:44:01-6",
-      "lastSeenAt": "2026-11-16T05:24:59-6",
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
       "sources": [
         {
-          "sourceId": "simplify_summer_2026",
-          "sourcePostedText": "0d"
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
         }
       ]
     },
     {
-      "id": "job_db7215d5148a",
-      "category": "intern",
-      "company": "Fanatics",
-      "role": "Product Management Intern",
-      "location": "Seattle, WA",
-      "applicationUrl": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009",
-      "postedDate": "2026-11-15",
+      "id": "job_ace6fc3eb1d2",
+      "category": "new_grad",
+      "company": "The D. E. Shaw Group",
+      "role": "Software Developer",
+      "location": "New York, NY, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/69a819d21dfc787e9aa348fa",
+      "postedDate": "2026-11-16",
       "isPostedToday": true,
-      "firstSeenAt": "2026-11-15T11:44:01-6",
-      "lastSeenAt": "2026-11-16T05:24:59-6",
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
       "sources": [
         {
-          "sourceId": "simplify_summer_2026",
-          "sourcePostedText": "0d"
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_97ded28c7313",
+      "category": "new_grad",
+      "company": "The University of Texas at Dallas",
+      "role": "Cloud Engineer I",
+      "location": "Richardson, TX, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb58807d1820d918c2931c",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_7ed837a8a813",
+      "category": "new_grad",
+      "company": "Wonder",
+      "role": "NetSuite Engineer, Finance Systems",
+      "location": "Chicago, IL, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ad8de4e950ef68d5184ae5c",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_de9854b7e6f4",
+      "category": "new_grad",
+      "company": "X-on Health",
+      "role": "Graduate Software Engineer",
+      "location": "Melton, England, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ad61fb367bec1d0d9c6b4a3",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_769a2b0221b4",
+      "category": "new_grad",
+      "company": "Xennial",
+      "role": "Associate Full Stack Engineer",
+      "location": "North York, ON, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afb34f17d1820d918c2798e",
+      "postedDate": "2026-11-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T15:29:21-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_57c2d74931f2",
+      "category": "new_grad",
+      "company": "NCR Atleos",
+      "role": "Junior Software Engineer",
+      "location": "Dundee, Scotland, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6afacf9a08edce8b5f75aea6",
+      "postedDate": "2026-11-15",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-16T05:24:59-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 15"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
         }
       ]
     },
@@ -174,11 +1600,677 @@
       "postedDate": "2026-11-15",
       "isPostedToday": true,
       "firstSeenAt": "2026-11-15T18:35:44-6",
-      "lastSeenAt": "2026-11-16T05:24:59-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
       "sources": [
         {
           "sourceId": "simplify_summer_2026",
           "sourcePostedText": "0d"
+        }
+      ]
+    },
+    {
+      "id": "job_be001d148de7",
+      "category": "new_grad",
+      "company": "Gemba Advantage",
+      "role": "Software Engineer",
+      "location": "Manchester, Greater Manchester, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a55cf9cfdf4fa71202b58a3",
+      "postedDate": "2026-11-14",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-15T04:15:11-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 14"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_2d4cb767fe97",
+      "category": "new_grad",
+      "company": "Gemba Advantage",
+      "role": "Software Engineer",
+      "location": "Cheltenham, England, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ad203ae83ada13a9da02b8a",
+      "postedDate": "2026-11-13",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-13T15:07:05-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 13"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_32eaae0fdddb",
+      "category": "new_grad",
+      "company": "Hewlett Packard Enterprise",
+      "role": "Storage Systems/Software Engineer",
+      "location": "Andover, MA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aee206be0c9de7b05f8a91d",
+      "postedDate": "2026-11-13",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-13T21:18:36-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 13"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_a45505a2e0c5",
+      "category": "new_grad",
+      "company": "Intuitive Machines",
+      "role": "Simulation Software Engineer",
+      "location": "San Jose, CA, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6ad64c903dc655658d8e4483",
+      "postedDate": "2026-11-13",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-13T10:27:40-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 13"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 14"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_e628f65082d6",
+      "category": "new_grad",
+      "company": "Andrew Morgan",
+      "role": "Federal OneStream Developer",
+      "location": "Tampa, FL, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af639d6323c531f31e311b2",
+      "postedDate": "2026-11-12",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-12T18:27:38-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 12"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_31743b77d275",
+      "category": "new_grad",
+      "company": "EY",
+      "role": "Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio",
+      "location": "Raleigh, NC, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af7dd8034e2d29dcb751c88",
+      "postedDate": "2026-11-12",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-15T04:15:11-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 12"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_70fc15ca969b",
+      "category": "new_grad",
+      "company": "Pontosense",
+      "role": "Junior Solutions Engineer",
+      "location": "Kitchener, ON, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af5c165a4a5218a07e7fefc",
+      "postedDate": "2026-11-12",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-12T12:59:19-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 12"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_428565096833",
+      "category": "new_grad",
+      "company": "Pontosense",
+      "role": "Junior Solutions Engineer",
+      "location": "Toronto, ON, Canada",
+      "applicationUrl": "https://jobright.ai/jobs/info/6af5c15a79862a378dced6e3",
+      "postedDate": "2026-11-12",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-12T12:59:19-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 12"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_4514e3fb27f4",
+      "category": "new_grad",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "location": "Harpenden, Hertfordshire, United Kingdom",
+      "applicationUrl": "https://jobright.ai/jobs/info/6aadc0d23d96632d741afbaf",
+      "postedDate": "2026-11-02",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-11-02T15:14:15-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 02"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 05"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 15"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        }
+      ]
+    },
+    {
+      "id": "job_6338b143b7fa",
+      "category": "new_grad",
+      "company": "Albertsons Companies",
+      "role": "Front End Entry Level",
+      "location": "Bolingbrook, IL, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a7150ac9a0ca4480c7d3d50",
+      "postedDate": "2026-09-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-16T17:57:37-5",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 01"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 02"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 03"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 04"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 05"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 06"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 07"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 08"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 09"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 11"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 12"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 14"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 15"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 01"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 02"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 03"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 06"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 07"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 08"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 09"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 10"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 11"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 12"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 13"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 14"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 15"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 16"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 17"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 19"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 20"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 21"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 22"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 24"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 25"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 26"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 27"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 28"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 29"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 30"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 31"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 16"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 17"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 20"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 21"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 22"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 23"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 24"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 25"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 27"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 29"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 30"
+        }
+      ]
+    },
+    {
+      "id": "job_e3b61e31f77a",
+      "category": "new_grad",
+      "company": "Albertsons Companies",
+      "role": "Front End Entry Level",
+      "location": "Joliet, IL, United States",
+      "applicationUrl": "https://jobright.ai/jobs/info/6a7379276a034212ea027be3",
+      "postedDate": "2026-09-16",
+      "isPostedToday": true,
+      "firstSeenAt": "2026-09-16T17:57:37-5",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
+      "sources": [
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 01"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 02"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 03"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 04"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 05"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 06"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 08"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 09"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 10"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 11"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 12"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 14"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 15"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Nov 16"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 01"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 02"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 03"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 06"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 07"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 08"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 09"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 10"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 11"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 12"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 13"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 14"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 15"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 16"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 17"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 19"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 20"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 21"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 22"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 23"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 24"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 27"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 28"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 29"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 30"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Oct 31"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 16"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 17"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 18"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 20"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 22"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 23"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 24"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 25"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 27"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 28"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 29"
+        },
+        {
+          "sourceId": "jobright_new_grad_2026",
+          "sourcePostedText": "Sep 30"
         }
       ]
     },
@@ -192,7 +2284,7 @@
       "postedDate": "2025-11-16",
       "isPostedToday": true,
       "firstSeenAt": "2026-10-22T05:13:35-5",
-      "lastSeenAt": "2026-11-16T05:24:59-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -210,7 +2302,7 @@
       "postedDate": "2025-11-16",
       "isPostedToday": true,
       "firstSeenAt": "2026-10-22T05:13:35-5",
-      "lastSeenAt": "2026-11-16T05:24:59-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
@@ -228,7 +2320,7 @@
       "postedDate": "2025-11-16",
       "isPostedToday": true,
       "firstSeenAt": "2026-03-10T02:36:55−5",
-      "lastSeenAt": "2026-11-16T05:24:59-6",
+      "lastSeenAt": "2026-11-16T15:29:21-6",
       "sources": [
         {
           "sourceId": "vansh_new_grad_2026",
